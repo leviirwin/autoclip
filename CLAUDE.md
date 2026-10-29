@@ -32,8 +32,11 @@ because the Claude cloud session can't reach YouTube. You only read the transcri
 6. **Deliver.** The clips and `captions.md` are on the release
    `https://github.com/leviirwin/autoclip/releases/tag/clips-<name>`. Send the user that link.
 
-If a YouTube download fails on GitHub (YouTube sometimes blocks data-centre IPs), ask the
-user to put the file in Google Drive, share it as "Anyone with the link", and use that link.
+If a YouTube download fails on GitHub with "Sign in to confirm you're not a bot", YouTube
+is blocking GitHub's servers. The fix is the `YT_COOKIES` repo secret: the contents of a
+cookies.txt exported from a browser signed in to a spare Google account (not the user's
+main one). Until then, ask the user to put the file in Google Drive, share it as "Anyone
+with the link", and use that link.
 
 ### Running locally instead
 

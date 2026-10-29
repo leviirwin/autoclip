@@ -34,6 +34,16 @@ jobs:
           cache: pip
       - run: sudo apt-get -qq update && sudo apt-get -qq install -y ffmpeg
       - run: pip install -q -r requirements.txt
+      # yt-dlp needs a JavaScript runtime to solve YouTube's player challenges.
+      - uses: denoland/setup-deno@v2
+      - name: YouTube cookies (optional secret YT_COOKIES)
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+        run: |
+          if [ -n "$YT_COOKIES" ]; then
+            printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"
+            echo "AUTOCLIP_COOKIES=$RUNNER_TEMP/cookies.txt" >> "$GITHUB_ENV"
+          fi
       - name: Cache the source video for the render step
         uses: actions/cache@v4
         with:
