@@ -27,7 +27,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #dating #relationships #attachment
 
-## 04-the-rule-that-fixed-his-love-life.mp4 (70s)
+## 04-the-rule-that-fixed-his-love-life.mp4 (62s)
 
 At 27 Mark Manson made himself one promise: if there's no problem, don't create one. Then he met his wife.
 
@@ -63,7 +63,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #marriage #relationships #family
 
-## 08-what-his-grandma-said-about-his-breakup.mp4 (54s)
+## 08-what-his-grandma-said-about-his-breakup.mp4 (60s)
 
 Mark Manson told his grandma about the girl who cheated on him and left. She said: that's wonderful.
 
@@ -162,7 +162,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #family #parenting #shame
 
-## 19-trying-to-prove-who-you-were-in-high-sch.mp4 (43s)
+## 19-trying-to-prove-who-you-were-in-high-sch.mp4 (38s)
 
 Mark Manson was the geeky kid pushed into lockers. He thinks part of his career is still that kid asking to be liked.
 
@@ -198,7 +198,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #socialmedia #values #selfimprovement
 
-## 23-why-does-he-have-more-followers-than-me.mp4 (39s)
+## 23-why-does-he-have-more-followers-than-me.mp4 (44s)
 
 Mark Manson catches himself asking why someone else has three million followers. Then he asks how old he is.
 
