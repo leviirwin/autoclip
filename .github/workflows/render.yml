@@ -75,7 +75,7 @@ jobs:
         if: always()
         run: |
           d=~/autoclip-work/$NAME
-          tools/save_to_episodes.sh "$NAME" "Rendered: $NAME" $d/*.preview.jpg $d/out/captions.md
+          tools/save_to_episodes.sh "$NAME" "Rendered: $NAME" $d/*.preview.jpg $d/out/captions.md $d/broll.txt
           tag=clips-$NAME
           gh release view "$tag" >/dev/null 2>&1 || \
             gh release create "$tag" --target main --title "Clips: $NAME" --notes-file $d/out/captions.md
