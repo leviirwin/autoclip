@@ -17,7 +17,9 @@ because the Claude cloud session can't reach YouTube. You only read the transcri
 1. **Transcribe.** Trigger the `transcribe` workflow (GitHub MCP `actions_run_trigger`,
    workflow `transcribe.yml`, ref `main`) with inputs `url` (YouTube link, or a Google Drive
    link shared as "Anyone with the link"), `name`, and optionally `section`
-   (`HH:MM:SS-HH:MM:SS`) to fetch only part of a long episode. An hour of audio takes
+   (`HH:MM:SS-HH:MM:SS`) to fetch only part of a long episode, and `names`: the guest,
+   hosts, companies and other proper nouns in the episode, comma separated, so Whisper
+   spells them right. An hour of audio takes
    roughly 30 to 60 minutes on GitHub's runners. Don't poll in a loop: check the run once
    after a sensible wait, or schedule a reminder.
 2. **Read.** `git fetch origin episodes` then
@@ -96,6 +98,9 @@ be exact: the renderer snaps to whole words and adds a small lead-in and tail.
   it out for no box; add `"hook_seconds": 3` to show it only at the start.
 - `emphasis`: 2 to 5 key words from the clip (a number, the topic, a strong word) that
   show bigger and in green whenever they are on screen. Optional.
+- `corrections` (top level, optional): `{"misheard": "Right"}` single-word fixes applied
+  to the captions. Check names and numbers in the transcript and fix any Whisper got
+  wrong; campaigns reject clips with wrong names.
 - `caption` / `hashtags`: written to `captions.md` for the user to paste. 3 to 6 hashtags.
 - Always credit the creator in the caption; check the user's clipping-program rules for
   required tags.

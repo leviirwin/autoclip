@@ -9,12 +9,15 @@ MAX_LINE_WORDS = 22
 PAUSE_BREAK = 0.8
 
 
-def transcribe(video_path, out_dir, model_size="small", language="en"):
+def transcribe(video_path, out_dir, model_size="small", language="en", names=None):
     from faster_whisper import WhisperModel
 
     model = WhisperModel(model_size, device="cpu", compute_type="int8")
     segments, info = model.transcribe(
         load_audio(video_path), language=language, word_timestamps=True, vad_filter=True,
+        # Whisper copies the spelling of names it has seen in the prompt.
+        initial_prompt=f"A podcast with {names}." if names else None,
+        hotwords=names or None,
     )
     words = []
     for seg in segments:

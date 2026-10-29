@@ -78,3 +78,10 @@ def test_emphasis_words_are_coloured():
     words = words_from("this changed everything for me", start=0)
     ass = build_ass(words, 0, 3, emphasis=["Everything"])
     assert "&H0084DC3D&" in ass
+
+
+def test_corrections_fix_words_and_keep_punctuation():
+    from autoclip.cli import apply_corrections
+    words = words_from("Greg Lavecia, built bloom.")
+    fixed = apply_corrections(words, {"lavecia": "LaVecchia", "Bloom": "Bloom"})
+    assert [w["word"] for w in fixed] == ["Greg", "LaVecchia,", "built", "Bloom."]

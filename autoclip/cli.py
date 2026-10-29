@@ -51,8 +51,20 @@ def cmd_transcribe(args):
 
     d = episode_dir(args.name)
     model = args.model or (str(LOCAL_MODEL) if LOCAL_MODEL.exists() else "small")
-    words, lines = transcribe(source_video(d), d, model)
+    words, lines = transcribe(source_video(d), d, model, names=args.names)
     print(f"{len(words)} words, {len(lines)} lines -> {d / 'transcript.txt'}")
+
+
+def apply_corrections(words, corrections):
+    """Fix misheard words in the captions: {"lavecia": "LaVecchia"}, matched ignoring case
+    and punctuation; the word's own punctuation is kept."""
+    fixes = {k.lower(): v for k, v in corrections.items()}
+    out = []
+    for w in words:
+        core = w["word"].strip(".,?!;:\"'")
+        fix = fixes.get(core.lower())
+        out.append(dict(w, word=w["word"].replace(core, fix)) if fix and core else w)
+    return out
 
 
 def cmd_render(args):
@@ -60,6 +72,7 @@ def cmd_render(args):
     video = source_video(d)
     words = json.loads((d / "transcript.json").read_text())["words"]
     spec = json.loads((d / "clips.json").read_text())
+    words = apply_corrections(words, spec.get("corrections", {}))
     clips = spec["clips"]
     out = d / "out"
     out.mkdir(parents=True, exist_ok=True)
@@ -109,6 +122,7 @@ def main():
     t.add_argument("name")
     t.add_argument("--model", help="whisper size (tiny, base, small, medium) or model folder; "
                    "default: models/whisper-small from setup.sh")
+    t.add_argument("--names", help='names and terms to spell right, e.g. "Greg LaVecchia, Bloom"')
     t.set_defaults(func=cmd_transcribe)
 
     r = sub.add_parser("render", help="render the clips listed in clips.json")
