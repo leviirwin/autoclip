@@ -1,6 +1,6 @@
 # Clips from icedcoffee-greglav
 
-## 01-kicked-out-of-td-bank.mp4 (56s)
+## 01-kicked-out-of-td-bank.mp4 (62s)
 
 Greg LaVecchia withdrew cash every day from a student account until the bank kicked him out. Then Mari put $40K cash on the counter at Chase.
 
@@ -9,7 +9,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #entrepreneur #business
 
-## 02-paid-target-a-million-dollars.mp4 (45s)
+## 02-paid-target-a-million-dollars.mp4 (51s)
 
 Target said 'we make one decision a year.' Greg offered them $1M to put Bloom in every store by January 1st.
 
@@ -18,7 +18,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #target #business
 
-## 03-nine-figure-days.mp4 (47s)
+## 03-nine-figure-days.mp4 (54s)
 
 Greg LaVecchia on having nine-figure days and what it looks like when $100M hits your account.
 
@@ -27,7 +27,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #entrepreneur #icedcoffeehour
 
-## 04-kylie-jenner-post-did-nothing.mp4 (43s)
+## 04-kylie-jenner-post-did-nothing.mp4 (47s)
 
 Kylie Jenner posted Bloom for free and they didn't see a single tick up in sales. Celebrity influence isn't what it used to be.
 
@@ -36,7 +36,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #marketing #kyliejenner
 
-## 05-10-million-dollar-root-beer-mistake.mp4 (39s)
+## 05-10-million-dollar-root-beer-mistake.mp4 (43s)
 
 Bloom made $20M of root beer and had to write off $10M of it. Greg on his most expensive lesson of the year.
 
@@ -90,7 +90,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #money #icedcoffeehour
 
-## 11-15k-all-in-on-meme-pages.mp4 (41s)
+## 11-15k-all-in-on-meme-pages.mp4 (37s)
 
 Greg put his entire $15K bank account into meme page ads. Every follower was a bot and there was zero Shopify traffic.
 
@@ -99,7 +99,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #entrepreneur #business
 
-## 12-what-he-bought-with-100-million.mp4 (56s)
+## 12-what-he-bought-with-100-million.mp4 (50s)
 
 Greg LaVecchia's first big purchase after his nine-figure day: a $20M+ house in Aspen.
 
@@ -108,7 +108,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #aspen #icedcoffeehour
 
-## 13-celsius-only-won-because-of-pepsi.mp4 (23s)
+## 13-celsius-only-won-because-of-pepsi.mp4 (20s)
 
 Greg LaVecchia's blunt take on why Celsius is successful.
 
@@ -117,7 +117,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #celsius #energydrink #business
 
-## 14-red-bull-has-its-own-airport.mp4 (37s)
+## 14-red-bull-has-its-own-airport.mp4 (33s)
 
 Red Bull's HQ has its own airport. Greg thinks it's worth at least a quarter trillion dollars.
 
@@ -126,7 +126,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #business #energydrink
 
-## 15-new-7-dollar-shirt-every-day.mp4 (37s)
+## 15-new-7-dollar-shirt-every-day.mp4 (34s)
 
 Greg wears a new $7 Uniqlo tee almost every day and donates it after.
 
