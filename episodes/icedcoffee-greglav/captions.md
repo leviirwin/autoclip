@@ -27,7 +27,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #entrepreneur #icedcoffeehour
 
-## 04-kylie-jenner-post-did-nothing.mp4 (43s)
+## 04-kylie-jenner-post-did-nothing.mp4 (47s)
 
 Kylie Jenner posted Bloom for free and they didn't see a single tick up in sales. Celebrity influence isn't what it used to be.
 
@@ -72,7 +72,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #amazon #business
 
-## 09-started-bloom-with-20k.mp4 (34s)
+## 09-started-bloom-with-20k.mp4 (31s)
 
 Greg started Bloom with $20,000, the minimum order at a third-party manufacturer. No warehouse, no trucks, just Shopify.
 
@@ -171,7 +171,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #privatejet #business
 
-## 20-wanted-a-green-jet.mp4 (28s)
+## 20-wanted-a-green-jet.mp4 (33s)
 
 Greg wanted a green G200 jet. His wealth team had other ideas.
 
@@ -216,7 +216,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #career #mindset #icedcoffeehour
 
-## 25-wanting-more-is-a-good-thing.mp4 (47s)
+## 25-wanting-more-is-a-good-thing.mp4 (43s)
 
 Greg LaVecchia: you're ungrateful if you don't take the opportunity to create value.
 
@@ -324,7 +324,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #authenticity #entrepreneur #business
 
-## 37-hiring-a-chef-ruined-dinner.mp4 (34s)
+## 37-hiring-a-chef-ruined-dinner.mp4 (37s)
 
 Greg hired a chef and lost his favorite part of the day: cooking with his wife.
 
@@ -369,7 +369,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #tiktokshop #sidehustle #business
 
-## 42-energy-drinks-will-beat-water.mp4 (26s)
+## 42-energy-drinks-will-beat-water.mp4 (23s)
 
 Greg LaVecchia: energy drinks are on track to outsell water at Walmart.
 
@@ -468,7 +468,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #target #business
 
-## 53-designing-a-can-for-influencers.mp4 (42s)
+## 53-designing-a-can-for-influencers.mp4 (47s)
 
 Greg designed the Bloom can so the logo shows when an influencer holds it.
 
@@ -513,7 +513,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #entrepreneur #mindset
 
-## 58-the-only-one-clapping-for-myself.mp4 (41s)
+## 58-the-only-one-clapping-for-myself.mp4 (37s)
 
 Greg LaVecchia on the years when nothing was working and he had to drag himself out of bed.
 
