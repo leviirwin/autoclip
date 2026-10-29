@@ -333,7 +333,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #lifestyle #icedcoffeehour
 
-## 38-the-downside-of-money.mp4 (23s)
+## 38-the-downside-of-money.mp4 (26s)
 
 Greg LaVecchia on the Cheesecake Factory problem of having too much money.
 
@@ -342,7 +342,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #mindset #icedcoffeehour
 
-## 39-sued-every-week.mp4 (45s)
+## 39-sued-every-week.mp4 (52s)
 
 Greg on the nonsense lawsuits that start once you pass $50M in revenue.
 
@@ -351,7 +351,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 40-half-your-marketing-doesn-t-work.mp4 (43s)
+## 40-half-your-marketing-doesn-t-work.mp4 (47s)
 
 Greg LaVecchia on why chasing attribution stops you from building a real brand.
 
@@ -360,7 +360,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #branding #business
 
-## 41-stay-at-home-moms-on-tiktok-shop.mp4 (34s)
+## 41-stay-at-home-moms-on-tiktok-shop.mp4 (40s)
 
 Greg on stay-at-home moms selling $50K in one day on TikTok Shop.
 
@@ -549,7 +549,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #health #mindset #icedcoffeehour
 
-## 62-what-a-can-of-bloom-really-costs.mp4 (45s)
+## 62-what-a-can-of-bloom-really-costs.mp4 (41s)
 
 Greg breaks down who takes a cut of a $2.50 can, and Target charging him $1M for a shelf.
 
@@ -558,7 +558,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #target
 
-## 63-first-impressions-in-20-seconds.mp4 (20s)
+## 63-first-impressions-in-20-seconds.mp4 (18s)
 
 Greg LaVecchia's 20-second first impression rule.
 
@@ -567,7 +567,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #firstimpression #style #icedcoffeehour
 
-## 64-100k-hyperbaric-chamber.mp4 (34s)
+## 64-100k-hyperbaric-chamber.mp4 (31s)
 
 Greg LaVecchia on his $100K hyperbaric chamber, sauna and why he's open about TRT.
 
@@ -576,7 +576,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #biohacking #health #icedcoffeehour
 
-## 65-is-this-natural.mp4 (45s)
+## 65-is-this-natural.mp4 (41s)
 
 Greg LaVecchia is open about TRT and why it helps his ADHD.
 

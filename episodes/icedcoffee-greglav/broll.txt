@@ -1,4 +1,4 @@
-38-the-downside-of-money: dist p10/50/90/max [11.0, 18.3, 109.6, 111.4] broll [(2.0, 8.0), (14.6, 15.4), (20.0, 23.4)]
-39-sued-every-week: dist p10/50/90/max [3.5, 13.2, 20.7, 31.6] broll [(29.0, 31.4)]
-40-half-your-marketing-doesn-t-work: dist p10/50/90/max [1.9, 7.0, 44.0, 59.8] broll [(23.6, 24.0), (24.8, 32.4), (33.4, 38.2)]
-41-stay-at-home-moms-on-tiktok-shop: dist p10/50/90/max [4.4, 11.7, 58.8, 66.7] broll [(4.2, 15.2)]
+62-what-a-can-of-bloom-really-costs: dist p10/50/90/max [12.6, 29.1, 65.1, 71.3] broll [(1.2, 9.4), (20.0, 24.0), (30.2, 38.0), (39.2, 45.0)]
+63-first-impressions-in-20-seconds: dist p10/50/90/max [3.9, 7.6, 14.2, 32.7] broll [(9.2, 10.2)]
+64-100k-hyperbaric-chamber: dist p10/50/90/max [4.1, 18.6, 48.9, 58.8] broll [(0.0, 11.4), (13.0, 13.4)]
+65-is-this-natural: dist p10/50/90/max [2.2, 8.0, 33.1, 132.4] broll [(2.0, 6.2), (33.4, 34.8)]
