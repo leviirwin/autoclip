@@ -18,7 +18,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #relationships #growth #solvedpodcast
 
-## 03-an-awful-boyfriend-with-a-hole-in-the-bu.mp4 (55s)
+## 03-an-awful-boyfriend-with-a-hole-in-the-bu.mp4 (53s)
 
 Mark Manson was dating constantly, cheating, and bailing whenever anyone got close. Shame was the hole in the bucket.
 
@@ -108,7 +108,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #relationships #parenting #shame
 
-## 13-the-part-of-your-life-you-pretend-isnt-t.mp4 (29s)
+## 13-the-part-of-your-life-you-pretend-isnt-t.mp4 (31s)
 
 Chances are there's one area of your life you feel so bad about that you pretend it isn't there. Mark Manson on why that backfires.
 
@@ -153,7 +153,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #sobriety #addiction #selfawareness
 
-## 18-why-his-stepmom-still-wont-take-naps.mp4 (38s)
+## 18-why-his-stepmom-still-wont-take-naps.mp4 (33s)
 
 Mark Manson's stepmother was told napping meant she was lazy. At 65 she still won't take one.
 
@@ -243,7 +243,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #marriage #shame #trust
 
-## 28-he-wasnt-allowed-to-get-angry-until-30.mp4 (45s)
+## 28-he-wasnt-allowed-to-get-angry-until-30.mp4 (52s)
 
 Mark Manson grew up in a house where you weren't supposed to get upset. It took him until 30 to feel okay being angry.
 
