@@ -9,7 +9,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #entrepreneur #business
 
-## 02-paid-target-a-million-dollars.mp4 (45s)
+## 02-paid-target-a-million-dollars.mp4 (51s)
 
 Target said 'we make one decision a year.' Greg offered them $1M to put Bloom in every store by January 1st.
 
@@ -117,7 +117,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #celsius #energydrink #business
 
-## 14-red-bull-has-its-own-airport.mp4 (37s)
+## 14-red-bull-has-its-own-airport.mp4 (33s)
 
 Red Bull's HQ has its own airport. Greg thinks it's worth at least a quarter trillion dollars.
 
@@ -261,7 +261,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #grind #entrepreneur #mindset
 
-## 30-the-grind-is-a-cubicle.mp4 (30s)
+## 30-the-grind-is-a-cubicle.mp4 (36s)
 
 Greg LaVecchia: the grind is a tiny cubicle under fluorescent lights. Everything else is a game.
 
@@ -396,7 +396,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #discipline #icedcoffeehour
 
-## 45-a-gram-of-caffeine-a-day.mp4 (32s)
+## 45-a-gram-of-caffeine-a-day.mp4 (29s)
 
 Greg LaVecchia drinks somewhere between 700mg and a gram of caffeine a day.
 

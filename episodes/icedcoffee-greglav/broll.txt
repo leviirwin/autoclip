@@ -1,2 +1,2 @@
-02-paid-target-a-million-dollars: dist p10/50/90/max [4.0, 12.6, 34.8, 55.9] broll [(0.0, 4.4)]
-30-the-grind-is-a-cubicle: dist p10/50/90/max [6.0, 19.4, 72.0, 75.8] broll [(2.2, 6.0), (20.4, 31.0)]
+14-red-bull-has-its-own-airport: dist p10/50/90/max [6.8, 20.0, 61.6, 64.3] broll [(1.0, 14.2)]
+45-a-gram-of-caffeine-a-day: dist p10/50/90/max [2.4, 7.4, 16.1, 37.0] broll [(11.8, 14.0)]
