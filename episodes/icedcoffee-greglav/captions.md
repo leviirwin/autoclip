@@ -54,7 +54,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #family #icedcoffeehour
 
-## 07-why-rich-founders-get-depressed.mp4 (48s)
+## 07-why-rich-founders-get-depressed.mp4 (55s)
 
 Greg LaVecchia: you're not depressed because you made $100M, you're depressed because you stopped working.
 
@@ -99,7 +99,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #entrepreneur #business
 
-## 12-what-he-bought-with-100-million.mp4 (56s)
+## 12-what-he-bought-with-100-million.mp4 (50s)
 
 Greg LaVecchia's first big purchase after his nine-figure day: a $20M+ house in Aspen.
 
@@ -198,7 +198,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #adhd #entrepreneur #mindset
 
-## 23-successful-founders-aren-t-normal.mp4 (28s)
+## 23-successful-founders-aren-t-normal.mp4 (30s)
 
 Greg LaVecchia on why exceptional entrepreneurs are a little 'tweaked out'.
 
@@ -252,7 +252,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #prime #loganpaul #business
 
-## 29-the-grind-set-is-outdated.mp4 (58s)
+## 29-the-grind-set-is-outdated.mp4 (53s)
 
 Greg LaVecchia on why a 14-hour day doesn't have to feel like a grind.
 
@@ -351,7 +351,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 40-half-your-marketing-doesn-t-work.mp4 (43s)
+## 40-half-your-marketing-doesn-t-work.mp4 (47s)
 
 Greg LaVecchia on why chasing attribution stops you from building a real brand.
 
@@ -405,7 +405,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #caffeine #bloom #icedcoffeehour
 
-## 46-would-he-sell-for-3-billion.mp4 (45s)
+## 46-would-he-sell-for-3-billion.mp4 (39s)
 
 Would Greg sell Bloom for $3 billion cash today?
 
@@ -495,7 +495,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #energydrink #bloom
 
-## 56-missed-five-christmases.mp4 (21s)
+## 56-missed-five-christmases.mp4 (23s)
 
 Greg missed five Thanksgivings and five Christmases because the next day was the biggest sales day of the year.
 
@@ -540,7 +540,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #health #performance #icedcoffeehour
 
-## 61-don-t-multiply-by-zero.mp4 (40s)
+## 61-don-t-multiply-by-zero.mp4 (36s)
 
 Greg LaVecchia's simplest health advice: don't multiply by zero.
 

@@ -1,4 +1,4 @@
-07-why-rich-founders-get-depressed: dist p10/50/90/max [3.7, 15.4, 42.3, 45.3] broll [(7.8, 14.2)]
-23-successful-founders-aren-t-normal: dist p10/50/90/max [1.7, 7.6, 17.0, 30.9] broll []
-40-half-your-marketing-doesn-t-work: dist p10/50/90/max [1.9, 7.0, 44.0, 59.8] broll [(24.8, 32.4)]
-56-missed-five-christmases: dist p10/50/90/max [4.3, 11.7, 32.9, 35.1] broll []
+12-what-he-bought-with-100-million: dist p10/50/90/max [4.4, 10.6, 86.6, 103.6] broll [(13.8, 19.0), (20.8, 25.2), (42.4, 44.8)]
+29-the-grind-set-is-outdated: dist p10/50/90/max [4.5, 13.5, 79.1, 105.8] broll [(4.6, 8.6), (13.6, 19.2), (27.2, 31.6)]
+46-would-he-sell-for-3-billion: dist p10/50/90/max [1.9, 5.8, 9.1, 29.6] broll []
+61-don-t-multiply-by-zero: dist p10/50/90/max [4.2, 18.7, 56.4, 103.5] broll [(2.2, 7.6)]
