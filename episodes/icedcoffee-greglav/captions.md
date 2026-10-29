@@ -63,7 +63,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 08-kicked-off-amazon.mp4 (48s)
+## 08-kicked-off-amazon.mp4 (44s)
 
 An agency bought fake reviews without Greg knowing and Bloom got kicked off Amazon. They were 24 hours from layoffs.
 
@@ -135,7 +135,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #uniqlo #money #icedcoffeehour
 
-## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (32s)
+## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (37s)
 
 Jay Cutler sent Greg dog peanut butter. Bailey got one scoop.
 
@@ -207,7 +207,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 24-lies-from-the-last-generation.mp4 (47s)
+## 24-lies-from-the-last-generation.mp4 (42s)
 
 Greg LaVecchia on the career advice from our parents that no longer works.
 
@@ -288,7 +288,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #icedcoffeehour
 
-## 33-raising-a-rich-kid.mp4 (30s)
+## 33-raising-a-rich-kid.mp4 (32s)
 
 Greg LaVecchia on making sure his son still faces real challenges.
 
@@ -360,7 +360,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #branding #business
 
-## 41-stay-at-home-moms-on-tiktok-shop.mp4 (40s)
+## 41-stay-at-home-moms-on-tiktok-shop.mp4 (34s)
 
 Greg on stay-at-home moms selling $50K in one day on TikTok Shop.
 
@@ -432,7 +432,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 49-why-rich-founders-get-divorced.mp4 (46s)
+## 49-why-rich-founders-get-divorced.mp4 (53s)
 
 Greg LaVecchia on why so many successful entrepreneurs lose their families.
 
@@ -504,7 +504,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #sacrifice #icedcoffeehour
 
-## 57-the-11-year-overnight-success.mp4 (42s)
+## 57-the-11-year-overnight-success.mp4 (39s)
 
 Bloom looks like a two-year overnight success. It's actually 11 years in the making.
 
@@ -567,7 +567,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #firstimpression #style #icedcoffeehour
 
-## 64-100k-hyperbaric-chamber.mp4 (31s)
+## 64-100k-hyperbaric-chamber.mp4 (34s)
 
 Greg LaVecchia on his $100K hyperbaric chamber, sauna and why he's open about TRT.
 
