@@ -93,3 +93,15 @@ def test_number_fragments_are_joined():
     words = [dict(w, start=w["start"] - (0.15 if w["word"][0] in ",.%" else 0)) for w in words]
     assert [w["word"] for w in join_fragments(words)] == \
         ["we", "spent", "$15,000", "at", "2.4", "GPA", "and", "95%", "sure"]
+
+
+def test_broll_frames_are_ones_that_match_no_recurring_shot():
+    import numpy as np
+    from autoclip.broll import broll_flags
+    rng = np.random.default_rng(0)
+    studio = rng.integers(0, 255, (2, 576)).astype(np.float32)
+    clip = np.vstack([studio[0] + rng.normal(0, 3, 576) for _ in range(10)] +
+                     [rng.integers(0, 255, 576).astype(np.float32) for _ in range(10)] +
+                     [studio[1] + rng.normal(0, 3, 576) for _ in range(10)])
+    flags, _ = broll_flags(clip.astype(np.float32), studio, fps=5)
+    assert not flags[:10].any() and flags[10:20].all() and not flags[20:].any()

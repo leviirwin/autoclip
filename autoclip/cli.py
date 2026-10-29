@@ -83,6 +83,11 @@ def cmd_render(args):
     # after each clip, so a run that dies part way still leaves notes for what finished.
     names = [f"{n:02d}-{slugify(c.get('title', 'clip'))}" for n, c in enumerate(clips, 1)]
     lengths = {}
+    from .broll import studio_refs
+    from .media import probe
+    studio = studio_refs(video, probe(video)[3], cache=d / "studio.npy")
+    print(f"{len(studio)} studio reference frames", flush=True)
+    report = []
 
     def write_notes():
         notes = [f"# Clips from {args.name}\n"]
@@ -100,8 +105,10 @@ def cmd_render(args):
         if clip.get("emphasis"):
             style["emphasis"] = clip["emphasis"]
         _, _, lengths[name] = render_clip(video, words, clip, out / f"{name}.mp4", d,
-                                          preview_path=d / f"{name}.preview.jpg", style=style)
+                                          preview_path=d / f"{name}.preview.jpg", style=style,
+                                          studio=studio, report=report)
         write_notes()
+        (d / "broll.txt").write_text("\n".join(report) + "\n")
     write_notes()
     # Keep the inputs with the clips so a later session can tweak and re-render without
     # transcribing again (this machine's disk does not survive between sessions).
