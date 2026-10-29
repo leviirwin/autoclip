@@ -1,6 +1,6 @@
 # Clips from solved-shame
 
-## 01-all-your-exes-have-one-thing-in-common.mp4 (42s)
+## 01-all-your-exes-have-one-thing-in-common.mp4 (39s)
 
 If every ex was the problem, the common denominator is you. Mark Manson on the moment he realised it.
 
@@ -90,7 +90,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #relationships #peoplepleasing #codependency
 
-## 11-why-you-get-triggered-by-your-father-in-.mp4 (59s)
+## 11-why-you-get-triggered-by-your-father-in-.mp4 (64s)
 
 Mark Manson: your unconscious doesn't see individuals. A bad dad makes every father a threat, including your father-in-law.
 
@@ -135,7 +135,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #shame #mentalhealth #solvedpodcast
 
-## 16-the-hardest-part-of-quitting-drinking.mp4 (63s)
+## 16-the-hardest-part-of-quitting-drinking.mp4 (57s)
 
 Mark Manson says quitting drinking wasn't the hard part. Being bored for 18 months was.
 
@@ -225,7 +225,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #family #relationships #responsibility
 
-## 26-you-are-not-unlovable.mp4 (31s)
+## 26-you-are-not-unlovable.mp4 (33s)
 
 You're not a failure, you failed at a thing. You're not unlovable, you're single right now. Mark Manson on reframing shame.
 
