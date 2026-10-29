@@ -16,6 +16,10 @@ on:
       model:
         description: Whisper model size
         default: small
+      names:
+        description: Optional names and terms to spell right, e.g. "Greg LaVecchia, Bloom Nutrition"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -26,6 +30,7 @@ jobs:
     timeout-minutes: 180
     env:
       NAME: ${{ inputs.name }}
+      NAMES: ${{ inputs.names }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -63,7 +68,7 @@ jobs:
             python -m autoclip fetch "$URL" "$NAME" ${SECTION:+--section "$SECTION"}
           fi
       - name: Transcribe
-        run: python -m autoclip transcribe "$NAME" --model "${{ inputs.model }}"
+        run: python -m autoclip transcribe "$NAME" --model "${{ inputs.model }}" ${NAMES:+--names "$NAMES"}
       - name: Save transcript
         env:
           URL: ${{ inputs.url }}
