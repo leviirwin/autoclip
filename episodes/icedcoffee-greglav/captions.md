@@ -90,7 +90,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #money #icedcoffeehour
 
-## 11-15k-all-in-on-meme-pages.mp4 (37s)
+## 11-15k-all-in-on-meme-pages.mp4 (41s)
 
 Greg put his entire $15K bank account into meme page ads. Every follower was a bot and there was zero Shopify traffic.
 
@@ -99,7 +99,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #entrepreneur #business
 
-## 12-what-he-bought-with-100-million.mp4 (50s)
+## 12-what-he-bought-with-100-million.mp4 (56s)
 
 Greg LaVecchia's first big purchase after his nine-figure day: a $20M+ house in Aspen.
 
@@ -108,7 +108,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #aspen #icedcoffeehour
 
-## 13-celsius-only-won-because-of-pepsi.mp4 (20s)
+## 13-celsius-only-won-because-of-pepsi.mp4 (23s)
 
 Greg LaVecchia's blunt take on why Celsius is successful.
 
@@ -117,7 +117,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #celsius #energydrink #business
 
-## 14-red-bull-has-its-own-airport.mp4 (33s)
+## 14-red-bull-has-its-own-airport.mp4 (37s)
 
 Red Bull's HQ has its own airport. Greg thinks it's worth at least a quarter trillion dollars.
 
@@ -126,7 +126,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #business #energydrink
 
-## 15-new-7-dollar-shirt-every-day.mp4 (34s)
+## 15-new-7-dollar-shirt-every-day.mp4 (37s)
 
 Greg wears a new $7 Uniqlo tee almost every day and donates it after.
 
@@ -135,7 +135,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #uniqlo #money #icedcoffeehour
 
-## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (37s)
+## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (32s)
 
 Jay Cutler sent Greg dog peanut butter. Bailey got one scoop.
 
@@ -144,7 +144,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #jaycutler #funny #icedcoffeehour
 
-## 17-not-the-smartest-in-the-room.mp4 (27s)
+## 17-not-the-smartest-in-the-room.mp4 (24s)
 
 Greg LaVecchia on why he optimizes his health: he needs to be a 10/10 to compete with someone else's 7/10.
 
@@ -153,7 +153,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #health #entrepreneur
 
-## 18-why-men-will-drink-bloom.mp4 (23s)
+## 18-why-men-will-drink-bloom.mp4 (20s)
 
 Greg's theory on why Bloom won't stay a 'female' energy drink.
 
@@ -162,7 +162,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #monster #marketing
 
-## 19-won-t-write-off-private-jets.mp4 (60s)
+## 19-won-t-write-off-private-jets.mp4 (52s)
 
 Greg spends around $500K a month but refuses to write off his private jets as a business expense.
 
@@ -171,7 +171,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #privatejet #business
 
-## 20-wanted-a-green-jet.mp4 (33s)
+## 20-wanted-a-green-jet.mp4 (28s)
 
 Greg wanted a green G200 jet. His wealth team had other ideas.
 
