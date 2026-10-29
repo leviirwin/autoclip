@@ -79,23 +79,30 @@ def cmd_render(args):
     out.mkdir(parents=True, exist_ok=True)
     only = {int(x) for x in args.only.split(",")} if args.only else None
 
-    notes = [f"# Clips from {args.name}\n"]
-    for n, clip in enumerate(clips, 1):
+    # captions.md lists every clip (so a batch render still has them all) and is rewritten
+    # after each clip, so a run that dies part way still leaves notes for what finished.
+    names = [f"{n:02d}-{slugify(c.get('title', 'clip'))}" for n, c in enumerate(clips, 1)]
+    lengths = {}
+
+    def write_notes():
+        notes = [f"# Clips from {args.name}\n"]
+        for name, clip in zip(names, clips):
+            length = lengths.get(name, clip["end"] - clip["start"])
+            tags = " ".join(clip.get("hashtags", []))
+            notes.append(f"## {name}.mp4 ({length:.0f}s)\n\n{clip.get('caption', '').strip()}\n\n{tags}\n")
+        (out / "captions.md").write_text("\n".join(notes))
+
+    for n, (name, clip) in enumerate(zip(names, clips), 1):
         if only and n not in only:
             continue
-        name = f"{n:02d}-{slugify(clip.get('title', 'clip'))}"
         print(f"rendering {name} ({clip['start']}-{clip['end']}s)", flush=True)
         style = resolve(args.style) if args.style else resolve(spec.get("style"), clip.get("style"))
         if clip.get("emphasis"):
             style["emphasis"] = clip["emphasis"]
-        start, end, length = render_clip(video, words, clip, out / f"{name}.mp4", d,
-                                         preview_path=d / f"{name}.preview.jpg", style=style)
-        tags = " ".join(clip.get("hashtags", []))
-        notes.append(
-            f"## {name}.mp4 ({length:.0f}s, source {start:.1f}-{end:.1f}s)\n\n"
-            f"{clip.get('caption', '').strip()}\n\n{tags}\n"
-        )
-    (out / "captions.md").write_text("\n".join(notes))
+        _, _, lengths[name] = render_clip(video, words, clip, out / f"{name}.mp4", d,
+                                          preview_path=d / f"{name}.preview.jpg", style=style)
+        write_notes()
+    write_notes()
     # Keep the inputs with the clips so a later session can tweak and re-render without
     # transcribing again (this machine's disk does not survive between sessions).
     for f in ("clips.json", "transcript.json", "transcript.txt"):
