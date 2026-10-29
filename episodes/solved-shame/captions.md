@@ -27,7 +27,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #dating #relationships #attachment
 
-## 04-the-rule-that-fixed-his-love-life.mp4 (62s)
+## 04-the-rule-that-fixed-his-love-life.mp4 (70s)
 
 At 27 Mark Manson made himself one promise: if there's no problem, don't create one. Then he met his wife.
 
@@ -117,7 +117,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #shame #selfimprovement #solvedpodcast
 
-## 14-why-you-ruin-good-things.mp4 (41s)
+## 14-why-you-ruin-good-things.mp4 (38s)
 
 When you believe you don't deserve good things, you find a way to wreck them. Mark Manson on shame and self-sabotage.
 
@@ -162,7 +162,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #family #parenting #shame
 
-## 19-trying-to-prove-who-you-were-in-high-sch.mp4 (38s)
+## 19-trying-to-prove-who-you-were-in-high-sch.mp4 (43s)
 
 Mark Manson was the geeky kid pushed into lockers. He thinks part of his career is still that kid asking to be liked.
 
@@ -252,7 +252,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #family #emotions #anger
 
-## 29-join-the-mob-or-stop-caring.mp4 (51s)
+## 29-join-the-mob-or-stop-caring.mp4 (47s)
 
 Online shame at global scale leaves two reactions: join the mob or stop giving a f***. Mark Manson says both are unhealthy.
 
