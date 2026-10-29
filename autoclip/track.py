@@ -17,17 +17,33 @@ def _detector():
     return cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 
 
+def _profile_detector():
+    return cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_profileface.xml")
+
+
+def _profile_faces(det, gray, min_size):
+    """Side-on faces (a wide angle of someone turned to their co-host). The cascade only
+    finds faces looking one way, so also search the mirrored frame."""
+    w = gray.shape[1]
+    kw = dict(scaleFactor=1.1, minNeighbors=6, minSize=(min_size, min_size))
+    faces = list(det.detectMultiScale(gray, **kw))
+    faces += [(w - fx - fw, fy, fw, fh) for fx, fy, fw, fh in det.detectMultiScale(cv2.flip(gray, 1), **kw)]
+    return faces
+
+
 def face_centers(video, start, duration, src_w, src_h):
     """Return a list of (t, x_center_in_source_px or None) sampled at SAMPLE_FPS."""
     aw = ANALYSIS_WIDTH
     ah = int(round(src_h * aw / src_w / 2)) * 2
     scale = src_w / aw
-    det = _detector()
+    det, profile = _detector(), _profile_detector()
     out = []
     for i, frame in enumerate(decode_frames(video, start, duration, SAMPLE_FPS, aw, ah)):
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)  # no equalizeHist: it wrecks dark studio shots
         faces = det.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=6,
                                      minSize=(int(ah * 0.06), int(ah * 0.06)))
+        if not len(faces):
+            faces = _profile_faces(profile, gray, int(ah * 0.06))
         x = None
         if len(faces):
             fx, fy, fw, fh = max(faces, key=lambda f: f[2] * f[3])
