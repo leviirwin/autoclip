@@ -50,3 +50,14 @@ def has_audio(path):
         check=True, capture_output=True, text=True,
     ).stdout
     return bool(out.strip())
+
+
+def grab_frame(path, t):
+    """One BGR frame at time t (seconds)."""
+    import cv2
+    import numpy as np
+
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{t:.3f}", "-i", str(path),
+                          "-frames:v", "1", "-f", "image2pipe", "-vcodec", "png", "-"],
+                         check=True, capture_output=True).stdout
+    return cv2.imdecode(np.frombuffer(raw, np.uint8), cv2.IMREAD_COLOR)

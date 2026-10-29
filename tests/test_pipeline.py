@@ -105,3 +105,19 @@ def test_broll_frames_are_ones_that_match_no_recurring_shot():
                      [studio[1] + rng.normal(0, 3, 576) for _ in range(10)])
     flags, _ = broll_flags(clip.astype(np.float32), studio, fps=5)
     assert not flags[:10].any() and flags[10:20].all() and not flags[20:].any()
+
+
+def test_find_box_and_window():
+    import cv2
+    import numpy as np
+    from autoclip.broll import box_window, find_box
+
+    rng = np.random.default_rng(0)
+    frame = cv2.GaussianBlur(rng.integers(0, 80, (1080, 1920, 3), dtype=np.uint8), (0, 0), 8)
+    assert find_box(frame) is None  # a plain shot has no insert
+    cv2.rectangle(frame, (700, 60), (1500, 1020), (255, 255, 255), 8)  # bordered insert
+    x, y, w, h = find_box(frame)
+    assert abs(x - 700) < 25 and abs(y - 60) < 25 and abs(w - 800) < 40 and abs(h - 960) < 40
+    x0, y0, cw, ch = box_window((x, y, w, h), 1920, 1080)
+    assert abs(cw / ch - 9 / 16) < 0.01 and x <= x0 and x0 + cw <= x + w
+    assert box_window((1000, 250, 880, 600), 1920, 1080) is None  # small graphic beside the speaker
