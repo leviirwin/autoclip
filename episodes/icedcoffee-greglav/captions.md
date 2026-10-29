@@ -108,7 +108,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #aspen #icedcoffeehour
 
-## 13-celsius-only-won-because-of-pepsi.mp4 (20s)
+## 13-celsius-only-won-because-of-pepsi.mp4 (23s)
 
 Greg LaVecchia's blunt take on why Celsius is successful.
 
@@ -135,7 +135,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #uniqlo #money #icedcoffeehour
 
-## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (37s)
+## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (32s)
 
 Jay Cutler sent Greg dog peanut butter. Bailey got one scoop.
 
@@ -270,7 +270,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #icedcoffeehour
 
-## 31-why-bloom-will-beat-celsius.mp4 (22s)
+## 31-why-bloom-will-beat-celsius.mp4 (24s)
 
 Greg LaVecchia on why founder-led companies beat companies run by suits.
 
@@ -288,7 +288,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #icedcoffeehour
 
-## 33-raising-a-rich-kid.mp4 (32s)
+## 33-raising-a-rich-kid.mp4 (30s)
 
 Greg LaVecchia on making sure his son still faces real challenges.
 
@@ -414,7 +414,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #icedcoffeehour
 
-## 47-the-iced-bloom-hour.mp4 (28s)
+## 47-the-iced-bloom-hour.mp4 (31s)
 
 How much would Greg pay to rename the show the Iced Bloom Hour?
 
@@ -432,7 +432,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 49-why-rich-founders-get-divorced.mp4 (53s)
+## 49-why-rich-founders-get-divorced.mp4 (46s)
 
 Greg LaVecchia on why so many successful entrepreneurs lose their families.
 
@@ -549,7 +549,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #health #mindset #icedcoffeehour
 
-## 62-what-a-can-of-bloom-really-costs.mp4 (41s)
+## 62-what-a-can-of-bloom-really-costs.mp4 (45s)
 
 Greg breaks down who takes a cut of a $2.50 can, and Target charging him $1M for a shelf.
 
@@ -567,7 +567,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #firstimpression #style #icedcoffeehour
 
-## 64-100k-hyperbaric-chamber.mp4 (34s)
+## 64-100k-hyperbaric-chamber.mp4 (31s)
 
 Greg LaVecchia on his $100K hyperbaric chamber, sauna and why he's open about TRT.
 
