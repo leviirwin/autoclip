@@ -54,7 +54,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #narcissism #selfhelp #psychology
 
-## 07-why-his-parents-marriage-fell-apart.mp4 (29s)
+## 07-why-his-parents-marriage-fell-apart.mp4 (27s)
 
 Mark Manson's parents never felt allowed to get angry with each other. So they buried everything until the marriage broke.
 
@@ -81,7 +81,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #willsmith #divorce #perspective
 
-## 10-trying-to-make-your-partner-happy-all-th.mp4 (47s)
+## 10-trying-to-make-your-partner-happy-all-th.mp4 (51s)
 
 If you believe your job is to keep your partner happy all the time, follow that belief to the end. Mark Manson breaks it down.
 
@@ -189,7 +189,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #socialmedia #mentalhealth #psychology
 
-## 22-who-you-follow-is-your-new-tribe.mp4 (54s)
+## 22-who-you-follow-is-your-new-tribe.mp4 (49s)
 
 Every account you follow is a vote for the values you'll slowly adopt. Mark Manson on choosing your online tribe.
 
@@ -216,7 +216,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #childhood #food #mentalhealth
 
-## 25-this-is-the-father-i-have.mp4 (38s)
+## 25-this-is-the-father-i-have.mp4 (41s)
 
 Blaming your dad might be fair. Mark Manson on why you still have to own your side of the relationship.
 

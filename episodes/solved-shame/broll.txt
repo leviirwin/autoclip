@@ -1,2 +1,2 @@
-10-trying-to-make-your-partner-happy-all-th: dist p10/50/90/max [2.4, 5.3, 8.5, 13.8] broll []
-25-this-is-the-father-i-have: dist p10/50/90/max [3.1, 5.6, 8.4, 10.5] broll []
+07-why-his-parents-marriage-fell-apart: dist p10/50/90/max [4.6, 7.4, 13.6, 21.2] broll []
+22-who-you-follow-is-your-new-tribe: dist p10/50/90/max [1.8, 6.5, 9.2, 12.0] broll []
