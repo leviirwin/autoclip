@@ -45,7 +45,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 06-family-stopped-doing-thanksgiving.mp4 (55s)
+## 06-family-stopped-doing-thanksgiving.mp4 (63s)
 
 Greg missed five Thanksgivings building Bloom. When he finally wanted one, his family had stopped doing it.
 
@@ -54,7 +54,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #family #icedcoffeehour
 
-## 07-why-rich-founders-get-depressed.mp4 (55s)
+## 07-why-rich-founders-get-depressed.mp4 (48s)
 
 Greg LaVecchia: you're not depressed because you made $100M, you're depressed because you stopped working.
 
@@ -189,7 +189,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #money #entrepreneur
 
-## 22-2-4-gpa-chip-on-his-shoulder.mp4 (40s)
+## 22-2-4-gpa-chip-on-his-shoulder.mp4 (44s)
 
 Greg grew up with ADHD and a 2.4 GPA in a town obsessed with academia. That chip on his shoulder fueled everything.
 
@@ -198,7 +198,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #adhd #entrepreneur #mindset
 
-## 23-successful-founders-aren-t-normal.mp4 (30s)
+## 23-successful-founders-aren-t-normal.mp4 (28s)
 
 Greg LaVecchia on why exceptional entrepreneurs are a little 'tweaked out'.
 
@@ -342,7 +342,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #mindset #icedcoffeehour
 
-## 39-sued-every-week.mp4 (45s)
+## 39-sued-every-week.mp4 (52s)
 
 Greg on the nonsense lawsuits that start once you pass $50M in revenue.
 
@@ -351,7 +351,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 40-half-your-marketing-doesn-t-work.mp4 (47s)
+## 40-half-your-marketing-doesn-t-work.mp4 (43s)
 
 Greg LaVecchia on why chasing attribution stops you from building a real brand.
 
@@ -486,7 +486,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #lifestyle #icedcoffeehour
 
-## 55-red-bull-hasn-t-changed-in-40-years.mp4 (45s)
+## 55-red-bull-hasn-t-changed-in-40-years.mp4 (50s)
 
 Greg LaVecchia on why Red Bull tastes the same as it did 40 years ago.
 
@@ -495,7 +495,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #energydrink #bloom
 
-## 56-missed-five-christmases.mp4 (23s)
+## 56-missed-five-christmases.mp4 (21s)
 
 Greg missed five Thanksgivings and five Christmases because the next day was the biggest sales day of the year.
 
