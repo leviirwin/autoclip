@@ -261,7 +261,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #grind #entrepreneur #mindset
 
-## 30-the-grind-is-a-cubicle.mp4 (30s)
+## 30-the-grind-is-a-cubicle.mp4 (36s)
 
 Greg LaVecchia: the grind is a tiny cubicle under fluorescent lights. Everything else is a game.
 
@@ -270,7 +270,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #icedcoffeehour
 
-## 31-why-bloom-will-beat-celsius.mp4 (22s)
+## 31-why-bloom-will-beat-celsius.mp4 (24s)
 
 Greg LaVecchia on why founder-led companies beat companies run by suits.
 
@@ -279,7 +279,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #celsius #business
 
-## 32-seven-employees-one-bathroom.mp4 (19s)
+## 32-seven-employees-one-bathroom.mp4 (21s)
 
 Bloom's first HQ was a one-bedroom Airbnb. Seven employees, one bathroom.
 
@@ -288,7 +288,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #icedcoffeehour
 
-## 33-raising-a-rich-kid.mp4 (30s)
+## 33-raising-a-rich-kid.mp4 (32s)
 
 Greg LaVecchia on making sure his son still faces real challenges.
 
@@ -405,7 +405,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #caffeine #bloom #icedcoffeehour
 
-## 46-would-he-sell-for-3-billion.mp4 (45s)
+## 46-would-he-sell-for-3-billion.mp4 (39s)
 
 Would Greg sell Bloom for $3 billion cash today?
 
@@ -414,7 +414,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #icedcoffeehour
 
-## 47-the-iced-bloom-hour.mp4 (31s)
+## 47-the-iced-bloom-hour.mp4 (28s)
 
 How much would Greg pay to rename the show the Iced Bloom Hour?
 
@@ -423,7 +423,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #icedcoffeehour #bloom #funny
 
-## 48-why-bloom-won-t-go-public.mp4 (31s)
+## 48-why-bloom-won-t-go-public.mp4 (26s)
 
 Greg LaVecchia on why he'd never take Bloom public.
 
@@ -432,7 +432,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 49-why-rich-founders-get-divorced.mp4 (53s)
+## 49-why-rich-founders-get-divorced.mp4 (46s)
 
 Greg LaVecchia on why so many successful entrepreneurs lose their families.
 
