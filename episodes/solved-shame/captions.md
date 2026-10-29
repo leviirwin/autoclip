@@ -45,7 +45,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #dating #relationships #heartbreak
 
-## 06-a-shameless-person-is-a-narcissist.mp4 (53s)
+## 06-a-shameless-person-is-a-narcissist.mp4 (60s)
 
 Too little shame and you're a sociopath. Too much and you're a wreck. Mark Manson on the healthy middle.
 
@@ -81,7 +81,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #willsmith #divorce #perspective
 
-## 10-trying-to-make-your-partner-happy-all-th.mp4 (51s)
+## 10-trying-to-make-your-partner-happy-all-th.mp4 (47s)
 
 If you believe your job is to keep your partner happy all the time, follow that belief to the end. Mark Manson breaks it down.
 
@@ -180,7 +180,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #hiring #shame #solvedpodcast
 
-## 21-social-media-is-a-shame-machine.mp4 (40s)
+## 21-social-media-is-a-shame-machine.mp4 (43s)
 
 Technology turned the whole planet into your tribe. Mark Manson on why your brain can't handle it.
 
@@ -216,7 +216,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #childhood #food #mentalhealth
 
-## 25-this-is-the-father-i-have.mp4 (41s)
+## 25-this-is-the-father-i-have.mp4 (38s)
 
 Blaming your dad might be fair. Mark Manson on why you still have to own your side of the relationship.
 

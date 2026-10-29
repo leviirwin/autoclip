@@ -1,2 +1,2 @@
-06-a-shameless-person-is-a-narcissist: dist p10/50/90/max [8.5, 14.4, 45.9, 46.6] broll []
-21-social-media-is-a-shame-machine: dist p10/50/90/max [2.6, 8.4, 12.6, 18.1] broll []
+10-trying-to-make-your-partner-happy-all-th: dist p10/50/90/max [2.4, 5.3, 8.5, 13.8] broll []
+25-this-is-the-father-i-have: dist p10/50/90/max [3.1, 5.6, 8.4, 10.5] broll []
