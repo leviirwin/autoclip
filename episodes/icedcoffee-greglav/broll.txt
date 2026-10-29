@@ -1,4 +1,4 @@
-05-10-million-dollar-root-beer-mistake: dist p10/50/90/max [2.8, 13.4, 67.9, 72.1] broll [(2.0, 19.0)]
-21-toxic-abundance-mindset: dist p10/50/90/max [3.8, 8.8, 71.4, 86.1] broll [(34.4, 40.8)]
-38-the-downside-of-money: dist p10/50/90/max [11.0, 18.3, 109.6, 111.4] broll [(2.0, 8.0)]
-54-never-done-laundry: dist p10/50/90/max [3.2, 9.5, 63.1, 104.0] broll [(28.6, 40.2)]
+13-celsius-only-won-because-of-pepsi: dist p10/50/90/max [4.1, 26.1, 102.3, 102.7] broll [(2.6, 8.6)]
+31-why-bloom-will-beat-celsius: dist p10/50/90/max [10.7, 24.3, 34.2, 36.8] broll []
+47-the-iced-bloom-hour: dist p10/50/90/max [1.1, 6.6, 85.6, 85.9] broll []
+62-what-a-can-of-bloom-really-costs: dist p10/50/90/max [12.6, 29.1, 65.1, 71.3] broll [(20.0, 24.0), (39.2, 45.0)]

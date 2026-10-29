@@ -36,7 +36,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #marketing #kyliejenner
 
-## 05-10-million-dollar-root-beer-mistake.mp4 (39s)
+## 05-10-million-dollar-root-beer-mistake.mp4 (43s)
 
 Bloom made $20M of root beer and had to write off $10M of it. Greg on his most expensive lesson of the year.
 
@@ -108,7 +108,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #aspen #icedcoffeehour
 
-## 13-celsius-only-won-because-of-pepsi.mp4 (23s)
+## 13-celsius-only-won-because-of-pepsi.mp4 (20s)
 
 Greg LaVecchia's blunt take on why Celsius is successful.
 
@@ -180,7 +180,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #privatejet #money #icedcoffeehour
 
-## 21-toxic-abundance-mindset.mp4 (56s)
+## 21-toxic-abundance-mindset.mp4 (62s)
 
 Greg bought a $4.5M house he couldn't afford and it pushed him to build Bloom harder.
 
@@ -270,7 +270,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #icedcoffeehour
 
-## 31-why-bloom-will-beat-celsius.mp4 (24s)
+## 31-why-bloom-will-beat-celsius.mp4 (22s)
 
 Greg LaVecchia on why founder-led companies beat companies run by suits.
 
@@ -333,7 +333,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #lifestyle #icedcoffeehour
 
-## 38-the-downside-of-money.mp4 (23s)
+## 38-the-downside-of-money.mp4 (26s)
 
 Greg LaVecchia on the Cheesecake Factory problem of having too much money.
 
@@ -414,7 +414,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #icedcoffeehour
 
-## 47-the-iced-bloom-hour.mp4 (31s)
+## 47-the-iced-bloom-hour.mp4 (28s)
 
 How much would Greg pay to rename the show the Iced Bloom Hour?
 
@@ -477,7 +477,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #branding #marketing
 
-## 54-never-done-laundry.mp4 (36s)
+## 54-never-done-laundry.mp4 (41s)
 
 Greg LaVecchia on what money actually bought him: the freedom to delegate.
 
@@ -549,7 +549,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #health #mindset #icedcoffeehour
 
-## 62-what-a-can-of-bloom-really-costs.mp4 (45s)
+## 62-what-a-can-of-bloom-really-costs.mp4 (41s)
 
 Greg breaks down who takes a cut of a $2.50 can, and Target charging him $1M for a shelf.
 
