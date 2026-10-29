@@ -90,7 +90,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #money #icedcoffeehour
 
-## 11-15k-all-in-on-meme-pages.mp4 (41s)
+## 11-15k-all-in-on-meme-pages.mp4 (37s)
 
 Greg put his entire $15K bank account into meme page ads. Every follower was a bot and there was zero Shopify traffic.
 
@@ -144,7 +144,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #jaycutler #funny #icedcoffeehour
 
-## 17-not-the-smartest-in-the-room.mp4 (24s)
+## 17-not-the-smartest-in-the-room.mp4 (27s)
 
 Greg LaVecchia on why he optimizes his health: he needs to be a 10/10 to compete with someone else's 7/10.
 
@@ -234,7 +234,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #ads #business
 
-## 27-acquisition-vs-retention.mp4 (35s)
+## 27-acquisition-vs-retention.mp4 (32s)
 
 Greg LaVecchia on the difference between selling once and building a real business.
 
@@ -297,7 +297,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #parenting #money #icedcoffeehour
 
-## 34-he-had-no-mentors.mp4 (38s)
+## 34-he-had-no-mentors.mp4 (43s)
 
 Greg didn't ask anyone for advice for the first eight years of Bloom.
 
@@ -387,7 +387,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #health #icedcoffeehour
 
-## 44-tupperware-on-a-private-jet.mp4 (38s)
+## 44-tupperware-on-a-private-jet.mp4 (27s)
 
 Greg brings chicken thighs in Tupperware on the private jet.
 
@@ -441,7 +441,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mentalhealth #icedcoffeehour
 
-## 50-adhd-as-a-superpower.mp4 (37s)
+## 50-adhd-as-a-superpower.mp4 (43s)
 
 Greg was put on ADHD meds at nine. Now he calls it his superpower.
 
@@ -531,7 +531,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #motivation #icedcoffeehour
 
-## 60-optimized-feels-like-adderall.mp4 (31s)
+## 60-optimized-feels-like-adderall.mp4 (28s)
 
 Greg LaVecchia on knowing whether you're a 7 or a 10 out of 10.
 
@@ -576,7 +576,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #biohacking #health #icedcoffeehour
 
-## 65-is-this-natural.mp4 (41s)
+## 65-is-this-natural.mp4 (45s)
 
 Greg LaVecchia is open about TRT and why it helps his ADHD.
 

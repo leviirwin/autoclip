@@ -1,4 +1,4 @@
-17-not-the-smartest-in-the-room: dist p10/50/90/max [2.0, 8.9, 15.4, 21.6] broll []
-34-he-had-no-mentors: dist p10/50/90/max [5.5, 10.6, 31.3, 68.1] broll []
-50-adhd-as-a-superpower: dist p10/50/90/max [1.2, 3.8, 12.2, 25.0] broll []
-65-is-this-natural: dist p10/50/90/max [2.2, 8.0, 33.1, 132.4] broll [(2.0, 6.2)]
+11-15k-all-in-on-meme-pages: dist p10/50/90/max [7.7, 14.9, 104.5, 132.4] broll [(0.0, 4.8)]
+27-acquisition-vs-retention: dist p10/50/90/max [2.9, 10.0, 50.1, 53.7] broll [(11.8, 19.0)]
+44-tupperware-on-a-private-jet: dist p10/50/90/max [2.1, 16.3, 57.7, 63.8] broll [(2.2, 12.0)]
+60-optimized-feels-like-adderall: dist p10/50/90/max [2.5, 8.9, 22.7, 29.3] broll []
