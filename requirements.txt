@@ -1,0 +1,4 @@
+faster-whisper>=1.0
+opencv-python-headless>=4.9,<5  # 5.x dropped the bundled Haar face detector
+numpy>=1.26
+yt-dlp>=2024.1.1
