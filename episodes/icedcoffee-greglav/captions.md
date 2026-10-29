@@ -180,7 +180,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #privatejet #money #icedcoffeehour
 
-## 21-toxic-abundance-mindset.mp4 (62s)
+## 21-toxic-abundance-mindset.mp4 (56s)
 
 Greg bought a $4.5M house he couldn't afford and it pushed him to build Bloom harder.
 
@@ -189,7 +189,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #money #entrepreneur
 
-## 22-2-4-gpa-chip-on-his-shoulder.mp4 (44s)
+## 22-2-4-gpa-chip-on-his-shoulder.mp4 (40s)
 
 Greg grew up with ADHD and a 2.4 GPA in a town obsessed with academia. That chip on his shoulder fueled everything.
 
@@ -198,7 +198,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #adhd #entrepreneur #mindset
 
-## 23-successful-founders-aren-t-normal.mp4 (30s)
+## 23-successful-founders-aren-t-normal.mp4 (28s)
 
 Greg LaVecchia on why exceptional entrepreneurs are a little 'tweaked out'.
 
@@ -207,7 +207,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 24-lies-from-the-last-generation.mp4 (47s)
+## 24-lies-from-the-last-generation.mp4 (42s)
 
 Greg LaVecchia on the career advice from our parents that no longer works.
 
@@ -216,7 +216,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #career #mindset #icedcoffeehour
 
-## 25-wanting-more-is-a-good-thing.mp4 (47s)
+## 25-wanting-more-is-a-good-thing.mp4 (43s)
 
 Greg LaVecchia: you're ungrateful if you don't take the opportunity to create value.
 
@@ -477,7 +477,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #branding #marketing
 
-## 54-never-done-laundry.mp4 (36s)
+## 54-never-done-laundry.mp4 (41s)
 
 Greg LaVecchia on what money actually bought him: the freedom to delegate.
 
@@ -486,7 +486,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #lifestyle #icedcoffeehour
 
-## 55-red-bull-hasn-t-changed-in-40-years.mp4 (45s)
+## 55-red-bull-hasn-t-changed-in-40-years.mp4 (50s)
 
 Greg LaVecchia on why Red Bull tastes the same as it did 40 years ago.
 
@@ -495,7 +495,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #energydrink #bloom
 
-## 56-missed-five-christmases.mp4 (21s)
+## 56-missed-five-christmases.mp4 (23s)
 
 Greg missed five Thanksgivings and five Christmases because the next day was the biggest sales day of the year.
 
@@ -504,7 +504,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #sacrifice #icedcoffeehour
 
-## 57-the-11-year-overnight-success.mp4 (39s)
+## 57-the-11-year-overnight-success.mp4 (42s)
 
 Bloom looks like a two-year overnight success. It's actually 11 years in the making.
 
