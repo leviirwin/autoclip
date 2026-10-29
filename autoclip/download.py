@@ -1,4 +1,5 @@
 """Download a source video from a Google Drive share link or anything yt-dlp handles."""
+import os
 import re
 import subprocess
 import sys
@@ -43,6 +44,11 @@ def download(url, d, section=None):
         sys.executable, "-m", "yt_dlp", "-f", "bv*[height<=1080]+ba/b[height<=1080]/b",
         "--merge-output-format", "mp4", "-o", str(d / "source.%(ext)s"),
     ]
+    # YouTube often blocks data-centre IPs ("Sign in to confirm you're not a bot") unless
+    # the request carries a signed-in account's cookies (Netscape cookies.txt format).
+    cookies = os.environ.get("AUTOCLIP_COOKIES")
+    if cookies and os.path.exists(cookies):
+        cmd += ["--cookies", cookies]
     if section:
         cmd += ["--download-sections", f"*{section}", "--force-keyframes-at-cuts"]
     subprocess.run(cmd + [url], check=True)
