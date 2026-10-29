@@ -1,6 +1,6 @@
 # Clips from icedcoffee-greglav
 
-## 01-kicked-out-of-td-bank.mp4 (56s)
+## 01-kicked-out-of-td-bank.mp4 (62s)
 
 Greg LaVecchia withdrew cash every day from a student account until the bank kicked him out. Then Mari put $40K cash on the counter at Chase.
 
@@ -126,7 +126,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #business #energydrink
 
-## 15-new-7-dollar-shirt-every-day.mp4 (37s)
+## 15-new-7-dollar-shirt-every-day.mp4 (34s)
 
 Greg wears a new $7 Uniqlo tee almost every day and donates it after.
 
@@ -243,7 +243,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #marketing
 
-## 28-what-went-wrong-with-prime.mp4 (33s)
+## 28-what-went-wrong-with-prime.mp4 (38s)
 
 Greg LaVecchia's take on Prime's rise and fall.
 
@@ -279,7 +279,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #celsius #business
 
-## 32-seven-employees-one-bathroom.mp4 (21s)
+## 32-seven-employees-one-bathroom.mp4 (19s)
 
 Bloom's first HQ was a one-bedroom Airbnb. Seven employees, one bathroom.
 
@@ -423,7 +423,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #icedcoffeehour #bloom #funny
 
-## 48-why-bloom-won-t-go-public.mp4 (31s)
+## 48-why-bloom-won-t-go-public.mp4 (26s)
 
 Greg LaVecchia on why he'd never take Bloom public.
 
@@ -558,7 +558,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #target
 
-## 63-first-impressions-in-20-seconds.mp4 (20s)
+## 63-first-impressions-in-20-seconds.mp4 (18s)
 
 Greg LaVecchia's 20-second first impression rule.
 
