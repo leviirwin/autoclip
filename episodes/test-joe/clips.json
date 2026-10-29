@@ -1,0 +1,45 @@
+{
+  "clips": [
+    {
+      "start": 172.9, "end": 190.3,
+      "title": "Not caring is a superpower",
+      "hook": "Jimmy Carr's rule for haters",
+      "caption": "Not caring what other people think about you is a superpower. Jimmy Carr on JRE.",
+      "hashtags": ["#jimmycarr", "#joerogan", "#mindset", "#comedy"],
+      "why": "Opens on a bold quotable claim, pays off with the Robbie Williams line and Joe's reaction"
+    },
+    {
+      "start": 501.8, "end": 531.1,
+      "title": "Anxiety vs flow state",
+      "hook": "The best definition of anxiety",
+      "caption": "Anxiety is thought without control. Flow is control without thought.",
+      "hashtags": ["#anxiety", "#flowstate", "#jimmycarr", "#joerogan"],
+      "why": "Memorable definition as the very first line, personal payoff about where his jokes come from"
+    },
+    {
+      "start": 539.3, "end": 563.6,
+      "title": "Elon will find religion",
+      "hook": "Jimmy Carr's prediction about Elon",
+      "caption": "Fame, fortune, power, pleasure. What happens when you've won all four?",
+      "hashtags": ["#elonmusk", "#jimmycarr", "#joerogan", "#podcast"],
+      "why": "Bold prediction opener, clear four-part payoff"
+    },
+    {
+      "start": 573.7, "end": 597.5,
+      "title": "God or AI",
+      "hook": "Is he describing God or AI?",
+      "caption": "All powerful, all knowing, performs miracles and lives in a cloud. God or AI?",
+      "hashtags": ["#ai", "#philosophy", "#jimmycarr", "#joerogan"],
+      "why": "Riddle structure keeps people watching to the reveal"
+    },
+    {
+      "start": 757.8, "end": 775.3,
+      "title": "Pyramids and rockets",
+      "hook": "Pyramids and rockets are the same thing",
+      "hook_seconds": 3,
+      "caption": "Huge amounts of human effort to send a chosen few to the heavens.",
+      "hashtags": ["#pyramids", "#space", "#jimmycarr", "#joerogan"],
+      "why": "Surprising claim up front, explained in one line"
+    }
+  ]
+}
