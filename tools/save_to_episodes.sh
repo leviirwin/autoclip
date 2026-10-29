@@ -29,10 +29,11 @@ git worktree remove --force "$wt"
 [ $ok = 1 ]
 }
 
-# Two runs can save at once; on a rejected push, start again from the new branch tip.
-for attempt in 1 2 3 4 5; do
+# Several runs can save at once (batched renders); on a rejected push, start again from
+# the new branch tip after a random wait so the runs don't collide again.
+for attempt in $(seq 1 12); do
   save "$@" && exit 0
-  sleep $((attempt * 5))
+  sleep $((RANDOM % 20 + attempt * 3))
 done
 echo "could not push to the episodes branch" >&2
 exit 1
