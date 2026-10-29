@@ -8,6 +8,10 @@ on:
       name:
         description: Episode name used in the transcribe step
         required: true
+      style:
+        description: Optional style for every clip (clean, fast, hype); overrides clips.json
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -18,6 +22,7 @@ jobs:
     timeout-minutes: 60
     env:
       NAME: ${{ inputs.name }}
+      STYLE: ${{ inputs.style }}
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
@@ -58,7 +63,7 @@ jobs:
             python -m autoclip fetch "$url" "$NAME" ${section:+--section "$section"}
           fi
       - name: Render
-        run: python -m autoclip render "$NAME"
+        run: python -m autoclip render "$NAME" ${STYLE:+--style "$STYLE"}
       - name: Publish
         run: |
           d=~/autoclip-work/$NAME

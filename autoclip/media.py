@@ -37,5 +37,16 @@ def decode_frames(path, start, duration, fps, width, height):
                 break
             yield np.frombuffer(buf, np.uint8).reshape(height, width, 3)
     finally:
+        if proc.poll() is None:
+            proc.kill()  # stopped early: don't let ffmpeg complain about the closed pipe
         proc.stdout.close()
         proc.wait()
+
+
+def has_audio(path):
+    out = subprocess.run(
+        ["ffprobe", "-v", "error", "-select_streams", "a", "-show_entries", "stream=index",
+         "-of", "csv=p=0", str(path)],
+        check=True, capture_output=True, text=True,
+    ).stdout
+    return bool(out.strip())

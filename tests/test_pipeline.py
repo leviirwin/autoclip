@@ -50,3 +50,31 @@ def test_drive_id_from_share_links():
     assert drive_id(f"https://drive.google.com/file/d/{fid}/view?usp=drivesdk") == fid
     assert drive_id(f"https://drive.google.com/open?id={fid}") == fid
     assert drive_id("https://www.youtube.com/watch?v=abc") is None
+
+
+def test_fast_pace_trims_pauses_and_maps_time_both_ways():
+    from autoclip.style import Timeline, keep_segments
+    words = [{"start": 0.0, "end": 1.0, "word": "a"}, {"start": 3.0, "end": 4.0, "word": "b"}]
+    segs = keep_segments(words, 0.0, 4.2, max_pause=0.35)
+    assert len(segs) == 2 and segs[0][1] < 2.0 < segs[1][0]
+    tl = Timeline(segs, speed=1.0)
+    assert tl.duration < 2.6
+    assert abs(tl.src(tl.out(3.5)) - 3.5) < 1e-9
+    assert abs(tl.out(2.0) - tl.out(segs[1][0])) < 1e-9  # a time inside a cut lands on the join
+    assert abs(Timeline([(0, 10)], speed=2.0).duration - 5) < 1e-9
+
+
+def test_style_presets_merge_and_reject_typos():
+    import pytest
+    from autoclip.style import resolve
+    s = resolve("fast", {"speed": 1.0})
+    assert s["pace"] == "fast" and s["speed"] == 1.0 and s["zoom"]
+    assert resolve()["pace"] == "normal"
+    with pytest.raises(ValueError):
+        resolve({"sped": 2})
+
+
+def test_emphasis_words_are_coloured():
+    words = words_from("this changed everything for me", start=0)
+    ass = build_ass(words, 0, 3, emphasis=["Everything"])
+    assert "&H0084DC3D&" in ass
