@@ -7,8 +7,9 @@ choosing the moments worth posting. The goal is short-form clips of podcasts (cu
 
 ## Folders
 
-- `/mnt/project-files/autoclip/inbox/` and `/mnt/project-files/uploads/hearth/`: where the
-  user leaves source videos (uploads have no file extension).
+- `videos/` in this repo, `/mnt/project-files/autoclip/inbox/` and
+  `/mnt/project-files/uploads/hearth/`: where the user leaves source videos (uploads have
+  no file extension).
 - `~/autoclip-work/<name>/`: scratch workspace for one episode. Lost when the session ends.
 - `/mnt/project-files/autoclip/clips/<name>/`: finished clips, `captions.md`, plus the
   transcript and `clips.json` so a later session can re-render without re-transcribing.
