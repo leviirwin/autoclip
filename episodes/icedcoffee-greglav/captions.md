@@ -441,7 +441,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mentalhealth #icedcoffeehour
 
-## 50-adhd-as-a-superpower.mp4 (37s)
+## 50-adhd-as-a-superpower.mp4 (43s)
 
 Greg was put on ADHD meds at nine. Now he calls it his superpower.
 
@@ -450,7 +450,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #adhd #mindset #icedcoffeehour
 
-## 51-go-all-in-on-one-thing.mp4 (28s)
+## 51-go-all-in-on-one-thing.mp4 (30s)
 
 Greg doesn't invest in other businesses or sit on boards. He's 100% in Bloom.
 
@@ -459,7 +459,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #focus #entrepreneur #business
 
-## 52-bloom-s-first-target-fail.mp4 (45s)
+## 52-bloom-s-first-target-fail.mp4 (49s)
 
 Bloom's first Target product kept falling over, and nobody could find the 'B' brand on Amazon.
 
@@ -468,7 +468,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #target #business
 
-## 53-designing-a-can-for-influencers.mp4 (42s)
+## 53-designing-a-can-for-influencers.mp4 (47s)
 
 Greg designed the Bloom can so the logo shows when an influencer holds it.
 
@@ -477,7 +477,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #branding #marketing
 
-## 54-never-done-laundry.mp4 (41s)
+## 54-never-done-laundry.mp4 (36s)
 
 Greg LaVecchia on what money actually bought him: the freedom to delegate.
 
@@ -486,7 +486,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #lifestyle #icedcoffeehour
 
-## 55-red-bull-hasn-t-changed-in-40-years.mp4 (50s)
+## 55-red-bull-hasn-t-changed-in-40-years.mp4 (45s)
 
 Greg LaVecchia on why Red Bull tastes the same as it did 40 years ago.
 
@@ -495,7 +495,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #energydrink #bloom
 
-## 56-missed-five-christmases.mp4 (23s)
+## 56-missed-five-christmases.mp4 (21s)
 
 Greg missed five Thanksgivings and five Christmases because the next day was the biggest sales day of the year.
 
@@ -504,7 +504,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #sacrifice #icedcoffeehour
 
-## 57-the-11-year-overnight-success.mp4 (42s)
+## 57-the-11-year-overnight-success.mp4 (39s)
 
 Bloom looks like a two-year overnight success. It's actually 11 years in the making.
 
