@@ -99,7 +99,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #marriage #relationships #psychology
 
-## 12-how-a-mother-shamed-her-daughter.mp4 (55s)
+## 12-how-a-mother-shamed-her-daughter.mp4 (61s)
 
 A girlfriend of Mark Manson's grew up being told she was a whore for showing her knees. That's how shame gets handed down.
 
@@ -126,7 +126,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #selfsabotage #shame #psychology
 
-## 15-the-more-you-hide-it-the-more-power-it-h.mp4 (45s)
+## 15-the-more-you-hide-it-the-more-power-it-h.mp4 (41s)
 
 The more you hide your shame, the more power it has over you. Mark Manson on the isolation spiral.
 
@@ -234,7 +234,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #selfworth #dating #mindset
 
-## 27-i-wrecked-my-wifes-car.mp4 (30s)
+## 27-i-wrecked-my-wifes-car.mp4 (33s)
 
 If Mark Manson got drunk and wrecked his wife's car, he should feel shame. The problem starts when it becomes who you are.
 
@@ -261,7 +261,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #cancelculture #socialmedia #psychology
 
-## 30-aa-is-a-shame-alleviation-machine.mp4 (47s)
+## 30-aa-is-a-shame-alleviation-machine.mp4 (43s)
 
 Mark Manson's realisation: Alcoholics Anonymous is one giant shame alleviation machine.
 

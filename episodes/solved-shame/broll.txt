@@ -1,2 +1,2 @@
-12-how-a-mother-shamed-her-daughter: dist p10/50/90/max [1.2, 4.7, 10.1, 14.8] broll []
-27-i-wrecked-my-wifes-car: dist p10/50/90/max [0.9, 4.6, 11.9, 16.5] broll []
+15-the-more-you-hide-it-the-more-power-it-h: dist p10/50/90/max [5.4, 13.1, 32.0, 34.4] broll []
+30-aa-is-a-shame-alleviation-machine: dist p10/50/90/max [1.7, 6.5, 10.9, 13.7] broll []
