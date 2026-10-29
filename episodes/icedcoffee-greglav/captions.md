@@ -27,7 +27,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #entrepreneur #icedcoffeehour
 
-## 04-kylie-jenner-post-did-nothing.mp4 (47s)
+## 04-kylie-jenner-post-did-nothing.mp4 (43s)
 
 Kylie Jenner posted Bloom for free and they didn't see a single tick up in sales. Celebrity influence isn't what it used to be.
 
@@ -90,7 +90,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #money #icedcoffeehour
 
-## 11-15k-all-in-on-meme-pages.mp4 (37s)
+## 11-15k-all-in-on-meme-pages.mp4 (41s)
 
 Greg put his entire $15K bank account into meme page ads. Every follower was a bot and there was zero Shopify traffic.
 
@@ -171,7 +171,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #privatejet #business
 
-## 20-wanted-a-green-jet.mp4 (33s)
+## 20-wanted-a-green-jet.mp4 (28s)
 
 Greg wanted a green G200 jet. His wealth team had other ideas.
 
@@ -234,7 +234,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #ads #business
 
-## 27-acquisition-vs-retention.mp4 (32s)
+## 27-acquisition-vs-retention.mp4 (35s)
 
 Greg LaVecchia on the difference between selling once and building a real business.
 
@@ -324,7 +324,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #authenticity #entrepreneur #business
 
-## 37-hiring-a-chef-ruined-dinner.mp4 (37s)
+## 37-hiring-a-chef-ruined-dinner.mp4 (34s)
 
 Greg hired a chef and lost his favorite part of the day: cooking with his wife.
 
@@ -387,7 +387,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #health #icedcoffeehour
 
-## 44-tupperware-on-a-private-jet.mp4 (27s)
+## 44-tupperware-on-a-private-jet.mp4 (38s)
 
 Greg brings chicken thighs in Tupperware on the private jet.
 
@@ -468,7 +468,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #target #business
 
-## 53-designing-a-can-for-influencers.mp4 (47s)
+## 53-designing-a-can-for-influencers.mp4 (42s)
 
 Greg designed the Bloom can so the logo shows when an influencer holds it.
 
@@ -531,7 +531,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #motivation #icedcoffeehour
 
-## 60-optimized-feels-like-adderall.mp4 (28s)
+## 60-optimized-feels-like-adderall.mp4 (31s)
 
 Greg LaVecchia on knowing whether you're a 7 or a 10 out of 10.
 
