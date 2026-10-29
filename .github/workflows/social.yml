@@ -1,0 +1,44 @@
+# Every 15 minutes: post the clips that are due in queue.txt, refresh view counts (hourly),
+# alert on Reels past 1,000 views and rewrite the dashboard. State lives on the `social`
+# branch; see autoclip/social.py. Needs the IG_TOKENS and STATE_KEY secrets.
+name: social
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      sync:
+        description: Refresh view counts now
+        type: boolean
+        default: true
+      post:
+        description: Post what's due in the queue
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  issues: write
+
+# Never two runs at once: they could post the same clip twice.
+concurrency:
+  group: social
+  cancel-in-progress: false
+
+jobs:
+  social:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      GH_TOKEN: ${{ github.token }}
+      IG_TOKENS: ${{ secrets.IG_TOKENS }}
+      STATE_KEY: ${{ secrets.STATE_KEY }}
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run
+        run: |
+          python3 -m autoclip.social \
+            ${{ inputs.sync && '--sync' || '' }} \
+            ${{ github.event_name == 'workflow_dispatch' && !inputs.post && '--no-post' || '' }}
+          echo "Dashboard: ${{ github.server_url }}/${{ github.repository }}/tree/social" >> $GITHUB_STEP_SUMMARY
