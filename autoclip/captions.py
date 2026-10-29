@@ -5,6 +5,8 @@ MAX_CHUNK_WORDS = 3
 MAX_CHUNK_CHARS = 18
 FONT = "Inter ExtraBold"
 HIGHLIGHT = "&H0000E5FF&"  # ASS colours are &HAABBGGRR: this is a warm yellow
+EMPHASIS = "&H0084DC3D&"   # green, for key words
+WHITE = "&H00FFFFFF&"
 
 HEADER = f"""[Script Info]
 ScriptType: v4.00+
@@ -34,12 +36,16 @@ def clean(word):
     return word.upper().replace("{", "(").replace("}", ")").replace("\\", "/")
 
 
-def chunk(words):
+def key(word):
+    return "".join(c for c in word.lower() if c.isalnum() or c == "'")
+
+
+def chunk(words, max_words=MAX_CHUNK_WORDS):
     """Group words into short on-screen phrases, breaking after punctuation."""
     chunks, cur = [], []
     for w in words:
         text = " ".join(x["word"] for x in cur + [w])
-        if cur and (len(cur) >= MAX_CHUNK_WORDS or len(text) > MAX_CHUNK_CHARS):
+        if cur and (len(cur) >= max_words or len(text) > MAX_CHUNK_CHARS):
             chunks.append(cur)
             cur = []
         cur.append(w)
@@ -51,14 +57,17 @@ def chunk(words):
     return chunks
 
 
-def build_ass(words, clip_start, clip_end, hook=None, hook_seconds=None):
-    """words: transcript words inside the clip (absolute times). Returns ASS text."""
+def build_ass(words, clip_start, clip_end, hook=None, hook_seconds=None,
+              max_words=MAX_CHUNK_WORDS, emphasis=()):
+    """words: transcript words inside the clip (absolute times). Returns ASS text.
+    emphasis: words always drawn bigger in green."""
+    emphasis = {key(e) for e in emphasis}
     events = []
     if hook:
         end = clip_end - clip_start if hook_seconds is None else hook_seconds
         events.append(f"Dialogue: 1,{ts(0)},{ts(end)},Hook,,0,0,0,,{clean(hook)}")
 
-    groups = chunk(words)
+    groups = chunk(words, max_words)
     for g, group in enumerate(groups):
         next_start = groups[g + 1][0]["start"] if g + 1 < len(groups) else None
         for i, w in enumerate(group):
@@ -74,7 +83,13 @@ def build_ass(words, clip_start, clip_end, hook=None, hook_seconds=None):
             parts = []
             for j, x in enumerate(group):
                 word = clean(x["word"])
-                parts.append(f"{{\\c{HIGHLIGHT}}}{word}{{\\c&H00FFFFFF&}}" if j == i else word)
+                big = key(x["word"]) in emphasis
+                if j == i or big:
+                    colour = HIGHLIGHT if j == i else EMPHASIS
+                    size = "\\fscx118\\fscy118" if big else ""
+                    reset = "\\fscx100\\fscy100" if big else ""
+                    word = f"{{\\c{colour}{size}}}{word}{{\\c{WHITE}{reset}}}"
+                parts.append(word)
             pop = "{\\fscx112\\fscy112\\t(0,90,\\fscx100\\fscy100)}" if i == 0 else ""
             events.append(f"Dialogue: 0,{ts(start)},{ts(end)},Word,,0,0,0,,{pop}{' '.join(parts)}")
     return HEADER + "\n".join(events) + "\n"

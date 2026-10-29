@@ -8,6 +8,7 @@ from pathlib import Path
 
 from .download import download
 from .render import render_clip, slugify
+from .style import PRESETS, resolve
 
 WORK = Path.home() / "autoclip-work"
 LOCAL_MODEL = Path(__file__).resolve().parent.parent / "models" / "whisper-small"
@@ -58,7 +59,8 @@ def cmd_render(args):
     d = episode_dir(args.name)
     video = source_video(d)
     words = json.loads((d / "transcript.json").read_text())["words"]
-    clips = json.loads((d / "clips.json").read_text())["clips"]
+    spec = json.loads((d / "clips.json").read_text())
+    clips = spec["clips"]
     out = d / "out"
     out.mkdir(parents=True, exist_ok=True)
     only = {int(x) for x in args.only.split(",")} if args.only else None
@@ -69,11 +71,14 @@ def cmd_render(args):
             continue
         name = f"{n:02d}-{slugify(clip.get('title', 'clip'))}"
         print(f"rendering {name} ({clip['start']}-{clip['end']}s)", flush=True)
-        start, end = render_clip(video, words, clip, out / f"{name}.mp4", d,
-                                 preview_path=d / f"{name}.preview.jpg")
+        style = resolve(args.style) if args.style else resolve(spec.get("style"), clip.get("style"))
+        if clip.get("emphasis"):
+            style["emphasis"] = clip["emphasis"]
+        start, end, length = render_clip(video, words, clip, out / f"{name}.mp4", d,
+                                         preview_path=d / f"{name}.preview.jpg", style=style)
         tags = " ".join(clip.get("hashtags", []))
         notes.append(
-            f"## {name}.mp4 ({end - start:.0f}s, source {start:.1f}-{end:.1f}s)\n\n"
+            f"## {name}.mp4 ({length:.0f}s, source {start:.1f}-{end:.1f}s)\n\n"
             f"{clip.get('caption', '').strip()}\n\n{tags}\n"
         )
     (out / "captions.md").write_text("\n".join(notes))
@@ -110,6 +115,8 @@ def main():
     r.add_argument("name")
     r.add_argument("--only", help="comma-separated clip numbers, e.g. 1,3")
     r.add_argument("--out", help="also copy finished clips to <out>/<name>/")
+    r.add_argument("--style", choices=sorted(PRESETS),
+                   help="override the style in clips.json for every clip")
     r.set_defaults(func=cmd_render)
 
     args = p.parse_args()

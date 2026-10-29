@@ -24,7 +24,8 @@ because the Claude cloud session can't reach YouTube. You only read the transcri
    `git show FETCH_HEAD:episodes/<name>/transcript.txt`. Read it in full.
 3. **Choose.** Write `clips.json` (format below) and save it:
    `tools/save_to_episodes.sh <name> "Clips: <name>" path/to/clips.json`
-4. **Render.** Trigger the `render` workflow (`render.yml`, ref `main`) with input `name`.
+4. **Render.** Trigger the `render` workflow (`render.yml`, ref `main`) with input `name`
+   (and optionally `style` to override clips.json, see Style below).
 5. **Check.** When it finishes, fetch `episodes` again and look at
    `episodes/<name>/*.preview.jpg` (4 frames per clip): the speaker's face is in frame,
    captions are readable and don't cover the face, the hook text fits. To fix a clip, edit
@@ -56,7 +57,11 @@ Pick 3 to 5 candidates per episode so the user can choose the best 2. Each one m
 - **Stand alone.** Someone who has not heard the episode understands it with no setup.
   No "like I said earlier", no unexplained "he" or "that".
 - **Pay off.** End on the punchline, the conclusion, or a line that lands, not mid-thought.
-- **Be 15 to 45 seconds.** 20 to 35 is the sweet spot. A tighter clip beats a complete one.
+- **Be 30 to 60 seconds** by default (the user asked for longer clips), 35 to 50 is the
+  sweet spot. Pick a span that holds one complete story or argument, not a padded one.
+  If the user asks for short clips, use 15 to 30; for long ones, 60 to 90. With the
+  `fast` or `hype` style the finished clip runs about 10 to 20% shorter than the span
+  you choose, because pauses are cut and playback is sped up.
 - **Not overlap** another chosen clip.
 
 Prefer moments with emotion, humour, a concrete example, or advice people will want to
@@ -69,6 +74,7 @@ be exact: the renderer snaps to whole words and adds a small lead-in and tail.
 
 ```json
 {
+  "style": "fast",
   "clips": [
     {
       "start": 1234.5,
@@ -77,6 +83,7 @@ be exact: the renderer snaps to whole words and adds a small lead-in and tail.
       "hook": "Nobody tells you this about happiness",
       "caption": "One or two lines for the Instagram post, in a natural voice. Credit: @markmanson",
       "hashtags": ["#markmanson", "#selfimprovement", "#podcast"],
+      "emphasis": ["happiness", "never"],
       "why": "Contrarian opener, clear payoff at the end"
     }
   ]
@@ -87,9 +94,29 @@ be exact: the renderer snaps to whole words and adds a small lead-in and tail.
 - `hook`: on-screen text box shown at the top for the whole clip. Under 8 words, in
   the user's voice, and it should add curiosity rather than repeat the first line. Leave
   it out for no box; add `"hook_seconds": 3` to show it only at the start.
+- `emphasis`: 2 to 5 key words from the clip (a number, the topic, a strong word) that
+  show bigger and in green whenever they are on screen. Optional.
 - `caption` / `hashtags`: written to `captions.md` for the user to paste. 3 to 6 hashtags.
 - Always credit the creator in the caption; check the user's clipping-program rules for
   required tags.
+
+## Style
+
+The top-level `style` sets the edit for every clip; a clip can override it with its own
+`"style"`. Use a preset name, or a dict of settings merged over a preset, e.g.
+`{"preset": "fast", "zoom": false}`.
+
+| preset | what it does |
+|---|---|
+| `clean` (default) | straight cut, 3-word captions |
+| `fast` | trims pauses longer than 0.35 s (jump cuts), 1.08x speed, punch-in zoom on alternate sentences, progress bar at the top, 2-word captions |
+| `hype` | `fast` but tighter: 0.2 s pauses, 1.12x, stronger zoom, one word at a time |
+
+Settings: `pace` (`normal`/`fast`), `max_pause`, `speed`, `zoom`, `zoom_amount`,
+`progress_bar`, `caption_words`. Use `fast` unless the user asks otherwise; use `clean`
+for slow, emotional moments where jump cuts would feel wrong. The `render` workflow and
+the `render` command take an optional `style` that overrides clips.json for a quick
+comparison.
 
 ## Code map
 
@@ -99,6 +126,8 @@ be exact: the renderer snaps to whole words and adds a small lead-in and tail.
 - `autoclip/captions.py`: ASS subtitles, 1 to 3 words on screen, active word in yellow.
 - `.github/workflows/transcribe.yml`, `render.yml`: the GitHub Actions steps above.
 - `tools/save_to_episodes.sh`: commits files into `episodes/<name>/` on the `episodes` branch.
+- `autoclip/style.py`: style presets, pause trimming (`Timeline` maps source time to
+  output time), and zoom punches.
 - `autoclip/render.py`: snaps times to words, crops frames, encodes 1080x1920 H.264 with
   loudness normalised to -14 LUFS, and saves preview strips.
 - `tests/`: `.venv/bin/python -m pytest -q tests`

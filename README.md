@@ -25,7 +25,9 @@ runs locally too:
 ```
 
 Each clip is 1080x1920 with the speaker kept in frame, word-by-word captions, an optional
-hook box at the top, and loudness normalised for phones.
+hook box at the top, and loudness normalised for phones. Styles (`clean`, `fast`, `hype`)
+add jump cuts over pauses, a slight speed-up, punch-in zooms, a progress bar and
+highlighted key words; see the Style section of [CLAUDE.md](CLAUDE.md).
 
 Everything uses free tools (ffmpeg, yt-dlp, faster-whisper, OpenCV). There is no API cost:
 the clip choosing happens in the Claude session itself. A private repo gets 2,000 free
