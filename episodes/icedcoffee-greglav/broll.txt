@@ -1,4 +1,3 @@
-12-what-he-bought-with-100-million: dist p10/50/90/max [4.4, 10.6, 86.6, 103.6] broll [(13.8, 19.0), (20.8, 25.2), (42.4, 44.8)]
-29-the-grind-set-is-outdated: dist p10/50/90/max [4.5, 13.5, 79.1, 105.8] broll [(4.6, 8.6), (13.6, 19.2), (27.2, 31.6)]
-46-would-he-sell-for-3-billion: dist p10/50/90/max [1.9, 5.8, 9.1, 29.6] broll []
-61-don-t-multiply-by-zero: dist p10/50/90/max [4.2, 18.7, 56.4, 103.5] broll [(2.2, 7.6)]
+18-why-men-will-drink-bloom: dist p10/50/90/max [1.6, 13.8, 28.0, 34.0] broll []
+35-being-lean-is-a-status-symbol: dist p10/50/90/max [3.8, 16.5, 33.3, 60.2] broll [(13.0, 17.4)]
+51-go-all-in-on-one-thing: dist p10/50/90/max [4.1, 16.9, 27.4, 31.3] broll []

@@ -99,7 +99,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #entrepreneur #business
 
-## 12-what-he-bought-with-100-million.mp4 (50s)
+## 12-what-he-bought-with-100-million.mp4 (56s)
 
 Greg LaVecchia's first big purchase after his nine-figure day: a $20M+ house in Aspen.
 
@@ -153,7 +153,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #health #entrepreneur
 
-## 18-why-men-will-drink-bloom.mp4 (23s)
+## 18-why-men-will-drink-bloom.mp4 (20s)
 
 Greg's theory on why Bloom won't stay a 'female' energy drink.
 
@@ -252,7 +252,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #prime #loganpaul #business
 
-## 29-the-grind-set-is-outdated.mp4 (53s)
+## 29-the-grind-set-is-outdated.mp4 (58s)
 
 Greg LaVecchia on why a 14-hour day doesn't have to feel like a grind.
 
@@ -306,7 +306,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mentor #entrepreneur #mindset
 
-## 35-being-lean-is-a-status-symbol.mp4 (52s)
+## 35-being-lean-is-a-status-symbol.mp4 (46s)
 
 Greg LaVecchia: anyone can buy an AP. Being in shape is the status symbol you can't buy.
 
@@ -405,7 +405,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #caffeine #bloom #icedcoffeehour
 
-## 46-would-he-sell-for-3-billion.mp4 (39s)
+## 46-would-he-sell-for-3-billion.mp4 (45s)
 
 Would Greg sell Bloom for $3 billion cash today?
 
@@ -450,7 +450,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #adhd #mindset #icedcoffeehour
 
-## 51-go-all-in-on-one-thing.mp4 (30s)
+## 51-go-all-in-on-one-thing.mp4 (28s)
 
 Greg doesn't invest in other businesses or sit on boards. He's 100% in Bloom.
 
@@ -540,7 +540,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #health #performance #icedcoffeehour
 
-## 61-don-t-multiply-by-zero.mp4 (36s)
+## 61-don-t-multiply-by-zero.mp4 (40s)
 
 Greg LaVecchia's simplest health advice: don't multiply by zero.
 
