@@ -1,6 +1,6 @@
 # Clips from icedcoffee-greglav
 
-## 01-kicked-out-of-td-bank.mp4 (62s)
+## 01-kicked-out-of-td-bank.mp4 (56s)
 
 Greg LaVecchia withdrew cash every day from a student account until the bank kicked him out. Then Mari put $40K cash on the counter at Chase.
 
@@ -9,7 +9,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #entrepreneur #business
 
-## 02-paid-target-a-million-dollars.mp4 (51s)
+## 02-paid-target-a-million-dollars.mp4 (45s)
 
 Target said 'we make one decision a year.' Greg offered them $1M to put Bloom in every store by January 1st.
 
@@ -18,7 +18,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #target #business
 
-## 03-nine-figure-days.mp4 (54s)
+## 03-nine-figure-days.mp4 (47s)
 
 Greg LaVecchia on having nine-figure days and what it looks like when $100M hits your account.
 
@@ -27,7 +27,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #entrepreneur #icedcoffeehour
 
-## 04-kylie-jenner-post-did-nothing.mp4 (47s)
+## 04-kylie-jenner-post-did-nothing.mp4 (43s)
 
 Kylie Jenner posted Bloom for free and they didn't see a single tick up in sales. Celebrity influence isn't what it used to be.
 
@@ -36,7 +36,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #marketing #kyliejenner
 
-## 05-10-million-dollar-root-beer-mistake.mp4 (43s)
+## 05-10-million-dollar-root-beer-mistake.mp4 (39s)
 
 Bloom made $20M of root beer and had to write off $10M of it. Greg on his most expensive lesson of the year.
 
@@ -513,7 +513,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #entrepreneur #mindset
 
-## 58-the-only-one-clapping-for-myself.mp4 (37s)
+## 58-the-only-one-clapping-for-myself.mp4 (41s)
 
 Greg LaVecchia on the years when nothing was working and he had to drag himself out of bed.
 
@@ -522,7 +522,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #motivation #discipline #entrepreneur
 
-## 59-entrepreneurship-is-gta-in-real-life.mp4 (31s)
+## 59-entrepreneurship-is-gta-in-real-life.mp4 (34s)
 
 Greg LaVecchia: entrepreneurship isn't a sacrifice of your 20s, it's playing GTA in real life.
 
@@ -531,7 +531,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #motivation #icedcoffeehour
 
-## 60-optimized-feels-like-adderall.mp4 (28s)
+## 60-optimized-feels-like-adderall.mp4 (31s)
 
 Greg LaVecchia on knowing whether you're a 7 or a 10 out of 10.
 
@@ -540,7 +540,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #health #performance #icedcoffeehour
 
-## 61-don-t-multiply-by-zero.mp4 (36s)
+## 61-don-t-multiply-by-zero.mp4 (40s)
 
 Greg LaVecchia's simplest health advice: don't multiply by zero.
 
