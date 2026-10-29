@@ -101,9 +101,11 @@ def render_clip(video, words, clip, out_path, work_dir, preview_path=None, style
         joined = "".join(f"[a{i}]" for i in range(len(parts)))
         tempo = f"atempo={style['speed']:.3f}," if style["speed"] != 1 else ""
         graph += parts + [f"{joined}concat=n={len(parts)}:v=0:a=1,{tempo}"
-                          f"loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[a]"]
-        # loudnorm works at 192 kHz; without resampling the file ends up 96 kHz, which
-        # browsers play but phones and Instagram stutter on.
+                          f"loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000,asetpts=N/SR/TB[a]"]
+        # loudnorm works at 192 kHz and its first frames come out with bunched-up
+        # timestamps (seconds of audio stamped into the first half second, then a gap).
+        # Desktop players ignore that; phones and Instagram stutter at the start. So
+        # resample to 48 kHz and restamp every sample from its position.
         maps += ["-map", "[a]", "-c:a", "aac", "-b:a", "160k", "-ar", "48000"]
     enc = subprocess.Popen([
         "ffmpeg", "-v", "error", "-y",
