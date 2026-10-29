@@ -1,2 +1,2 @@
-07-why-his-parents-marriage-fell-apart: dist p10/50/90/max [4.6, 7.4, 13.6, 21.2] broll []
-22-who-you-follow-is-your-new-tribe: dist p10/50/90/max [1.8, 6.5, 9.2, 12.0] broll []
+12-how-a-mother-shamed-her-daughter: dist p10/50/90/max [1.2, 4.7, 10.1, 14.8] broll []
+27-i-wrecked-my-wifes-car: dist p10/50/90/max [0.9, 4.6, 11.9, 16.5] broll []

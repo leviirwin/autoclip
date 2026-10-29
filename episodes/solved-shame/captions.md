@@ -54,7 +54,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #narcissism #selfhelp #psychology
 
-## 07-why-his-parents-marriage-fell-apart.mp4 (27s)
+## 07-why-his-parents-marriage-fell-apart.mp4 (29s)
 
 Mark Manson's parents never felt allowed to get angry with each other. So they buried everything until the marriage broke.
 
@@ -99,7 +99,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #marriage #relationships #psychology
 
-## 12-how-a-mother-shamed-her-daughter.mp4 (61s)
+## 12-how-a-mother-shamed-her-daughter.mp4 (55s)
 
 A girlfriend of Mark Manson's grew up being told she was a whore for showing her knees. That's how shame gets handed down.
 
@@ -189,7 +189,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #socialmedia #mentalhealth #psychology
 
-## 22-who-you-follow-is-your-new-tribe.mp4 (49s)
+## 22-who-you-follow-is-your-new-tribe.mp4 (54s)
 
 Every account you follow is a vote for the values you'll slowly adopt. Mark Manson on choosing your online tribe.
 
@@ -234,7 +234,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #selfworth #dating #mindset
 
-## 27-i-wrecked-my-wifes-car.mp4 (33s)
+## 27-i-wrecked-my-wifes-car.mp4 (30s)
 
 If Mark Manson got drunk and wrecked his wife's car, he should feel shame. The problem starts when it becomes who you are.
 
