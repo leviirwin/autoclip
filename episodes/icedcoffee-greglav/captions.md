@@ -45,7 +45,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 06-family-stopped-doing-thanksgiving.mp4 (63s)
+## 06-family-stopped-doing-thanksgiving.mp4 (55s)
 
 Greg missed five Thanksgivings building Bloom. When he finally wanted one, his family had stopped doing it.
 
@@ -54,7 +54,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #family #icedcoffeehour
 
-## 07-why-rich-founders-get-depressed.mp4 (55s)
+## 07-why-rich-founders-get-depressed.mp4 (48s)
 
 Greg LaVecchia: you're not depressed because you made $100M, you're depressed because you stopped working.
 
@@ -63,7 +63,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 08-kicked-off-amazon.mp4 (48s)
+## 08-kicked-off-amazon.mp4 (44s)
 
 An agency bought fake reviews without Greg knowing and Bloom got kicked off Amazon. They were 24 hours from layoffs.
 
@@ -72,7 +72,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #amazon #business
 
-## 09-started-bloom-with-20k.mp4 (34s)
+## 09-started-bloom-with-20k.mp4 (31s)
 
 Greg started Bloom with $20,000, the minimum order at a third-party manufacturer. No warehouse, no trucks, just Shopify.
 
@@ -81,7 +81,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #entrepreneur
 
-## 10-easier-than-ever-to-make-a-million.mp4 (42s)
+## 10-easier-than-ever-to-make-a-million.mp4 (38s)
 
 Greg LaVecchia on why the arena doors are wide open for young entrepreneurs right now.
 
@@ -549,7 +549,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #health #mindset #icedcoffeehour
 
-## 62-what-a-can-of-bloom-really-costs.mp4 (41s)
+## 62-what-a-can-of-bloom-really-costs.mp4 (45s)
 
 Greg breaks down who takes a cut of a $2.50 can, and Target charging him $1M for a shelf.
 
@@ -558,7 +558,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #target
 
-## 63-first-impressions-in-20-seconds.mp4 (18s)
+## 63-first-impressions-in-20-seconds.mp4 (20s)
 
 Greg LaVecchia's 20-second first impression rule.
 
@@ -567,7 +567,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #firstimpression #style #icedcoffeehour
 
-## 64-100k-hyperbaric-chamber.mp4 (31s)
+## 64-100k-hyperbaric-chamber.mp4 (34s)
 
 Greg LaVecchia on his $100K hyperbaric chamber, sauna and why he's open about TRT.
 
@@ -576,7 +576,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #biohacking #health #icedcoffeehour
 
-## 65-is-this-natural.mp4 (41s)
+## 65-is-this-natural.mp4 (45s)
 
 Greg LaVecchia is open about TRT and why it helps his ADHD.
 
