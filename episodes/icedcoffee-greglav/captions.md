@@ -135,7 +135,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #uniqlo #money #icedcoffeehour
 
-## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (32s)
+## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (37s)
 
 Jay Cutler sent Greg dog peanut butter. Bailey got one scoop.
 
@@ -144,7 +144,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #jaycutler #funny #icedcoffeehour
 
-## 17-not-the-smartest-in-the-room.mp4 (24s)
+## 17-not-the-smartest-in-the-room.mp4 (27s)
 
 Greg LaVecchia on why he optimizes his health: he needs to be a 10/10 to compete with someone else's 7/10.
 
@@ -153,7 +153,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #health #entrepreneur
 
-## 18-why-men-will-drink-bloom.mp4 (20s)
+## 18-why-men-will-drink-bloom.mp4 (23s)
 
 Greg's theory on why Bloom won't stay a 'female' energy drink.
 
@@ -162,7 +162,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #monster #marketing
 
-## 19-won-t-write-off-private-jets.mp4 (52s)
+## 19-won-t-write-off-private-jets.mp4 (60s)
 
 Greg spends around $500K a month but refuses to write off his private jets as a business expense.
 
@@ -171,7 +171,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #privatejet #business
 
-## 20-wanted-a-green-jet.mp4 (28s)
+## 20-wanted-a-green-jet.mp4 (33s)
 
 Greg wanted a green G200 jet. His wealth team had other ideas.
 
@@ -297,7 +297,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #parenting #money #icedcoffeehour
 
-## 34-he-had-no-mentors.mp4 (43s)
+## 34-he-had-no-mentors.mp4 (38s)
 
 Greg didn't ask anyone for advice for the first eight years of Bloom.
 
@@ -306,7 +306,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mentor #entrepreneur #mindset
 
-## 35-being-lean-is-a-status-symbol.mp4 (52s)
+## 35-being-lean-is-a-status-symbol.mp4 (46s)
 
 Greg LaVecchia: anyone can buy an AP. Being in shape is the status symbol you can't buy.
 
@@ -315,7 +315,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #mindset #icedcoffeehour
 
-## 36-stop-wearing-a-suit.mp4 (44s)
+## 36-stop-wearing-a-suit.mp4 (39s)
 
 Greg was about to buy a suit to pitch investors. His friends told him to just be himself.
 
@@ -324,7 +324,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #authenticity #entrepreneur #business
 
-## 37-hiring-a-chef-ruined-dinner.mp4 (37s)
+## 37-hiring-a-chef-ruined-dinner.mp4 (34s)
 
 Greg hired a chef and lost his favorite part of the day: cooking with his wife.
 
