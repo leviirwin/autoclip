@@ -297,7 +297,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #parenting #money #icedcoffeehour
 
-## 34-he-had-no-mentors.mp4 (38s)
+## 34-he-had-no-mentors.mp4 (43s)
 
 Greg didn't ask anyone for advice for the first eight years of Bloom.
 
@@ -306,7 +306,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mentor #entrepreneur #mindset
 
-## 35-being-lean-is-a-status-symbol.mp4 (46s)
+## 35-being-lean-is-a-status-symbol.mp4 (52s)
 
 Greg LaVecchia: anyone can buy an AP. Being in shape is the status symbol you can't buy.
 
@@ -315,7 +315,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #mindset #icedcoffeehour
 
-## 36-stop-wearing-a-suit.mp4 (39s)
+## 36-stop-wearing-a-suit.mp4 (44s)
 
 Greg was about to buy a suit to pitch investors. His friends told him to just be himself.
 
@@ -324,7 +324,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #authenticity #entrepreneur #business
 
-## 37-hiring-a-chef-ruined-dinner.mp4 (34s)
+## 37-hiring-a-chef-ruined-dinner.mp4 (37s)
 
 Greg hired a chef and lost his favorite part of the day: cooking with his wife.
 
@@ -441,7 +441,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mentalhealth #icedcoffeehour
 
-## 50-adhd-as-a-superpower.mp4 (43s)
+## 50-adhd-as-a-superpower.mp4 (37s)
 
 Greg was put on ADHD meds at nine. Now he calls it his superpower.
 
@@ -450,7 +450,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #adhd #mindset #icedcoffeehour
 
-## 51-go-all-in-on-one-thing.mp4 (30s)
+## 51-go-all-in-on-one-thing.mp4 (28s)
 
 Greg doesn't invest in other businesses or sit on boards. He's 100% in Bloom.
 
@@ -459,7 +459,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #focus #entrepreneur #business
 
-## 52-bloom-s-first-target-fail.mp4 (49s)
+## 52-bloom-s-first-target-fail.mp4 (45s)
 
 Bloom's first Target product kept falling over, and nobody could find the 'B' brand on Amazon.
 
@@ -468,7 +468,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #target #business
 
-## 53-designing-a-can-for-influencers.mp4 (47s)
+## 53-designing-a-can-for-influencers.mp4 (42s)
 
 Greg designed the Bloom can so the logo shows when an influencer holds it.
 
