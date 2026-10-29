@@ -1,0 +1,64 @@
+# Step 1 of the clipping flow: download an episode and transcribe it on GitHub's runners.
+# The transcript lands in episodes/<name>/ on the `episodes` branch for Claude to read.
+name: transcribe
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: YouTube link (or Google Drive link shared with "Anyone with the link")
+        required: true
+      name:
+        description: Short episode name, e.g. solved-ep42
+        required: true
+      section:
+        description: Optional, YouTube only. Part to fetch, e.g. 00:10:00-00:40:00
+        required: false
+      model:
+        description: Whisper model size
+        default: small
+
+permissions:
+  contents: write
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      NAME: ${{ inputs.name }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: sudo apt-get -qq update && sudo apt-get -qq install -y ffmpeg
+      - run: pip install -q -r requirements.txt
+      - name: Cache the source video for the render step
+        uses: actions/cache@v4
+        with:
+          path: ~/autoclip-work/${{ inputs.name }}/source.mp4
+          key: video-${{ inputs.name }}
+      - name: Cache Whisper model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-${{ inputs.model }}
+      - name: Download
+        env:
+          URL: ${{ inputs.url }}
+          SECTION: ${{ inputs.section }}
+        run: |
+          if [ ! -f ~/autoclip-work/$NAME/source.mp4 ]; then
+            python -m autoclip fetch "$URL" "$NAME" ${SECTION:+--section "$SECTION"}
+          fi
+      - name: Transcribe
+        run: python -m autoclip transcribe "$NAME" --model "${{ inputs.model }}"
+      - name: Save transcript
+        env:
+          URL: ${{ inputs.url }}
+          SECTION: ${{ inputs.section }}
+        run: |
+          d=~/autoclip-work/$NAME
+          python -c "import json,os; json.dump({'url': os.environ['URL'], 'section': os.environ['SECTION']}, open('$d/source.json','w'))"
+          tools/save_to_episodes.sh "$NAME" "Transcript: $NAME" $d/transcript.txt $d/transcript.json $d/source.json

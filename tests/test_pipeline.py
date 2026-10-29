@@ -42,3 +42,11 @@ def test_crop_ignores_blips_and_cuts_to_sustained_speaker():
 def test_crop_centres_when_no_faces():
     track = Track(crop_path([(0, None), (0.2, None)], 1920, 608))
     assert track(0.1) == 960
+
+
+def test_drive_id_from_share_links():
+    from autoclip.download import drive_id
+    fid = "1L1pvBHYsg_-nmpwEub1GZvNiz7Q-59wR"
+    assert drive_id(f"https://drive.google.com/file/d/{fid}/view?usp=drivesdk") == fid
+    assert drive_id(f"https://drive.google.com/open?id={fid}") == fid
+    assert drive_id("https://www.youtube.com/watch?v=abc") is None
