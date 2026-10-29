@@ -36,7 +36,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #marketing #kyliejenner
 
-## 05-10-million-dollar-root-beer-mistake.mp4 (43s)
+## 05-10-million-dollar-root-beer-mistake.mp4 (39s)
 
 Bloom made $20M of root beer and had to write off $10M of it. Greg on his most expensive lesson of the year.
 
@@ -126,7 +126,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #business #energydrink
 
-## 15-new-7-dollar-shirt-every-day.mp4 (34s)
+## 15-new-7-dollar-shirt-every-day.mp4 (37s)
 
 Greg wears a new $7 Uniqlo tee almost every day and donates it after.
 
@@ -180,7 +180,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #privatejet #money #icedcoffeehour
 
-## 21-toxic-abundance-mindset.mp4 (62s)
+## 21-toxic-abundance-mindset.mp4 (56s)
 
 Greg bought a $4.5M house he couldn't afford and it pushed him to build Bloom harder.
 
@@ -279,7 +279,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #celsius #business
 
-## 32-seven-employees-one-bathroom.mp4 (19s)
+## 32-seven-employees-one-bathroom.mp4 (21s)
 
 Bloom's first HQ was a one-bedroom Airbnb. Seven employees, one bathroom.
 
@@ -333,7 +333,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #lifestyle #icedcoffeehour
 
-## 38-the-downside-of-money.mp4 (26s)
+## 38-the-downside-of-money.mp4 (23s)
 
 Greg LaVecchia on the Cheesecake Factory problem of having too much money.
 
@@ -423,7 +423,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #icedcoffeehour #bloom #funny
 
-## 48-why-bloom-won-t-go-public.mp4 (26s)
+## 48-why-bloom-won-t-go-public.mp4 (31s)
 
 Greg LaVecchia on why he'd never take Bloom public.
 
@@ -477,7 +477,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #branding #marketing
 
-## 54-never-done-laundry.mp4 (41s)
+## 54-never-done-laundry.mp4 (36s)
 
 Greg LaVecchia on what money actually bought him: the freedom to delegate.
 
@@ -558,7 +558,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #target
 
-## 63-first-impressions-in-20-seconds.mp4 (18s)
+## 63-first-impressions-in-20-seconds.mp4 (20s)
 
 Greg LaVecchia's 20-second first impression rule.
 
