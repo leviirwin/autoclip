@@ -5,34 +5,43 @@ reframe, caption). Your job is the part that needs judgement: reading the transc
 choosing the moments worth posting. The goal is short-form clips of podcasts (currently
 *Solved with Mark Manson*) for one Instagram Reels account, about 2 posted a day.
 
-## Folders
+## How it runs
 
-- `videos/` in this repo, `/mnt/project-files/autoclip/inbox/` and
-  `/mnt/project-files/uploads/hearth/`: where the user leaves source videos (uploads have
-  no file extension).
-- `~/autoclip-work/<name>/`: scratch workspace for one episode. Lost when the session ends.
-- `/mnt/project-files/autoclip/clips/<name>/`: finished clips, `captions.md`, plus the
-  transcript and `clips.json` so a later session can re-render without re-transcribing.
+The heavy work (download, transcription, rendering) runs on **GitHub Actions** in this repo,
+because the Claude cloud session can't reach YouTube. You only read the transcript, write
+`clips.json`, and check preview images. All per-episode data lives on the data-only
+`episodes` branch under `episodes/<name>/`.
 
-## Steps
+`<name>` is short and unique, e.g. `solved-ep42`.
 
-1. `./setup.sh` once per session (installs deps; fetches the Whisper model from npm, since
-   Hugging Face is blocked in this project's cloud sessions).
-2. `.venv/bin/python -m autoclip fetch <url-or-path> <name>`. `<name>` is short and
-   unique, e.g. `solved-ep42`. A YouTube link or a Google Drive share link (shared as
-   "Anyone with the link") both work. If a download is refused by the network, the session
-   needs a cloud environment that allows `*.youtube.com`, `*.googlevideo.com`, `*.ytimg.com`
-   and `drive.usercontent.google.com`; tell the user. If `/mnt/project-files/autoclip/clips/<name>/transcript.json` already
-   exists, copy it into the workspace and skip step 3.
-3. `.venv/bin/python -m autoclip transcribe <name>`. The default `small` model runs on CPU;
-   use `--model base` if it is too slow for a long episode.
-4. Read `~/autoclip-work/<name>/transcript.txt` in full and write
-   `~/autoclip-work/<name>/clips.json` (format below).
-5. `.venv/bin/python -m autoclip render <name> --out /mnt/project-files/autoclip/clips`
-6. Look at every `~/autoclip-work/<name>/*.preview.jpg` (4 frames per clip). Check the
-   speaker's face is in frame, captions are readable and not covering the face, and the
-   hook text fits. Fix `clips.json` and re-render with `--only N` if needed.
-7. Give the user the clips and `captions.md` from the shared folder.
+1. **Transcribe.** Trigger the `transcribe` workflow (GitHub MCP `actions_run_trigger`,
+   workflow `transcribe.yml`, ref `main`) with inputs `url` (YouTube link, or a Google Drive
+   link shared as "Anyone with the link"), `name`, and optionally `section`
+   (`HH:MM:SS-HH:MM:SS`) to fetch only part of a long episode. An hour of audio takes
+   roughly 30 to 60 minutes on GitHub's runners. Don't poll in a loop: check the run once
+   after a sensible wait, or schedule a reminder.
+2. **Read.** `git fetch origin episodes` then
+   `git show FETCH_HEAD:episodes/<name>/transcript.txt`. Read it in full.
+3. **Choose.** Write `clips.json` (format below) and save it:
+   `tools/save_to_episodes.sh <name> "Clips: <name>" path/to/clips.json`
+4. **Render.** Trigger the `render` workflow (`render.yml`, ref `main`) with input `name`.
+5. **Check.** When it finishes, fetch `episodes` again and look at
+   `episodes/<name>/*.preview.jpg` (4 frames per clip): the speaker's face is in frame,
+   captions are readable and don't cover the face, the hook text fits. To fix a clip, edit
+   `clips.json`, save it again and re-run `render`.
+6. **Deliver.** The clips and `captions.md` are on the release
+   `https://github.com/leviirwin/autoclip/releases/tag/clips-<name>`. Send the user that link.
+
+If a YouTube download fails on GitHub (YouTube sometimes blocks data-centre IPs), ask the
+user to put the file in Google Drive, share it as "Anyone with the link", and use that link.
+
+### Running locally instead
+
+The same commands work in any environment that can reach the source:
+`./setup.sh`, then `.venv/bin/python -m autoclip fetch <url-or-path> <name>`,
+`transcribe <name>`, write `~/autoclip-work/<name>/clips.json`, and
+`render <name> --out <folder>`. `setup.sh` fetches the Whisper model from npm because
+Hugging Face is blocked in Claude cloud sessions.
 
 ## Picking clips
 
@@ -85,6 +94,8 @@ be exact: the renderer snaps to whole words and adds a small lead-in and tail.
 - `autoclip/track.py`: Haar face detection at 5 fps, then a steady crop path (glides for
   small moves, hard cut when a different face holds the frame for 0.6 s).
 - `autoclip/captions.py`: ASS subtitles, 1 to 3 words on screen, active word in yellow.
+- `.github/workflows/transcribe.yml`, `render.yml`: the GitHub Actions steps above.
+- `tools/save_to_episodes.sh`: commits files into `episodes/<name>/` on the `episodes` branch.
 - `autoclip/render.py`: snaps times to words, crops frames, encodes 1080x1920 H.264 with
   loudness normalised to -14 LUFS, and saves preview strips.
 - `tests/`: `.venv/bin/python -m pytest -q tests`

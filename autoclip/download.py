@@ -34,11 +34,15 @@ def download_drive(file_id, dest):
     return dest
 
 
-def download(url, d):
+def download(url, d, section=None):
+    """section: optional "HH:MM:SS-HH:MM:SS" to fetch only part of a long YouTube episode."""
     file_id = drive_id(url)
     if file_id:
         return download_drive(file_id, d / "source.mp4")
-    subprocess.run([
+    cmd = [
         sys.executable, "-m", "yt_dlp", "-f", "bv*[height<=1080]+ba/b[height<=1080]/b",
-        "--merge-output-format", "mp4", "-o", str(d / "source.%(ext)s"), url,
-    ], check=True)
+        "--merge-output-format", "mp4", "-o", str(d / "source.%(ext)s"),
+    ]
+    if section:
+        cmd += ["--download-sections", f"*{section}", "--force-keyframes-at-cuts"]
+    subprocess.run(cmd + [url], check=True)

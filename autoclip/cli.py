@@ -32,7 +32,7 @@ def cmd_fetch(args):
     d = episode_dir(args.name)
     src = args.source
     if src.startswith(("http://", "https://")):
-        download(src, d)
+        download(src, d, args.section)
     else:
         p = Path(src)
         if not p.exists():
@@ -97,6 +97,7 @@ def main():
     f = sub.add_parser("fetch", help="download a Google Drive/YouTube link or copy a local video into the workspace")
     f.add_argument("source")
     f.add_argument("name", help="short episode name, e.g. solved-ep42")
+    f.add_argument("--section", help="YouTube only: just this part, e.g. 00:10:00-00:40:00")
     f.set_defaults(func=cmd_fetch)
 
     t = sub.add_parser("transcribe", help="transcribe with word timestamps")
