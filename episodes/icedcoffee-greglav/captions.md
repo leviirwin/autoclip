@@ -1,6 +1,6 @@
 # Clips from icedcoffee-greglav
 
-## 01-kicked-out-of-td-bank.mp4 (62s)
+## 01-kicked-out-of-td-bank.mp4 (56s)
 
 Greg LaVecchia withdrew cash every day from a student account until the bank kicked him out. Then Mari put $40K cash on the counter at Chase.
 
@@ -117,7 +117,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #celsius #energydrink #business
 
-## 14-red-bull-has-its-own-airport.mp4 (33s)
+## 14-red-bull-has-its-own-airport.mp4 (37s)
 
 Red Bull's HQ has its own airport. Greg thinks it's worth at least a quarter trillion dollars.
 
@@ -243,7 +243,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #marketing
 
-## 28-what-went-wrong-with-prime.mp4 (38s)
+## 28-what-went-wrong-with-prime.mp4 (33s)
 
 Greg LaVecchia's take on Prime's rise and fall.
 
@@ -396,7 +396,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #discipline #icedcoffeehour
 
-## 45-a-gram-of-caffeine-a-day.mp4 (29s)
+## 45-a-gram-of-caffeine-a-day.mp4 (32s)
 
 Greg LaVecchia drinks somewhere between 700mg and a gram of caffeine a day.
 
