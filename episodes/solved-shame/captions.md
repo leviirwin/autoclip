@@ -1,6 +1,6 @@
 # Clips from solved-shame
 
-## 01-all-your-exes-have-one-thing-in-common.mp4 (39s)
+## 01-all-your-exes-have-one-thing-in-common.mp4 (42s)
 
 If every ex was the problem, the common denominator is you. Mark Manson on the moment he realised it.
 
@@ -252,7 +252,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #family #emotions #anger
 
-## 29-join-the-mob-or-stop-caring.mp4 (51s)
+## 29-join-the-mob-or-stop-caring.mp4 (47s)
 
 Online shame at global scale leaves two reactions: join the mob or stop giving a f***. Mark Manson says both are unhealthy.
 
