@@ -18,7 +18,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #target #business
 
-## 03-nine-figure-days.mp4 (54s)
+## 03-nine-figure-days.mp4 (47s)
 
 Greg LaVecchia on having nine-figure days and what it looks like when $100M hits your account.
 
@@ -63,7 +63,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 08-kicked-off-amazon.mp4 (44s)
+## 08-kicked-off-amazon.mp4 (48s)
 
 An agency bought fake reviews without Greg knowing and Bloom got kicked off Amazon. They were 24 hours from layoffs.
 
@@ -162,7 +162,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #monster #marketing
 
-## 19-won-t-write-off-private-jets.mp4 (60s)
+## 19-won-t-write-off-private-jets.mp4 (52s)
 
 Greg spends around $500K a month but refuses to write off his private jets as a business expense.
 
@@ -207,7 +207,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 24-lies-from-the-last-generation.mp4 (42s)
+## 24-lies-from-the-last-generation.mp4 (47s)
 
 Greg LaVecchia on the career advice from our parents that no longer works.
 
@@ -315,7 +315,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #mindset #icedcoffeehour
 
-## 36-stop-wearing-a-suit.mp4 (44s)
+## 36-stop-wearing-a-suit.mp4 (39s)
 
 Greg was about to buy a suit to pitch investors. His friends told him to just be himself.
 
@@ -360,7 +360,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #branding #business
 
-## 41-stay-at-home-moms-on-tiktok-shop.mp4 (34s)
+## 41-stay-at-home-moms-on-tiktok-shop.mp4 (40s)
 
 Greg on stay-at-home moms selling $50K in one day on TikTok Shop.
 
@@ -459,7 +459,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #focus #entrepreneur #business
 
-## 52-bloom-s-first-target-fail.mp4 (49s)
+## 52-bloom-s-first-target-fail.mp4 (45s)
 
 Bloom's first Target product kept falling over, and nobody could find the 'B' brand on Amazon.
 
@@ -504,7 +504,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #sacrifice #icedcoffeehour
 
-## 57-the-11-year-overnight-success.mp4 (39s)
+## 57-the-11-year-overnight-success.mp4 (42s)
 
 Bloom looks like a two-year overnight success. It's actually 11 years in the making.
 

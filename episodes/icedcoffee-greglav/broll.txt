@@ -1,4 +1,4 @@
-08-kicked-off-amazon: dist p10/50/90/max [2.5, 8.2, 20.5, 63.6] broll [(45.2, 48.0)]
-24-lies-from-the-last-generation: dist p10/50/90/max [2.7, 21.7, 71.0, 78.6] broll [(31.0, 36.4)]
-41-stay-at-home-moms-on-tiktok-shop: dist p10/50/90/max [4.4, 11.7, 58.8, 66.7] broll [(4.2, 15.2)]
-57-the-11-year-overnight-success: dist p10/50/90/max [6.1, 30.0, 73.0, 138.8] broll [(0.0, 1.8), (19.8, 31.0), (34.2, 42.6)]
+03-nine-figure-days: dist p10/50/90/max [1.2, 4.8, 54.3, 61.0] broll [(19.2, 22.6)]
+19-won-t-write-off-private-jets: dist p10/50/90/max [1.3, 8.2, 18.8, 20.3] broll []
+36-stop-wearing-a-suit: dist p10/50/90/max [3.8, 12.9, 70.9, 71.4] broll []
+52-bloom-s-first-target-fail: dist p10/50/90/max [13.2, 24.8, 68.3, 99.4] broll [(0.0, 4.4), (35.8, 43.6)]
