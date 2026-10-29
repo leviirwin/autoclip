@@ -45,7 +45,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #dating #relationships #heartbreak
 
-## 06-a-shameless-person-is-a-narcissist.mp4 (65s)
+## 06-a-shameless-person-is-a-narcissist.mp4 (58s)
 
 Too little shame and you're a sociopath. Too much and you're a wreck. Mark Manson on the healthy middle.
 
@@ -252,7 +252,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #family #emotions #anger
 
-## 29-join-the-mob-or-stop-caring.mp4 (47s)
+## 29-join-the-mob-or-stop-caring.mp4 (51s)
 
 Online shame at global scale leaves two reactions: join the mob or stop giving a f***. Mark Manson says both are unhealthy.
 
