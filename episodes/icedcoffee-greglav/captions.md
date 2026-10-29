@@ -9,7 +9,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #entrepreneur #business
 
-## 02-paid-target-a-million-dollars.mp4 (51s)
+## 02-paid-target-a-million-dollars.mp4 (45s)
 
 Target said 'we make one decision a year.' Greg offered them $1M to put Bloom in every store by January 1st.
 
@@ -189,7 +189,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #money #entrepreneur
 
-## 22-2-4-gpa-chip-on-his-shoulder.mp4 (40s)
+## 22-2-4-gpa-chip-on-his-shoulder.mp4 (44s)
 
 Greg grew up with ADHD and a 2.4 GPA in a town obsessed with academia. That chip on his shoulder fueled everything.
 
@@ -216,7 +216,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #career #mindset #icedcoffeehour
 
-## 25-wanting-more-is-a-good-thing.mp4 (43s)
+## 25-wanting-more-is-a-good-thing.mp4 (47s)
 
 Greg LaVecchia: you're ungrateful if you don't take the opportunity to create value.
 
@@ -261,7 +261,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #grind #entrepreneur #mindset
 
-## 30-the-grind-is-a-cubicle.mp4 (36s)
+## 30-the-grind-is-a-cubicle.mp4 (30s)
 
 Greg LaVecchia: the grind is a tiny cubicle under fluorescent lights. Everything else is a game.
 
