@@ -45,7 +45,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #dating #relationships #heartbreak
 
-## 06-a-shameless-person-is-a-narcissist.mp4 (58s)
+## 06-a-shameless-person-is-a-narcissist.mp4 (65s)
 
 Too little shame and you're a sociopath. Too much and you're a wreck. Mark Manson on the healthy middle.
 
@@ -72,7 +72,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #heartbreak #relationships #perspective
 
-## 09-quincy-jones-divorce-advice-to-will-smit.mp4 (75s)
+## 09-quincy-jones-divorce-advice-to-will-smit.mp4 (63s)
 
 Will Smith was going to war over his first divorce. Quincy Jones told him to give her half and move down the street.
 
