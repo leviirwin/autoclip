@@ -81,7 +81,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #entrepreneur
 
-## 10-easier-than-ever-to-make-a-million.mp4 (42s)
+## 10-easier-than-ever-to-make-a-million.mp4 (38s)
 
 Greg LaVecchia on why the arena doors are wide open for young entrepreneurs right now.
 
@@ -180,7 +180,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #privatejet #money #icedcoffeehour
 
-## 21-toxic-abundance-mindset.mp4 (56s)
+## 21-toxic-abundance-mindset.mp4 (62s)
 
 Greg bought a $4.5M house he couldn't afford and it pushed him to build Bloom harder.
 
@@ -189,7 +189,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #money #entrepreneur
 
-## 22-2-4-gpa-chip-on-his-shoulder.mp4 (40s)
+## 22-2-4-gpa-chip-on-his-shoulder.mp4 (44s)
 
 Greg grew up with ADHD and a 2.4 GPA in a town obsessed with academia. That chip on his shoulder fueled everything.
 
@@ -198,7 +198,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #adhd #entrepreneur #mindset
 
-## 23-successful-founders-aren-t-normal.mp4 (28s)
+## 23-successful-founders-aren-t-normal.mp4 (30s)
 
 Greg LaVecchia on why exceptional entrepreneurs are a little 'tweaked out'.
 
@@ -216,7 +216,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #career #mindset #icedcoffeehour
 
-## 25-wanting-more-is-a-good-thing.mp4 (43s)
+## 25-wanting-more-is-a-good-thing.mp4 (47s)
 
 Greg LaVecchia: you're ungrateful if you don't take the opportunity to create value.
 
