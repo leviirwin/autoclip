@@ -8,6 +8,10 @@ on:
       name:
         description: Episode name used in the transcribe step
         required: true
+      only:
+        description: Optional comma-separated clip numbers to render, e.g. 1,2,3 (default all)
+        required: false
+        default: ""
       style:
         description: Optional style for every clip (clean, fast, hype); overrides clips.json
         required: false
@@ -19,10 +23,11 @@ permissions:
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 150
+    timeout-minutes: 330
     env:
       NAME: ${{ inputs.name }}
       STYLE: ${{ inputs.style }}
+      ONLY: ${{ inputs.only }}
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
@@ -63,8 +68,11 @@ jobs:
             python -m autoclip fetch "$url" "$NAME" ${section:+--section "$section"}
           fi
       - name: Render
-        run: python -m autoclip render "$NAME" ${STYLE:+--style "$STYLE"}
+        timeout-minutes: 300
+        run: python -m autoclip render "$NAME" ${STYLE:+--style "$STYLE"} ${ONLY:+--only "$ONLY"}
+      # Publish whatever finished even if a later clip failed or the job ran out of time.
       - name: Publish
+        if: always()
         run: |
           d=~/autoclip-work/$NAME
           tools/save_to_episodes.sh "$NAME" "Rendered: $NAME" $d/*.preview.jpg $d/out/captions.md
