@@ -5,7 +5,7 @@ import numpy as np
 from .media import decode_frames
 
 SAMPLE_FPS = 5
-ANALYSIS_WIDTH = 640
+ANALYSIS_WIDTH = 960
 # A new face position must hold this long before the crop jumps to it (avoids flicker
 # when the detector briefly picks the wrong face).
 SWITCH_HOLD = 0.6
@@ -25,9 +25,9 @@ def face_centers(video, start, duration, src_w, src_h):
     det = _detector()
     out = []
     for i, frame in enumerate(decode_frames(video, start, duration, SAMPLE_FPS, aw, ah)):
-        gray = cv2.equalizeHist(cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY))
+        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)  # no equalizeHist: it wrecks dark studio shots
         faces = det.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=6,
-                                     minSize=(int(ah * 0.08), int(ah * 0.08)))
+                                     minSize=(int(ah * 0.06), int(ah * 0.06)))
         x = None
         if len(faces):
             fx, fy, fw, fh = max(faces, key=lambda f: f[2] * f[3])

@@ -9,6 +9,7 @@ from pathlib import Path
 from .render import render_clip, slugify
 
 WORK = Path.home() / "autoclip-work"
+LOCAL_MODEL = Path(__file__).resolve().parent.parent / "models" / "whisper-small"
 VIDEO_EXTS = (".mp4", ".mkv", ".mov", ".webm", ".m4v")
 
 
@@ -50,7 +51,8 @@ def cmd_transcribe(args):
     from .transcribe import transcribe
 
     d = episode_dir(args.name)
-    words, lines = transcribe(source_video(d), d, args.model)
+    model = args.model or (str(LOCAL_MODEL) if LOCAL_MODEL.exists() else "small")
+    words, lines = transcribe(source_video(d), d, model)
     print(f"{len(words)} words, {len(lines)} lines -> {d / 'transcript.txt'}")
 
 
@@ -101,7 +103,8 @@ def main():
 
     t = sub.add_parser("transcribe", help="transcribe with word timestamps")
     t.add_argument("name")
-    t.add_argument("--model", default="small", help="whisper size: tiny, base, small, medium")
+    t.add_argument("--model", help="whisper size (tiny, base, small, medium) or model folder; "
+                   "default: models/whisper-small from setup.sh")
     t.set_defaults(func=cmd_transcribe)
 
     r = sub.add_parser("render", help="render the clips listed in clips.json")

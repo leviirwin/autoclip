@@ -15,7 +15,8 @@ choosing the moments worth posting. The goal is short-form clips of podcasts (cu
 
 ## Steps
 
-1. `./setup.sh` once per session (installs deps, downloads the speech model).
+1. `./setup.sh` once per session (installs deps; fetches the Whisper model from npm, since
+   Hugging Face is blocked in this project's cloud sessions).
 2. `.venv/bin/python -m autoclip fetch <url-or-path> <name>`. `<name>` is short and
    unique, e.g. `solved-ep42`. If a YouTube download is refused, ask the user to upload the
    file instead. If `/mnt/project-files/autoclip/clips/<name>/transcript.json` already

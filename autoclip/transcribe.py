@@ -1,5 +1,8 @@
 """Speech to text with word timestamps (faster-whisper, runs on CPU)."""
 import json
+import subprocess
+
+import numpy as np
 
 # Lines in transcript.txt break at sentence ends, long pauses, or this many words.
 MAX_LINE_WORDS = 22
@@ -11,7 +14,7 @@ def transcribe(video_path, out_dir, model_size="small", language="en"):
 
     model = WhisperModel(model_size, device="cpu", compute_type="int8")
     segments, info = model.transcribe(
-        str(video_path), language=language, word_timestamps=True, vad_filter=True,
+        load_audio(video_path), language=language, word_timestamps=True, vad_filter=True,
     )
     words = []
     for seg in segments:
@@ -26,6 +29,17 @@ def transcribe(video_path, out_dir, model_size="small", language="en"):
     (out_dir / "transcript.json").write_text(json.dumps({"words": words, "lines": lines}, indent=1))
     (out_dir / "transcript.txt").write_text(format_lines(lines))
     return words, lines
+
+
+def load_audio(path, sr=16000):
+    """Decode to 16 kHz mono float32 with ffmpeg (faster-whisper's own PyAV decoder breaks
+    with newer PyAV releases)."""
+    raw = subprocess.run(
+        ["ffmpeg", "-v", "error", "-i", str(path), "-vn", "-ac", "1", "-ar", str(sr),
+         "-f", "f32le", "-"],
+        check=True, capture_output=True,
+    ).stdout
+    return np.frombuffer(raw, np.float32)
 
 
 def group_lines(words):

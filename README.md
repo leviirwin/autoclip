@@ -19,5 +19,7 @@ hook box at the top, and loudness normalised for phones.
 Everything runs locally with free tools (ffmpeg, yt-dlp, faster-whisper, OpenCV). There
 is no API cost: the clip choosing happens in the Claude session itself.
 
-Network access needed: PyPI, `huggingface.co` (speech model), and YouTube if downloading
-from there.
+Network access needed: PyPI and npm (the Whisper model is fetched from an npm copy, since
+Hugging Face is often blocked in cloud sessions), plus YouTube if downloading from there.
+The npm model is a third-party redistribution of OpenAI's Whisper small; `setup.sh` checks it
+against the checksum published with it.
