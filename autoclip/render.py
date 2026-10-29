@@ -7,9 +7,9 @@ import cv2
 import numpy as np
 
 from .captions import H, W, build_ass
-from .media import decode_frames, has_audio, probe
+from .media import decode_frames, grab_frame, has_audio, probe
 from .style import Timeline, keep_segments, resolve, zoom_changes
-from .broll import broll_flags, clip_thumbs
+from .broll import box_window, broll_flags, clip_thumbs, find_box
 from .track import SAMPLE_FPS, Track, crop_path, face_centers
 
 MAX_FPS = 30
@@ -36,22 +36,11 @@ def snap(words, start, end):
     return s, e, inside
 
 
-def letterbox(frame, bg_crop):
-    """A B-roll frame shown whole across the width, over a blurred, darkened fill."""
-    fh = int(round(W * frame.shape[0] / frame.shape[1] / 2)) * 2
-    small = cv2.resize(bg_crop, (W // 8, H // 8), interpolation=cv2.INTER_AREA)
-    out = cv2.resize(cv2.GaussianBlur(small, (0, 0), 6), (W, H), interpolation=cv2.INTER_LINEAR)
-    out = (out * 0.55).astype(np.uint8)
-    y = (H - fh) // 2 - 80  # a little above centre, clear of the captions
-    out[y:y + fh] = cv2.resize(frame, (W, fh), interpolation=cv2.INTER_AREA)
-    return out
-
-
 def render_clip(video, words, clip, out_path, work_dir, preview_path=None, style=None,
                 studio=None, report=None):
     """Render one clip. Returns the (start, end) source span and the output duration.
     studio: thumbnails of the episode's studio shots (see broll.py); frames that match none
-    of them are B-roll and are shown whole instead of cropped."""
+    of them are B-roll, and the insert they show fills the screen instead of the face."""
     style = style or resolve()
     src_w, src_h, src_fps, _ = probe(video)
     start, end, inside = snap(words, float(clip["start"]), float(clip["end"]))
@@ -68,17 +57,29 @@ def render_clip(video, words, clip, out_path, work_dir, preview_path=None, style
     crop_w = min(src_w, int(round(src_h * 9 / 16 / 2)) * 2)
     faces = face_centers(video, start, duration, src_w, src_h)
     broll = np.zeros(len(faces), bool)
+    windows = [None] * len(faces)  # per sample: the 9:16 crop of the B-roll insert on screen
     if studio is not None and crop_w < src_w:
         broll, dist = broll_flags(clip_thumbs(video, start, duration, SAMPLE_FPS), studio, SAMPLE_FPS)
         if len(broll) < len(faces):  # the two decodes can differ by a frame at the end
             broll = np.concatenate([broll, np.zeros(len(faces) - len(broll), bool)])
         broll = broll[:len(faces)]
+        kept = []
+        for a, b in _runs(broll, SAMPLE_FPS):
+            # One crop per B-roll shot, from the bordered box around the insert. No box (or
+            # a small graphic beside the speaker) means stay on the face.
+            box = find_box(grab_frame(video, start + (a + b) / 2))
+            win = box and box_window(box, src_w, src_h)
+            i, j = int(round(a * SAMPLE_FPS)), int(round(b * SAMPLE_FPS))
+            if win:
+                windows[i:j] = [win] * (j - i)
+                kept.append((a, b))
+            else:
+                broll[i:j] = False
         # Faces inside B-roll shouldn't steer the crop.
         faces = [(t, None if b else x) for (t, x), b in zip(faces, broll)]
         if report is not None:
-            spans = _runs(broll, SAMPLE_FPS)
             report.append(f"{out_path.stem}: dist p10/50/90/max {np.percentile(dist, [10, 50, 90, 100]).round(1).tolist()}"
-                          f" broll {[(round(a, 1), round(b, 1)) for a, b in spans]}")
+                          f" broll {[(round(a, 1), round(b, 1)) for a, b in kept]}")
     track = Track(crop_path(faces, src_w, crop_w))
 
     mapped = [{"word": w["word"], "start": tl.out(w["start"]), "end": tl.out(w["end"])}
@@ -133,16 +134,16 @@ def render_clip(video, words, clip, out_path, work_dir, preview_path=None, style
                 frame, frame_t, k = nxt, k / dec_fps, k + 1
             if frame is None:
                 break
-            in_broll = broll[min(int(need * SAMPLE_FPS), len(broll) - 1)] if len(broll) else False
-            z = 1.0 if in_broll else zooms[max(bisect.bisect_right(zoom_times, need + start) - 1, 0)][1]
+            win = windows[min(int(need * SAMPLE_FPS), len(windows) - 1)] if windows else None
+            z = 1.0 if win else zooms[max(bisect.bisect_right(zoom_times, need + start) - 1, 0)][1]
             cw, ch = int(crop_w / z), int(src_h / z)
             x0 = int(round(track(need) - cw / 2))
             x0 = min(max(x0, 0), src_w - cw)
             y0 = min(max(int(src_h * 0.42 - ch / 2), 0), src_h - ch)  # faces sit high in frame
+            if win:
+                x0, y0, cw, ch = win
             crop = frame[y0:y0 + ch, x0:x0 + cw]
-            if in_broll:
-                out = letterbox(frame, crop)
-            elif narrow:
+            if narrow and not win:
                 out = np.zeros((H, W, 3), np.uint8)
                 fw = int(round(H * cw / ch / 2)) * 2
                 out[:, (W - fw) // 2:(W - fw) // 2 + fw] = cv2.resize(crop, (fw, H), interpolation=cv2.INTER_CUBIC)

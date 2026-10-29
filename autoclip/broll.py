@@ -75,3 +75,53 @@ def broll_flags(thumbs, refs, fps):
             flags[i:j] = flags[i - 1]
         i = j
     return flags, dist
+
+
+def find_box(frame):
+    """(x, y, w, h) of the largest bordered rectangle in the frame (how this show frames its
+    B-roll inserts), or None. A frame flagged as B-roll with no box is a studio shot the
+    flags got wrong, e.g. a wide angle that rarely appears."""
+    import cv2
+
+    h, w = frame.shape[:2]
+    s = 640 / w
+    g = cv2.cvtColor(cv2.resize(frame, (640, int(h * s)), interpolation=cv2.INTER_AREA),
+                     cv2.COLOR_BGR2GRAY)
+    H, W = g.shape
+    e = cv2.dilate(cv2.Canny(g, 40, 120), np.ones((3, 3), np.uint8))
+    # Keep only long straight edges, then look for ones that close into a rectangle.
+    v = cv2.morphologyEx(e, cv2.MORPH_OPEN, np.ones((int(H * 0.2), 1), np.uint8))
+    hz = cv2.morphologyEx(e, cv2.MORPH_OPEN, np.ones((1, int(W * 0.12)), np.uint8))
+    lines = cv2.dilate(v | hz, np.ones((5, 5), np.uint8))
+    best = None
+    for c in cv2.findContours(lines, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)[0]:
+        x, y, bw, bh = cv2.boundingRect(c)
+        if bw < W * 0.15 or bh < H * 0.3 or bw * bh > W * H * 0.92:
+            continue
+        sides = [lines[y:y + bh, x:x + 6].any(1).mean(), lines[y:y + bh, x + bw - 6:x + bw].any(1).mean(),
+                 lines[y:y + 6, x:x + bw].any(0).mean(), lines[y + bh - 6:y + bh, x:x + bw].any(0).mean()]
+        if min(sides) >= 0.6 and (best is None or bw * bh > best[2] * best[3]):
+            best = (x, y, bw, bh)
+    return None if best is None else tuple(int(round(t / s)) for t in best)
+
+
+def box_window(box, src_w, src_h):
+    """9:16 crop (x, y, w, h) that fills the screen with the inside of a B-roll box, or
+    None for a small landscape box (a graphic beside the speaker: a 9:16 slice of it would
+    cut the text, so stay on the speaker's face instead)."""
+    x, y, bw, bh = box
+    if bw > bh * 1.2 and bh < src_h * 0.7:
+        return None
+    m = int(min(bw, bh) * 0.03)  # step inside the border
+    x, y, bw, bh = x + m, y + m, bw - 2 * m, bh - 2 * m
+    ch = max(bh, src_h * 0.5)
+    cw = ch * 9 / 16
+    if cw > bw:  # tall, narrow insert: fit its width instead
+        cw = bw
+        ch = min(cw * 16 / 9, src_h)
+        cw = ch * 9 / 16
+    cw, ch = int(cw) // 2 * 2, int(ch) // 2 * 2
+    cx, cy = x + bw / 2, y + bh / 2
+    x0 = int(min(max(cx - cw / 2, 0), src_w - cw))
+    y0 = int(min(max(cy - ch / 2, 0), src_h - ch))
+    return x0, y0, cw, ch
