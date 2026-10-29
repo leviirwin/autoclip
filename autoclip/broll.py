@@ -10,10 +10,10 @@ import subprocess
 import numpy as np
 
 TW, TH = 32, 18
-SAME = 14.0          # RMS difference (0-255) below which two thumbnails show the same shot
-MIN_REPEATS = 3      # a studio shot recurs at least this many times...
-MIN_GAP = 60.0       # ...at least this many seconds apart
-BROLL = 24.0         # a clip frame this far from every studio thumbnail is B-roll
+SAME = 20.0          # RMS difference (0-255) below which two thumbnails show the same shot
+MIN_REPEATS = 2      # a studio shot recurs at least this many times...
+MIN_GAP = 30.0       # ...at least this many seconds apart
+BROLL = 26.0         # a clip frame this far from every studio thumbnail is B-roll
 MIN_RUN = 0.4        # ignore B-roll or studio runs shorter than this (seconds)
 
 
