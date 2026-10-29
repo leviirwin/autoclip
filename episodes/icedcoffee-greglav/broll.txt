@@ -1,4 +1,4 @@
-46-would-he-sell-for-3-billion: dist p10/50/90/max [1.9, 5.8, 9.1, 29.6] broll [(39.6, 40.4)]
-47-the-iced-bloom-hour: dist p10/50/90/max [1.1, 6.6, 85.6, 85.9] broll [(12.4, 19.4)]
-48-why-bloom-won-t-go-public: dist p10/50/90/max [2.1, 5.6, 69.1, 71.0] broll [(0.0, 0.2), (8.8, 14.2)]
-49-why-rich-founders-get-divorced: dist p10/50/90/max [2.3, 8.1, 35.3, 39.1] broll [(7.4, 8.0), (12.2, 17.8)]
+26-how-targeted-ads-got: dist p10/50/90/max [6.3, 13.6, 53.5, 57.8] broll [(4.4, 6.2), (8.0, 16.2), (28.0, 29.2), (29.8, 34.2), (38.2, 38.8), (39.8, 40.6)]
+27-acquisition-vs-retention: dist p10/50/90/max [2.9, 10.0, 50.1, 53.7] broll [(11.8, 19.0)]
+28-what-went-wrong-with-prime: dist p10/50/90/max [3.8, 12.1, 84.0, 84.8] broll [(4.0, 8.2), (11.6, 16.6)]
+29-the-grind-set-is-outdated: dist p10/50/90/max [4.5, 13.5, 79.1, 105.8] broll [(4.6, 8.6), (13.6, 19.2), (22.8, 25.8), (27.2, 31.6)]

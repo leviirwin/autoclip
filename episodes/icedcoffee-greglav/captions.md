@@ -225,7 +225,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #entrepreneur
 
-## 26-how-targeted-ads-got.mp4 (43s)
+## 26-how-targeted-ads-got.mp4 (38s)
 
 Greg on how Facebook ads went from 'are you a woman' to finding Karen in Kansas.
 
@@ -234,7 +234,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #ads #business
 
-## 27-acquisition-vs-retention.mp4 (35s)
+## 27-acquisition-vs-retention.mp4 (32s)
 
 Greg LaVecchia on the difference between selling once and building a real business.
 
@@ -243,7 +243,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #marketing
 
-## 28-what-went-wrong-with-prime.mp4 (38s)
+## 28-what-went-wrong-with-prime.mp4 (33s)
 
 Greg LaVecchia's take on Prime's rise and fall.
 
@@ -252,7 +252,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #prime #loganpaul #business
 
-## 29-the-grind-set-is-outdated.mp4 (58s)
+## 29-the-grind-set-is-outdated.mp4 (53s)
 
 Greg LaVecchia on why a 14-hour day doesn't have to feel like a grind.
 
@@ -405,7 +405,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #caffeine #bloom #icedcoffeehour
 
-## 46-would-he-sell-for-3-billion.mp4 (39s)
+## 46-would-he-sell-for-3-billion.mp4 (45s)
 
 Would Greg sell Bloom for $3 billion cash today?
 
@@ -414,7 +414,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #icedcoffeehour
 
-## 47-the-iced-bloom-hour.mp4 (28s)
+## 47-the-iced-bloom-hour.mp4 (31s)
 
 How much would Greg pay to rename the show the Iced Bloom Hour?
 
@@ -423,7 +423,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #icedcoffeehour #bloom #funny
 
-## 48-why-bloom-won-t-go-public.mp4 (26s)
+## 48-why-bloom-won-t-go-public.mp4 (31s)
 
 Greg LaVecchia on why he'd never take Bloom public.
 
@@ -432,7 +432,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 49-why-rich-founders-get-divorced.mp4 (46s)
+## 49-why-rich-founders-get-divorced.mp4 (53s)
 
 Greg LaVecchia on why so many successful entrepreneurs lose their families.
 
