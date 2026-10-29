@@ -72,7 +72,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #heartbreak #relationships #perspective
 
-## 09-quincy-jones-divorce-advice-to-will-smit.mp4 (73s)
+## 09-quincy-jones-divorce-advice-to-will-smit.mp4 (63s)
 
 Will Smith was going to war over his first divorce. Quincy Jones told him to give her half and move down the street.
 
@@ -126,7 +126,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #selfsabotage #shame #psychology
 
-## 15-the-more-you-hide-it-the-more-power-it-h.mp4 (41s)
+## 15-the-more-you-hide-it-the-more-power-it-h.mp4 (45s)
 
 The more you hide your shame, the more power it has over you. Mark Manson on the isolation spiral.
 
@@ -207,7 +207,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #comparison #socialmedia #solvedpodcast
 
-## 24-where-his-food-compulsion-came-from.mp4 (46s)
+## 24-where-his-food-compulsion-came-from.mp4 (42s)
 
 Mark Manson traced his panic around food back to being 11 with no dinner while his home life fell apart.
 
@@ -261,7 +261,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #cancelculture #socialmedia #psychology
 
-## 30-aa-is-a-shame-alleviation-machine.mp4 (43s)
+## 30-aa-is-a-shame-alleviation-machine.mp4 (47s)
 
 Mark Manson's realisation: Alcoholics Anonymous is one giant shame alleviation machine.
 
