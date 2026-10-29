@@ -1,4 +1,4 @@
-09-started-bloom-with-20k: dist p10/50/90/max [7.3, 25.6, 96.8, 97.9] broll []
-25-wanting-more-is-a-good-thing: dist p10/50/90/max [3.6, 12.2, 41.3, 88.6] broll [(25.8, 30.2), (36.8, 43.2)]
-42-energy-drinks-will-beat-water: dist p10/50/90/max [5.0, 11.2, 21.8, 32.4] broll []
-58-the-only-one-clapping-for-myself: dist p10/50/90/max [3.5, 11.1, 58.1, 102.1] broll [(24.4, 29.4)]
+10-easier-than-ever-to-make-a-million: dist p10/50/90/max [3.8, 11.4, 85.1, 104.7] broll [(20.8, 27.0)]
+26-how-targeted-ads-got: dist p10/50/90/max [6.3, 13.6, 53.5, 57.8] broll [(8.0, 16.2)]
+43-getting-fat-on-purpose-for-views: dist p10/50/90/max [8.8, 20.4, 28.4, 33.0] broll []
+59-entrepreneurship-is-gta-in-real-life: dist p10/50/90/max [6.8, 14.7, 79.1, 81.4] broll [(18.4, 23.4)]

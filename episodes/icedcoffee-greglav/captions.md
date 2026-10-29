@@ -72,7 +72,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #amazon #business
 
-## 09-started-bloom-with-20k.mp4 (31s)
+## 09-started-bloom-with-20k.mp4 (34s)
 
 Greg started Bloom with $20,000, the minimum order at a third-party manufacturer. No warehouse, no trucks, just Shopify.
 
@@ -81,7 +81,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #entrepreneur
 
-## 10-easier-than-ever-to-make-a-million.mp4 (42s)
+## 10-easier-than-ever-to-make-a-million.mp4 (38s)
 
 Greg LaVecchia on why the arena doors are wide open for young entrepreneurs right now.
 
@@ -216,7 +216,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #career #mindset #icedcoffeehour
 
-## 25-wanting-more-is-a-good-thing.mp4 (43s)
+## 25-wanting-more-is-a-good-thing.mp4 (47s)
 
 Greg LaVecchia: you're ungrateful if you don't take the opportunity to create value.
 
@@ -225,7 +225,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #entrepreneur
 
-## 26-how-targeted-ads-got.mp4 (43s)
+## 26-how-targeted-ads-got.mp4 (38s)
 
 Greg on how Facebook ads went from 'are you a woman' to finding Karen in Kansas.
 
@@ -369,7 +369,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #tiktokshop #sidehustle #business
 
-## 42-energy-drinks-will-beat-water.mp4 (23s)
+## 42-energy-drinks-will-beat-water.mp4 (26s)
 
 Greg LaVecchia: energy drinks are on track to outsell water at Walmart.
 
@@ -378,7 +378,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #energydrink #business #walmart
 
-## 43-getting-fat-on-purpose-for-views.mp4 (36s)
+## 43-getting-fat-on-purpose-for-views.mp4 (32s)
 
 Greg would bulk to 245 lbs on purpose because it went viral on Instagram.
 
@@ -513,7 +513,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #entrepreneur #mindset
 
-## 58-the-only-one-clapping-for-myself.mp4 (37s)
+## 58-the-only-one-clapping-for-myself.mp4 (41s)
 
 Greg LaVecchia on the years when nothing was working and he had to drag himself out of bed.
 
@@ -522,7 +522,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #motivation #discipline #entrepreneur
 
-## 59-entrepreneurship-is-gta-in-real-life.mp4 (34s)
+## 59-entrepreneurship-is-gta-in-real-life.mp4 (31s)
 
 Greg LaVecchia: entrepreneurship isn't a sacrifice of your 20s, it's playing GTA in real life.
 
