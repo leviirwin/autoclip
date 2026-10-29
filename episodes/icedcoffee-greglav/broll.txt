@@ -1,4 +1,4 @@
-42-energy-drinks-will-beat-water: dist p10/50/90/max [5.0, 11.2, 21.8, 32.4] broll []
-43-getting-fat-on-purpose-for-views: dist p10/50/90/max [8.8, 20.4, 28.4, 33.0] broll [(9.0, 10.2), (11.0, 13.4), (20.6, 21.6), (33.4, 36.0)]
-44-tupperware-on-a-private-jet: dist p10/50/90/max [2.1, 16.3, 57.7, 63.8] broll [(2.2, 12.0), (18.8, 19.4)]
-45-a-gram-of-caffeine-a-day: dist p10/50/90/max [2.4, 7.4, 16.1, 37.0] broll [(11.8, 14.0)]
+30-the-grind-is-a-cubicle: dist p10/50/90/max [6.0, 19.4, 72.0, 75.8] broll [(2.2, 6.0), (18.0, 18.4), (20.4, 31.0)]
+31-why-bloom-will-beat-celsius: dist p10/50/90/max [10.7, 24.3, 34.2, 36.8] broll [(0.4, 2.8), (3.6, 7.8), (19.6, 20.2), (22.0, 24.0)]
+32-seven-employees-one-bathroom: dist p10/50/90/max [10.2, 15.9, 23.2, 38.4] broll [(19.6, 20.6)]
+33-raising-a-rich-kid: dist p10/50/90/max [1.4, 14.8, 87.9, 93.5] broll [(6.2, 8.6), (14.2, 19.8)]

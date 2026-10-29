@@ -261,7 +261,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #grind #entrepreneur #mindset
 
-## 30-the-grind-is-a-cubicle.mp4 (36s)
+## 30-the-grind-is-a-cubicle.mp4 (30s)
 
 Greg LaVecchia: the grind is a tiny cubicle under fluorescent lights. Everything else is a game.
 
@@ -270,7 +270,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #icedcoffeehour
 
-## 31-why-bloom-will-beat-celsius.mp4 (24s)
+## 31-why-bloom-will-beat-celsius.mp4 (22s)
 
 Greg LaVecchia on why founder-led companies beat companies run by suits.
 
@@ -279,7 +279,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #celsius #business
 
-## 32-seven-employees-one-bathroom.mp4 (21s)
+## 32-seven-employees-one-bathroom.mp4 (19s)
 
 Bloom's first HQ was a one-bedroom Airbnb. Seven employees, one bathroom.
 
@@ -288,7 +288,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #icedcoffeehour
 
-## 33-raising-a-rich-kid.mp4 (32s)
+## 33-raising-a-rich-kid.mp4 (30s)
 
 Greg LaVecchia on making sure his son still faces real challenges.
 
@@ -369,7 +369,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #tiktokshop #sidehustle #business
 
-## 42-energy-drinks-will-beat-water.mp4 (23s)
+## 42-energy-drinks-will-beat-water.mp4 (26s)
 
 Greg LaVecchia: energy drinks are on track to outsell water at Walmart.
 
@@ -378,7 +378,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #energydrink #business #walmart
 
-## 43-getting-fat-on-purpose-for-views.mp4 (32s)
+## 43-getting-fat-on-purpose-for-views.mp4 (36s)
 
 Greg would bulk to 245 lbs on purpose because it went viral on Instagram.
 
@@ -387,7 +387,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #health #icedcoffeehour
 
-## 44-tupperware-on-a-private-jet.mp4 (27s)
+## 44-tupperware-on-a-private-jet.mp4 (38s)
 
 Greg brings chicken thighs in Tupperware on the private jet.
 
@@ -396,7 +396,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #discipline #icedcoffeehour
 
-## 45-a-gram-of-caffeine-a-day.mp4 (29s)
+## 45-a-gram-of-caffeine-a-day.mp4 (32s)
 
 Greg LaVecchia drinks somewhere between 700mg and a gram of caffeine a day.
 
