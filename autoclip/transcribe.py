@@ -28,6 +28,7 @@ def transcribe(video_path, out_dir, model_size="small", language="en", names=Non
         if seg.words:
             print(f"  transcribed to {seg.end / 60:5.1f} / {info.duration / 60:.1f} min", flush=True)
 
+    words = join_fragments(words)
     lines = group_lines(words)
     (out_dir / "transcript.json").write_text(json.dumps({"words": words, "lines": lines}, indent=1))
     (out_dir / "transcript.txt").write_text(format_lines(lines))
@@ -43,6 +44,20 @@ def load_audio(path, sr=16000):
         check=True, capture_output=True,
     ).stdout
     return np.frombuffer(raw, np.float32)
+
+
+def join_fragments(words):
+    """Glue pieces Whisper splits off a word back on: "$15" ",000" -> "$15,000", "2" ".4" ->
+    "2.4", "e" "-commerce" -> "e-commerce", "95" "%" -> "95%"."""
+    out = []
+    for w in words:
+        if out and w["word"][0] in ".,%-" and len(w["word"]) > 1 or out and w["word"] == "%":
+            prev = out[-1]
+            if prev["word"][-1].isalnum() and w["start"] - prev["end"] < 0.3:
+                out[-1] = dict(prev, word=prev["word"] + w["word"], end=w["end"])
+                continue
+        out.append(w)
+    return out
 
 
 def group_lines(words):

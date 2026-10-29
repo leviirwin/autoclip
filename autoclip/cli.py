@@ -9,6 +9,7 @@ from pathlib import Path
 from .download import download
 from .render import render_clip, slugify
 from .style import PRESETS, resolve
+from .transcribe import join_fragments
 
 WORK = Path.home() / "autoclip-work"
 LOCAL_MODEL = Path(__file__).resolve().parent.parent / "models" / "whisper-small"
@@ -72,7 +73,7 @@ def cmd_render(args):
     video = source_video(d)
     words = json.loads((d / "transcript.json").read_text())["words"]
     spec = json.loads((d / "clips.json").read_text())
-    words = apply_corrections(words, spec.get("corrections", {}))
+    words = apply_corrections(join_fragments(words), spec.get("corrections", {}))
     clips = spec["clips"]
     out = d / "out"
     out.mkdir(parents=True, exist_ok=True)
