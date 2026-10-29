@@ -77,7 +77,9 @@ jobs:
           d=~/autoclip-work/$NAME
           tools/save_to_episodes.sh "$NAME" "Rendered: $NAME" $d/*.preview.jpg $d/out/captions.md $d/broll.txt
           tag=clips-$NAME
+          # Parallel batch renders can race to create the release; losing the race is fine.
           gh release view "$tag" >/dev/null 2>&1 || \
-            gh release create "$tag" --target main --title "Clips: $NAME" --notes-file $d/out/captions.md
+            gh release create "$tag" --target main --title "Clips: $NAME" --notes-file $d/out/captions.md || \
+            gh release view "$tag" >/dev/null
           gh release upload "$tag" $d/out/*.mp4 $d/out/captions.md --clobber
           echo "Clips: ${{ github.server_url }}/${{ github.repository }}/releases/tag/$tag" >> $GITHUB_STEP_SUMMARY
