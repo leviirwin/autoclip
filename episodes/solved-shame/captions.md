@@ -9,7 +9,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #relationships #dating #selfawareness
 
-## 02-if-you-dated-me-in-my-20s-im-sorry.mp4 (29s)
+## 02-if-you-dated-me-in-my-20s-im-sorry.mp4 (31s)
 
 Getting engaged made Mark Manson face how he treated women in his twenties.
 
@@ -36,7 +36,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #relationships #commitment #love
 
-## 05-shame-around-sex-and-women.mp4 (48s)
+## 05-shame-around-sex-and-women.mp4 (44s)
 
 Mark Manson on how a single-mum upbringing and a first love who cheated left him resenting women.
 
@@ -144,7 +144,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #sobriety #sober #growth
 
-## 17-better-a-workaholic-than-an-alcoholic.mp4 (47s)
+## 17-better-a-workaholic-than-an-alcoholic.mp4 (52s)
 
 Mark Manson on stopping drinking and discovering how compulsive he really is.
 
@@ -171,7 +171,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #highschool #selfawareness #solvedpodcast
 
-## 20-why-mark-hired-drew.mp4 (55s)
+## 20-why-mark-hired-drew.mp4 (48s)
 
 Three identical candidates. One answer: I grew up in a trailer park. Mark Manson on when shame becomes your edge.
 
