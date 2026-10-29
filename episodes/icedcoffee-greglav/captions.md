@@ -225,7 +225,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #entrepreneur
 
-## 26-how-targeted-ads-got.mp4 (38s)
+## 26-how-targeted-ads-got.mp4 (43s)
 
 Greg on how Facebook ads went from 'are you a woman' to finding Karen in Kansas.
 
@@ -234,7 +234,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #ads #business
 
-## 27-acquisition-vs-retention.mp4 (32s)
+## 27-acquisition-vs-retention.mp4 (35s)
 
 Greg LaVecchia on the difference between selling once and building a real business.
 
@@ -243,7 +243,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #marketing
 
-## 28-what-went-wrong-with-prime.mp4 (33s)
+## 28-what-went-wrong-with-prime.mp4 (38s)
 
 Greg LaVecchia's take on Prime's rise and fall.
 
@@ -252,7 +252,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #prime #loganpaul #business
 
-## 29-the-grind-set-is-outdated.mp4 (53s)
+## 29-the-grind-set-is-outdated.mp4 (58s)
 
 Greg LaVecchia on why a 14-hour day doesn't have to feel like a grind.
 
@@ -333,7 +333,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #lifestyle #icedcoffeehour
 
-## 38-the-downside-of-money.mp4 (26s)
+## 38-the-downside-of-money.mp4 (23s)
 
 Greg LaVecchia on the Cheesecake Factory problem of having too much money.
 
@@ -342,7 +342,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #mindset #icedcoffeehour
 
-## 39-sued-every-week.mp4 (52s)
+## 39-sued-every-week.mp4 (45s)
 
 Greg on the nonsense lawsuits that start once you pass $50M in revenue.
 
@@ -351,7 +351,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 40-half-your-marketing-doesn-t-work.mp4 (47s)
+## 40-half-your-marketing-doesn-t-work.mp4 (43s)
 
 Greg LaVecchia on why chasing attribution stops you from building a real brand.
 
@@ -360,7 +360,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #branding #business
 
-## 41-stay-at-home-moms-on-tiktok-shop.mp4 (40s)
+## 41-stay-at-home-moms-on-tiktok-shop.mp4 (34s)
 
 Greg on stay-at-home moms selling $50K in one day on TikTok Shop.
 
