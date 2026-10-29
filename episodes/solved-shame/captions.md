@@ -36,7 +36,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #relationships #commitment #love
 
-## 05-shame-around-sex-and-women.mp4 (44s)
+## 05-shame-around-sex-and-women.mp4 (48s)
 
 Mark Manson on how a single-mum upbringing and a first love who cheated left him resenting women.
 
@@ -108,7 +108,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #relationships #parenting #shame
 
-## 13-the-part-of-your-life-you-pretend-isnt-t.mp4 (31s)
+## 13-the-part-of-your-life-you-pretend-isnt-t.mp4 (29s)
 
 Chances are there's one area of your life you feel so bad about that you pretend it isn't there. Mark Manson on why that backfires.
 
@@ -171,7 +171,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #highschool #selfawareness #solvedpodcast
 
-## 20-why-mark-hired-drew.mp4 (48s)
+## 20-why-mark-hired-drew.mp4 (55s)
 
 Three identical candidates. One answer: I grew up in a trailer park. Mark Manson on when shame becomes your edge.
 
@@ -243,7 +243,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #marriage #shame #trust
 
-## 28-he-wasnt-allowed-to-get-angry-until-30.mp4 (52s)
+## 28-he-wasnt-allowed-to-get-angry-until-30.mp4 (45s)
 
 Mark Manson grew up in a house where you weren't supposed to get upset. It took him until 30 to feel okay being angry.
 

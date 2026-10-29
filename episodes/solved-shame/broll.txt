@@ -1,2 +1,2 @@
-05-shame-around-sex-and-women: dist p10/50/90/max [1.5, 5.5, 9.3, 12.0] broll []
-20-why-mark-hired-drew: dist p10/50/90/max [3.5, 7.8, 12.0, 17.0] broll []
+13-the-part-of-your-life-you-pretend-isnt-t: dist p10/50/90/max [4.2, 7.9, 13.9, 31.9] broll []
+28-he-wasnt-allowed-to-get-angry-until-30: dist p10/50/90/max [1.0, 3.4, 9.2, 15.5] broll []
