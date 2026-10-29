@@ -1,6 +1,6 @@
 # Clips from icedcoffee-greglav
 
-## 01-kicked-out-of-td-bank.mp4 (56s, source 752.6-814.4s)
+## 01-kicked-out-of-td-bank.mp4 (56s)
 
 Greg LaVecchia withdrew cash every day from a student account until the bank kicked him out. Then Mari put $40K cash on the counter at Chase.
 
@@ -9,7 +9,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #entrepreneur #business
 
-## 02-paid-target-a-million-dollars.mp4 (45s, source 1978.1-2029.3s)
+## 02-paid-target-a-million-dollars.mp4 (45s)
 
 Target said 'we make one decision a year.' Greg offered them $1M to put Bloom in every store by January 1st.
 
@@ -18,7 +18,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #target #business
 
-## 03-nine-figure-days.mp4 (47s, source 691.0-745.1s)
+## 03-nine-figure-days.mp4 (47s)
 
 Greg LaVecchia on having nine-figure days and what it looks like when $100M hits your account.
 
@@ -27,7 +27,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #entrepreneur #icedcoffeehour
 
-## 04-kylie-jenner-post-did-nothing.mp4 (43s, source 2430.3-2477.5s)
+## 04-kylie-jenner-post-did-nothing.mp4 (43s)
 
 Kylie Jenner posted Bloom for free and they didn't see a single tick up in sales. Celebrity influence isn't what it used to be.
 
@@ -36,7 +36,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #marketing #kyliejenner
 
-## 05-10-million-dollar-root-beer-mistake.mp4 (39s, source 1584.0-1626.7s)
+## 05-10-million-dollar-root-beer-mistake.mp4 (39s)
 
 Bloom made $20M of root beer and had to write off $10M of it. Greg on his most expensive lesson of the year.
 
@@ -45,7 +45,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 06-family-stopped-doing-thanksgiving.mp4 (55s, source 6631.9-6694.7s)
+## 06-family-stopped-doing-thanksgiving.mp4 (55s)
 
 Greg missed five Thanksgivings building Bloom. When he finally wanted one, his family had stopped doing it.
 
@@ -54,7 +54,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #family #icedcoffeehour
 
-## 07-why-rich-founders-get-depressed.mp4 (48s, source 4466.8-4522.1s)
+## 07-why-rich-founders-get-depressed.mp4 (48s)
 
 Greg LaVecchia: you're not depressed because you made $100M, you're depressed because you stopped working.
 
@@ -63,7 +63,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 08-kicked-off-amazon.mp4 (44s, source 1499.2-1547.2s)
+## 08-kicked-off-amazon.mp4 (44s)
 
 An agency bought fake reviews without Greg knowing and Bloom got kicked off Amazon. They were 24 hours from layoffs.
 
@@ -72,7 +72,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #amazon #business
 
-## 09-started-bloom-with-20k.mp4 (31s, source 4120.3-4154.6s)
+## 09-started-bloom-with-20k.mp4 (31s)
 
 Greg started Bloom with $20,000, the minimum order at a third-party manufacturer. No warehouse, no trucks, just Shopify.
 
@@ -81,7 +81,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #entrepreneur
 
-## 10-easier-than-ever-to-make-a-million.mp4 (38s, source 63.2-105.0s)
+## 10-easier-than-ever-to-make-a-million.mp4 (38s)
 
 Greg LaVecchia on why the arena doors are wide open for young entrepreneurs right now.
 
@@ -90,7 +90,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #money #icedcoffeehour
 
-## 11-15k-all-in-on-meme-pages.mp4 (37s, source 1416.8-1457.9s)
+## 11-15k-all-in-on-meme-pages.mp4 (37s)
 
 Greg put his entire $15K bank account into meme page ads. Every follower was a bot and there was zero Shopify traffic.
 
@@ -99,7 +99,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #entrepreneur #business
 
-## 12-what-he-bought-with-100-million.mp4 (50s, source 917.7-973.4s)
+## 12-what-he-bought-with-100-million.mp4 (50s)
 
 Greg LaVecchia's first big purchase after his nine-figure day: a $20M+ house in Aspen.
 
@@ -108,7 +108,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #aspen #icedcoffeehour
 
-## 13-celsius-only-won-because-of-pepsi.mp4 (20s, source 3852.5-3875.4s)
+## 13-celsius-only-won-because-of-pepsi.mp4 (20s)
 
 Greg LaVecchia's blunt take on why Celsius is successful.
 
@@ -117,7 +117,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #celsius #energydrink #business
 
-## 14-red-bull-has-its-own-airport.mp4 (33s, source 3934.8-3972.4s)
+## 14-red-bull-has-its-own-airport.mp4 (33s)
 
 Red Bull's HQ has its own airport. Greg thinks it's worth at least a quarter trillion dollars.
 
@@ -126,7 +126,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #business #energydrink
 
-## 15-new-7-dollar-shirt-every-day.mp4 (34s, source 5168.4-5205.8s)
+## 15-new-7-dollar-shirt-every-day.mp4 (34s)
 
 Greg wears a new $7 Uniqlo tee almost every day and donates it after.
 
@@ -135,7 +135,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #uniqlo #money #icedcoffeehour
 
-## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (32s, source 6316.5-6353.9s)
+## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (32s)
 
 Jay Cutler sent Greg dog peanut butter. Bailey got one scoop.
 
@@ -144,7 +144,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #jaycutler #funny #icedcoffeehour
 
-## 17-not-the-smartest-in-the-room.mp4 (24s, source 6947.8-6974.5s)
+## 17-not-the-smartest-in-the-room.mp4 (24s)
 
 Greg LaVecchia on why he optimizes his health: he needs to be a 10/10 to compete with someone else's 7/10.
 
@@ -153,7 +153,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #health #entrepreneur
 
-## 18-why-men-will-drink-bloom.mp4 (20s, source 2943.7-2966.8s)
+## 18-why-men-will-drink-bloom.mp4 (20s)
 
 Greg's theory on why Bloom won't stay a 'female' energy drink.
 
@@ -162,7 +162,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #monster #marketing
 
-## 19-won-t-write-off-private-jets.mp4 (52s, source 5366.8-5427.3s)
+## 19-won-t-write-off-private-jets.mp4 (52s)
 
 Greg spends around $500K a month but refuses to write off his private jets as a business expense.
 
@@ -171,7 +171,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #privatejet #business
 
-## 20-wanted-a-green-jet.mp4 (28s, source 1076.3-1109.7s)
+## 20-wanted-a-green-jet.mp4 (28s)
 
 Greg wanted a green G200 jet. His wealth team had other ideas.
 
@@ -180,7 +180,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #privatejet #money #icedcoffeehour
 
-## 21-toxic-abundance-mindset.mp4 (56s, source 1117.1-1179.2s)
+## 21-toxic-abundance-mindset.mp4 (56s)
 
 Greg bought a $4.5M house he couldn't afford and it pushed him to build Bloom harder.
 
@@ -189,7 +189,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #money #entrepreneur
 
-## 22-2-4-gpa-chip-on-his-shoulder.mp4 (40s, source 477.7-521.8s)
+## 22-2-4-gpa-chip-on-his-shoulder.mp4 (40s)
 
 Greg grew up with ADHD and a 2.4 GPA in a town obsessed with academia. That chip on his shoulder fueled everything.
 
@@ -198,7 +198,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #adhd #entrepreneur #mindset
 
-## 23-successful-founders-aren-t-normal.mp4 (28s, source 445.3-475.9s)
+## 23-successful-founders-aren-t-normal.mp4 (28s)
 
 Greg LaVecchia on why exceptional entrepreneurs are a little 'tweaked out'.
 
@@ -207,7 +207,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 24-lies-from-the-last-generation.mp4 (42s, source 104.9-151.7s)
+## 24-lies-from-the-last-generation.mp4 (42s)
 
 Greg LaVecchia on the career advice from our parents that no longer works.
 
@@ -216,7 +216,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #career #mindset #icedcoffeehour
 
-## 25-wanting-more-is-a-good-thing.mp4 (43s, source 534.8-581.5s)
+## 25-wanting-more-is-a-good-thing.mp4 (43s)
 
 Greg LaVecchia: you're ungrateful if you don't take the opportunity to create value.
 
@@ -225,7 +225,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #entrepreneur
 
-## 26-how-targeted-ads-got.mp4 (38s, source 2677.5-2720.2s)
+## 26-how-targeted-ads-got.mp4 (38s)
 
 Greg on how Facebook ads went from 'are you a woman' to finding Karen in Kansas.
 
@@ -234,7 +234,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #ads #business
 
-## 27-acquisition-vs-retention.mp4 (32s, source 2582.7-2617.7s)
+## 27-acquisition-vs-retention.mp4 (32s)
 
 Greg LaVecchia on the difference between selling once and building a real business.
 
@@ -243,7 +243,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #marketing
 
-## 28-what-went-wrong-with-prime.mp4 (33s, source 2315.9-2353.9s)
+## 28-what-went-wrong-with-prime.mp4 (33s)
 
 Greg LaVecchia's take on Prime's rise and fall.
 
@@ -252,7 +252,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #prime #loganpaul #business
 
-## 29-the-grind-set-is-outdated.mp4 (53s, source 4245.0-4302.3s)
+## 29-the-grind-set-is-outdated.mp4 (53s)
 
 Greg LaVecchia on why a 14-hour day doesn't have to feel like a grind.
 
@@ -261,7 +261,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #grind #entrepreneur #mindset
 
-## 30-the-grind-is-a-cubicle.mp4 (30s, source 4418.1-4453.6s)
+## 30-the-grind-is-a-cubicle.mp4 (30s)
 
 Greg LaVecchia: the grind is a tiny cubicle under fluorescent lights. Everything else is a game.
 
@@ -270,7 +270,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #icedcoffeehour
 
-## 31-why-bloom-will-beat-celsius.mp4 (22s, source 4522.0-4545.9s)
+## 31-why-bloom-will-beat-celsius.mp4 (22s)
 
 Greg LaVecchia on why founder-led companies beat companies run by suits.
 
@@ -279,7 +279,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #celsius #business
 
-## 32-seven-employees-one-bathroom.mp4 (19s, source 4558.6-4579.1s)
+## 32-seven-employees-one-bathroom.mp4 (19s)
 
 Bloom's first HQ was a one-bedroom Airbnb. Seven employees, one bathroom.
 
@@ -288,7 +288,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #icedcoffeehour
 
-## 33-raising-a-rich-kid.mp4 (30s, source 4632.6-4665.1s)
+## 33-raising-a-rich-kid.mp4 (32s)
 
 Greg LaVecchia on making sure his son still faces real challenges.
 
@@ -297,7 +297,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #parenting #money #icedcoffeehour
 
-## 34-he-had-no-mentors.mp4 (38s, source 4712.5-4756.0s)
+## 34-he-had-no-mentors.mp4 (43s)
 
 Greg didn't ask anyone for advice for the first eight years of Bloom.
 
@@ -306,7 +306,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mentor #entrepreneur #mindset
 
-## 35-being-lean-is-a-status-symbol.mp4 (46s, source 6421.5-6472.9s)
+## 35-being-lean-is-a-status-symbol.mp4 (52s)
 
 Greg LaVecchia: anyone can buy an AP. Being in shape is the status symbol you can't buy.
 
@@ -315,7 +315,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #mindset #icedcoffeehour
 
-## 36-stop-wearing-a-suit.mp4 (39s, source 6548.6-6592.3s)
+## 36-stop-wearing-a-suit.mp4 (44s)
 
 Greg was about to buy a suit to pitch investors. His friends told him to just be himself.
 
@@ -324,7 +324,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #authenticity #entrepreneur #business
 
-## 37-hiring-a-chef-ruined-dinner.mp4 (34s, source 5540.5-5578.0s)
+## 37-hiring-a-chef-ruined-dinner.mp4 (37s)
 
 Greg hired a chef and lost his favorite part of the day: cooking with his wife.
 
@@ -333,7 +333,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #lifestyle #icedcoffeehour
 
-## 38-the-downside-of-money.mp4 (23s, source 5455.7-5482.0s)
+## 38-the-downside-of-money.mp4 (26s)
 
 Greg LaVecchia on the Cheesecake Factory problem of having too much money.
 
@@ -342,7 +342,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #mindset #icedcoffeehour
 
-## 39-sued-every-week.mp4 (45s, source 5590.6-5642.2s)
+## 39-sued-every-week.mp4 (52s)
 
 Greg on the nonsense lawsuits that start once you pass $50M in revenue.
 
@@ -351,7 +351,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 40-half-your-marketing-doesn-t-work.mp4 (43s, source 3497.3-3544.3s)
+## 40-half-your-marketing-doesn-t-work.mp4 (47s)
 
 Greg LaVecchia on why chasing attribution stops you from building a real brand.
 
@@ -360,7 +360,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #branding #business
 
-## 41-stay-at-home-moms-on-tiktok-shop.mp4 (34s, source 3440.5-3480.5s)
+## 41-stay-at-home-moms-on-tiktok-shop.mp4 (40s)
 
 Greg on stay-at-home moms selling $50K in one day on TikTok Shop.
 
@@ -369,7 +369,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #tiktokshop #sidehustle #business
 
-## 42-energy-drinks-will-beat-water.mp4 (23s, source 2996.3-3022.3s)
+## 42-energy-drinks-will-beat-water.mp4 (26s)
 
 Greg LaVecchia: energy drinks are on track to outsell water at Walmart.
 
@@ -378,7 +378,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #energydrink #business #walmart
 
-## 43-getting-fat-on-purpose-for-views.mp4 (32s, source 6885.4-6921.5s)
+## 43-getting-fat-on-purpose-for-views.mp4 (36s)
 
 Greg would bulk to 245 lbs on purpose because it went viral on Instagram.
 
@@ -387,7 +387,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #health #icedcoffeehour
 
-## 44-tupperware-on-a-private-jet.mp4 (27s, source 6820.3-6853.0s)
+## 44-tupperware-on-a-private-jet.mp4 (38s)
 
 Greg brings chicken thighs in Tupperware on the private jet.
 
@@ -396,7 +396,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #fitness #discipline #icedcoffeehour
 
-## 45-a-gram-of-caffeine-a-day.mp4 (29s, source 7501.3-7533.6s)
+## 45-a-gram-of-caffeine-a-day.mp4 (32s)
 
 Greg LaVecchia drinks somewhere between 700mg and a gram of caffeine a day.
 
@@ -405,7 +405,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #caffeine #bloom #icedcoffeehour
 
-## 46-would-he-sell-for-3-billion.mp4 (39s, source 7583.2-7628.0s)
+## 46-would-he-sell-for-3-billion.mp4 (45s)
 
 Would Greg sell Bloom for $3 billion cash today?
 
@@ -414,7 +414,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #icedcoffeehour
 
-## 47-the-iced-bloom-hour.mp4 (28s, source 7705.3-7735.8s)
+## 47-the-iced-bloom-hour.mp4 (31s)
 
 How much would Greg pay to rename the show the Iced Bloom Hour?
 
@@ -423,7 +423,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #icedcoffeehour #bloom #funny
 
-## 48-why-bloom-won-t-go-public.mp4 (26s, source 7674.4-7705.4s)
+## 48-why-bloom-won-t-go-public.mp4 (31s)
 
 Greg LaVecchia on why he'd never take Bloom public.
 
@@ -432,7 +432,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 49-why-rich-founders-get-divorced.mp4 (46s, source 5746.9-5800.0s)
+## 49-why-rich-founders-get-divorced.mp4 (53s)
 
 Greg LaVecchia on why so many successful entrepreneurs lose their families.
 
@@ -441,7 +441,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mentalhealth #icedcoffeehour
 
-## 50-adhd-as-a-superpower.mp4 (37s, source 5910.9-5953.7s)
+## 50-adhd-as-a-superpower.mp4 (43s)
 
 Greg was put on ADHD meds at nine. Now he calls it his superpower.
 
@@ -450,7 +450,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #adhd #mindset #icedcoffeehour
 
-## 51-go-all-in-on-one-thing.mp4 (28s, source 5966.2-5996.4s)
+## 51-go-all-in-on-one-thing.mp4 (30s)
 
 Greg doesn't invest in other businesses or sit on boards. He's 100% in Bloom.
 
@@ -459,7 +459,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #focus #entrepreneur #business
 
-## 52-bloom-s-first-target-fail.mp4 (45s, source 4953.4-5002.7s)
+## 52-bloom-s-first-target-fail.mp4 (49s)
 
 Bloom's first Target product kept falling over, and nobody could find the 'B' brand on Amazon.
 
@@ -468,7 +468,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #target #business
 
-## 53-designing-a-can-for-influencers.mp4 (42s, source 4864.8-4911.4s)
+## 53-designing-a-can-for-influencers.mp4 (47s)
 
 Greg designed the Bloom can so the logo shows when an influencer holds it.
 
@@ -477,7 +477,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #branding #marketing
 
-## 54-never-done-laundry.mp4 (36s, source 5050.7-5091.0s)
+## 54-never-done-laundry.mp4 (41s)
 
 Greg LaVecchia on what money actually bought him: the freedom to delegate.
 
@@ -486,7 +486,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #lifestyle #icedcoffeehour
 
-## 55-red-bull-hasn-t-changed-in-40-years.mp4 (45s, source 3978.1-4027.8s)
+## 55-red-bull-hasn-t-changed-in-40-years.mp4 (50s)
 
 Greg LaVecchia on why Red Bull tastes the same as it did 40 years ago.
 
@@ -495,7 +495,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #energydrink #bloom
 
-## 56-missed-five-christmases.mp4 (21s, source 1247.9-1270.6s)
+## 56-missed-five-christmases.mp4 (23s)
 
 Greg missed five Thanksgivings and five Christmases because the next day was the biggest sales day of the year.
 
@@ -504,7 +504,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #sacrifice #icedcoffeehour
 
-## 57-the-11-year-overnight-success.mp4 (39s, source 341.2-383.7s)
+## 57-the-11-year-overnight-success.mp4 (42s)
 
 Bloom looks like a two-year overnight success. It's actually 11 years in the making.
 
@@ -513,7 +513,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #entrepreneur #mindset
 
-## 58-the-only-one-clapping-for-myself.mp4 (37s, source 605.9-647.4s)
+## 58-the-only-one-clapping-for-myself.mp4 (41s)
 
 Greg LaVecchia on the years when nothing was working and he had to drag himself out of bed.
 
@@ -522,7 +522,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #motivation #discipline #entrepreneur
 
-## 59-entrepreneurship-is-gta-in-real-life.mp4 (31s, source 4209.8-4244.0s)
+## 59-entrepreneurship-is-gta-in-real-life.mp4 (34s)
 
 Greg LaVecchia: entrepreneurship isn't a sacrifice of your 20s, it's playing GTA in real life.
 
@@ -531,7 +531,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #motivation #icedcoffeehour
 
-## 60-optimized-feels-like-adderall.mp4 (28s, source 6771.2-6802.0s)
+## 60-optimized-feels-like-adderall.mp4 (31s)
 
 Greg LaVecchia on knowing whether you're a 7 or a 10 out of 10.
 
@@ -540,7 +540,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #health #performance #icedcoffeehour
 
-## 61-don-t-multiply-by-zero.mp4 (36s, source 7014.2-7054.5s)
+## 61-don-t-multiply-by-zero.mp4 (40s)
 
 Greg LaVecchia's simplest health advice: don't multiply by zero.
 
@@ -549,7 +549,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #health #mindset #icedcoffeehour
 
-## 62-what-a-can-of-bloom-really-costs.mp4 (41s, source 1675.4-1720.3s)
+## 62-what-a-can-of-bloom-really-costs.mp4 (45s)
 
 Greg breaks down who takes a cut of a $2.50 can, and Target charging him $1M for a shelf.
 
@@ -558,7 +558,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #target
 
-## 63-first-impressions-in-20-seconds.mp4 (18s, source 6522.9-6543.1s)
+## 63-first-impressions-in-20-seconds.mp4 (20s)
 
 Greg LaVecchia's 20-second first impression rule.
 
@@ -567,7 +567,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #firstimpression #style #icedcoffeehour
 
-## 64-100k-hyperbaric-chamber.mp4 (31s, source 6237.1-6270.3s)
+## 64-100k-hyperbaric-chamber.mp4 (34s)
 
 Greg LaVecchia on his $100K hyperbaric chamber, sauna and why he's open about TRT.
 
@@ -576,7 +576,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #biohacking #health #icedcoffeehour
 
-## 65-is-this-natural.mp4 (41s, source 6131.5-6176.5s)
+## 65-is-this-natural.mp4 (45s)
 
 Greg LaVecchia is open about TRT and why it helps his ADHD.
 
