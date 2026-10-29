@@ -63,7 +63,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #marriage #relationships #family
 
-## 08-what-his-grandma-said-about-his-breakup.mp4 (60s)
+## 08-what-his-grandma-said-about-his-breakup.mp4 (54s)
 
 Mark Manson told his grandma about the girl who cheated on him and left. She said: that's wonderful.
 
@@ -72,7 +72,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #heartbreak #relationships #perspective
 
-## 09-quincy-jones-divorce-advice-to-will-smit.mp4 (63s)
+## 09-quincy-jones-divorce-advice-to-will-smit.mp4 (73s)
 
 Will Smith was going to war over his first divorce. Quincy Jones told him to give her half and move down the street.
 
@@ -198,7 +198,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #socialmedia #values #selfimprovement
 
-## 23-why-does-he-have-more-followers-than-me.mp4 (44s)
+## 23-why-does-he-have-more-followers-than-me.mp4 (39s)
 
 Mark Manson catches himself asking why someone else has three million followers. Then he asks how old he is.
 
@@ -207,7 +207,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #comparison #socialmedia #solvedpodcast
 
-## 24-where-his-food-compulsion-came-from.mp4 (42s)
+## 24-where-his-food-compulsion-came-from.mp4 (46s)
 
 Mark Manson traced his panic around food back to being 11 with no dinner while his home life fell apart.
 
