@@ -45,7 +45,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 06-family-stopped-doing-thanksgiving.mp4 (55s)
+## 06-family-stopped-doing-thanksgiving.mp4 (63s)
 
 Greg missed five Thanksgivings building Bloom. When he finally wanted one, his family had stopped doing it.
 
@@ -54,7 +54,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #family #icedcoffeehour
 
-## 07-why-rich-founders-get-depressed.mp4 (48s)
+## 07-why-rich-founders-get-depressed.mp4 (55s)
 
 Greg LaVecchia: you're not depressed because you made $100M, you're depressed because you stopped working.
 
@@ -63,7 +63,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 08-kicked-off-amazon.mp4 (44s)
+## 08-kicked-off-amazon.mp4 (48s)
 
 An agency bought fake reviews without Greg knowing and Bloom got kicked off Amazon. They were 24 hours from layoffs.
 
@@ -72,7 +72,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #amazon #business
 
-## 09-started-bloom-with-20k.mp4 (31s)
+## 09-started-bloom-with-20k.mp4 (34s)
 
 Greg started Bloom with $20,000, the minimum order at a third-party manufacturer. No warehouse, no trucks, just Shopify.
 
@@ -81,7 +81,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #entrepreneur
 
-## 10-easier-than-ever-to-make-a-million.mp4 (38s)
+## 10-easier-than-ever-to-make-a-million.mp4 (42s)
 
 Greg LaVecchia on why the arena doors are wide open for young entrepreneurs right now.
 
@@ -513,7 +513,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #entrepreneur #mindset
 
-## 58-the-only-one-clapping-for-myself.mp4 (41s)
+## 58-the-only-one-clapping-for-myself.mp4 (37s)
 
 Greg LaVecchia on the years when nothing was working and he had to drag himself out of bed.
 
@@ -522,7 +522,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #motivation #discipline #entrepreneur
 
-## 59-entrepreneurship-is-gta-in-real-life.mp4 (34s)
+## 59-entrepreneurship-is-gta-in-real-life.mp4 (31s)
 
 Greg LaVecchia: entrepreneurship isn't a sacrifice of your 20s, it's playing GTA in real life.
 
@@ -531,7 +531,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #motivation #icedcoffeehour
 
-## 60-optimized-feels-like-adderall.mp4 (31s)
+## 60-optimized-feels-like-adderall.mp4 (28s)
 
 Greg LaVecchia on knowing whether you're a 7 or a 10 out of 10.
 
@@ -540,7 +540,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #health #performance #icedcoffeehour
 
-## 61-don-t-multiply-by-zero.mp4 (40s)
+## 61-don-t-multiply-by-zero.mp4 (36s)
 
 Greg LaVecchia's simplest health advice: don't multiply by zero.
 
