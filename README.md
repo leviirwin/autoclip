@@ -20,6 +20,7 @@ Everything runs locally with free tools (ffmpeg, yt-dlp, faster-whisper, OpenCV)
 is no API cost: the clip choosing happens in the Claude session itself.
 
 Network access needed: PyPI and npm (the Whisper model is fetched from an npm copy, since
-Hugging Face is often blocked in cloud sessions), plus YouTube if downloading from there.
+Hugging Face is often blocked in cloud sessions), plus YouTube (`*.youtube.com`, `*.googlevideo.com`, `*.ytimg.com`)
+or `drive.usercontent.google.com` for downloading from a link.
 The npm model is a third-party redistribution of OpenAI's Whisper small; `setup.sh` checks it
 against the checksum published with it.

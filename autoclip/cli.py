@@ -6,6 +6,7 @@ import subprocess
 import sys
 from pathlib import Path
 
+from .download import download
 from .render import render_clip, slugify
 
 WORK = Path.home() / "autoclip-work"
@@ -31,10 +32,7 @@ def cmd_fetch(args):
     d = episode_dir(args.name)
     src = args.source
     if src.startswith(("http://", "https://")):
-        subprocess.run([
-            sys.executable, "-m", "yt_dlp", "-f", "bv*[height<=1080]+ba/b[height<=1080]/b",
-            "--merge-output-format", "mp4", "-o", str(d / "source.%(ext)s"), src,
-        ], check=True)
+        download(src, d)
     else:
         p = Path(src)
         if not p.exists():
@@ -96,7 +94,7 @@ def main():
     p = argparse.ArgumentParser(prog="autoclip")
     sub = p.add_subparsers(required=True)
 
-    f = sub.add_parser("fetch", help="download a URL or copy a local video into the workspace")
+    f = sub.add_parser("fetch", help="download a Google Drive/YouTube link or copy a local video into the workspace")
     f.add_argument("source")
     f.add_argument("name", help="short episode name, e.g. solved-ep42")
     f.set_defaults(func=cmd_fetch)
