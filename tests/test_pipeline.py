@@ -85,3 +85,11 @@ def test_corrections_fix_words_and_keep_punctuation():
     words = words_from("Greg Lavecia, built bloom.")
     fixed = apply_corrections(words, {"lavecia": "LaVecchia", "Bloom": "Bloom"})
     assert [w["word"] for w in fixed] == ["Greg", "LaVecchia,", "built", "Bloom."]
+
+
+def test_number_fragments_are_joined():
+    from autoclip.transcribe import join_fragments
+    words = words_from("we spent $15 ,000 at 2 .4 GPA and 95 % sure")
+    words = [dict(w, start=w["start"] - (0.15 if w["word"][0] in ",.%" else 0)) for w in words]
+    assert [w["word"] for w in join_fragments(words)] == \
+        ["we", "spent", "$15,000", "at", "2.4", "GPA", "and", "95%", "sure"]
