@@ -90,7 +90,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #relationships #peoplepleasing #codependency
 
-## 11-why-you-get-triggered-by-your-father-in-.mp4 (64s)
+## 11-why-you-get-triggered-by-your-father-in-.mp4 (59s)
 
 Mark Manson: your unconscious doesn't see individuals. A bad dad makes every father a threat, including your father-in-law.
 
@@ -117,7 +117,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #shame #selfimprovement #solvedpodcast
 
-## 14-why-you-ruin-good-things.mp4 (38s)
+## 14-why-you-ruin-good-things.mp4 (41s)
 
 When you believe you don't deserve good things, you find a way to wreck them. Mark Manson on shame and self-sabotage.
 
@@ -225,7 +225,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #family #relationships #responsibility
 
-## 26-you-are-not-unlovable.mp4 (33s)
+## 26-you-are-not-unlovable.mp4 (31s)
 
 You're not a failure, you failed at a thing. You're not unlovable, you're single right now. Mark Manson on reframing shame.
 
@@ -252,7 +252,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #family #emotions #anger
 
-## 29-join-the-mob-or-stop-caring.mp4 (47s)
+## 29-join-the-mob-or-stop-caring.mp4 (51s)
 
 Online shame at global scale leaves two reactions: join the mob or stop giving a f***. Mark Manson says both are unhealthy.
 
