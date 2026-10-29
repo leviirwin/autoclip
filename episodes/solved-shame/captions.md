@@ -18,7 +18,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #relationships #growth #solvedpodcast
 
-## 03-an-awful-boyfriend-with-a-hole-in-the-bu.mp4 (53s)
+## 03-an-awful-boyfriend-with-a-hole-in-the-bu.mp4 (55s)
 
 Mark Manson was dating constantly, cheating, and bailing whenever anyone got close. Shame was the hole in the bucket.
 
@@ -45,7 +45,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #dating #relationships #heartbreak
 
-## 06-a-shameless-person-is-a-narcissist.mp4 (60s)
+## 06-a-shameless-person-is-a-narcissist.mp4 (53s)
 
 Too little shame and you're a sociopath. Too much and you're a wreck. Mark Manson on the healthy middle.
 
@@ -153,7 +153,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #sobriety #addiction #selfawareness
 
-## 18-why-his-stepmom-still-wont-take-naps.mp4 (33s)
+## 18-why-his-stepmom-still-wont-take-naps.mp4 (38s)
 
 Mark Manson's stepmother was told napping meant she was lazy. At 65 she still won't take one.
 
@@ -180,7 +180,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #hiring #shame #solvedpodcast
 
-## 21-social-media-is-a-shame-machine.mp4 (43s)
+## 21-social-media-is-a-shame-machine.mp4 (40s)
 
 Technology turned the whole planet into your tribe. Mark Manson on why your brain can't handle it.
 
