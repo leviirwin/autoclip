@@ -18,7 +18,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #target #business
 
-## 03-nine-figure-days.mp4 (47s)
+## 03-nine-figure-days.mp4 (54s)
 
 Greg LaVecchia on having nine-figure days and what it looks like when $100M hits your account.
 
@@ -27,7 +27,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #entrepreneur #icedcoffeehour
 
-## 04-kylie-jenner-post-did-nothing.mp4 (43s)
+## 04-kylie-jenner-post-did-nothing.mp4 (47s)
 
 Kylie Jenner posted Bloom for free and they didn't see a single tick up in sales. Celebrity influence isn't what it used to be.
 
@@ -36,7 +36,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #marketing #kyliejenner
 
-## 05-10-million-dollar-root-beer-mistake.mp4 (39s)
+## 05-10-million-dollar-root-beer-mistake.mp4 (43s)
 
 Bloom made $20M of root beer and had to write off $10M of it. Greg on his most expensive lesson of the year.
 
@@ -45,7 +45,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #business #entrepreneur
 
-## 06-family-stopped-doing-thanksgiving.mp4 (55s)
+## 06-family-stopped-doing-thanksgiving.mp4 (63s)
 
 Greg missed five Thanksgivings building Bloom. When he finally wanted one, his family had stopped doing it.
 
@@ -54,7 +54,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #family #icedcoffeehour
 
-## 07-why-rich-founders-get-depressed.mp4 (48s)
+## 07-why-rich-founders-get-depressed.mp4 (55s)
 
 Greg LaVecchia: you're not depressed because you made $100M, you're depressed because you stopped working.
 
@@ -63,7 +63,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 08-kicked-off-amazon.mp4 (44s)
+## 08-kicked-off-amazon.mp4 (48s)
 
 An agency bought fake reviews without Greg knowing and Bloom got kicked off Amazon. They were 24 hours from layoffs.
 
@@ -72,7 +72,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #amazon #business
 
-## 09-started-bloom-with-20k.mp4 (31s)
+## 09-started-bloom-with-20k.mp4 (34s)
 
 Greg started Bloom with $20,000, the minimum order at a third-party manufacturer. No warehouse, no trucks, just Shopify.
 
@@ -81,7 +81,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #startup #entrepreneur
 
-## 10-easier-than-ever-to-make-a-million.mp4 (38s)
+## 10-easier-than-ever-to-make-a-million.mp4 (42s)
 
 Greg LaVecchia on why the arena doors are wide open for young entrepreneurs right now.
 
@@ -90,7 +90,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #money #icedcoffeehour
 
-## 11-15k-all-in-on-meme-pages.mp4 (37s)
+## 11-15k-all-in-on-meme-pages.mp4 (41s)
 
 Greg put his entire $15K bank account into meme page ads. Every follower was a bot and there was zero Shopify traffic.
 
@@ -99,7 +99,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #entrepreneur #business
 
-## 12-what-he-bought-with-100-million.mp4 (50s)
+## 12-what-he-bought-with-100-million.mp4 (56s)
 
 Greg LaVecchia's first big purchase after his nine-figure day: a $20M+ house in Aspen.
 
@@ -108,7 +108,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #aspen #icedcoffeehour
 
-## 13-celsius-only-won-because-of-pepsi.mp4 (20s)
+## 13-celsius-only-won-because-of-pepsi.mp4 (23s)
 
 Greg LaVecchia's blunt take on why Celsius is successful.
 
@@ -117,7 +117,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #celsius #energydrink #business
 
-## 14-red-bull-has-its-own-airport.mp4 (33s)
+## 14-red-bull-has-its-own-airport.mp4 (37s)
 
 Red Bull's HQ has its own airport. Greg thinks it's worth at least a quarter trillion dollars.
 
@@ -126,7 +126,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #redbull #business #energydrink
 
-## 15-new-7-dollar-shirt-every-day.mp4 (34s)
+## 15-new-7-dollar-shirt-every-day.mp4 (37s)
 
 Greg wears a new $7 Uniqlo tee almost every day and donates it after.
 
@@ -135,7 +135,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #uniqlo #money #icedcoffeehour
 
-## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (32s)
+## 16-ate-all-of-jay-cutler-s-dog-peanut-butte.mp4 (37s)
 
 Jay Cutler sent Greg dog peanut butter. Bailey got one scoop.
 
@@ -144,7 +144,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #jaycutler #funny #icedcoffeehour
 
-## 17-not-the-smartest-in-the-room.mp4 (24s)
+## 17-not-the-smartest-in-the-room.mp4 (27s)
 
 Greg LaVecchia on why he optimizes his health: he needs to be a 10/10 to compete with someone else's 7/10.
 
@@ -153,7 +153,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #health #entrepreneur
 
-## 18-why-men-will-drink-bloom.mp4 (20s)
+## 18-why-men-will-drink-bloom.mp4 (23s)
 
 Greg's theory on why Bloom won't stay a 'female' energy drink.
 
@@ -162,7 +162,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #monster #marketing
 
-## 19-won-t-write-off-private-jets.mp4 (52s)
+## 19-won-t-write-off-private-jets.mp4 (60s)
 
 Greg spends around $500K a month but refuses to write off his private jets as a business expense.
 
@@ -171,7 +171,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #money #privatejet #business
 
-## 20-wanted-a-green-jet.mp4 (28s)
+## 20-wanted-a-green-jet.mp4 (33s)
 
 Greg wanted a green G200 jet. His wealth team had other ideas.
 
@@ -180,7 +180,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #privatejet #money #icedcoffeehour
 
-## 21-toxic-abundance-mindset.mp4 (56s)
+## 21-toxic-abundance-mindset.mp4 (62s)
 
 Greg bought a $4.5M house he couldn't afford and it pushed him to build Bloom harder.
 
@@ -189,7 +189,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #money #entrepreneur
 
-## 22-2-4-gpa-chip-on-his-shoulder.mp4 (40s)
+## 22-2-4-gpa-chip-on-his-shoulder.mp4 (44s)
 
 Greg grew up with ADHD and a 2.4 GPA in a town obsessed with academia. That chip on his shoulder fueled everything.
 
@@ -198,7 +198,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #adhd #entrepreneur #mindset
 
-## 23-successful-founders-aren-t-normal.mp4 (28s)
+## 23-successful-founders-aren-t-normal.mp4 (30s)
 
 Greg LaVecchia on why exceptional entrepreneurs are a little 'tweaked out'.
 
@@ -207,7 +207,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #entrepreneur #mindset #icedcoffeehour
 
-## 24-lies-from-the-last-generation.mp4 (42s)
+## 24-lies-from-the-last-generation.mp4 (47s)
 
 Greg LaVecchia on the career advice from our parents that no longer works.
 
@@ -216,7 +216,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #career #mindset #icedcoffeehour
 
-## 25-wanting-more-is-a-good-thing.mp4 (43s)
+## 25-wanting-more-is-a-good-thing.mp4 (47s)
 
 Greg LaVecchia: you're ungrateful if you don't take the opportunity to create value.
 
@@ -225,7 +225,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #entrepreneur
 
-## 26-how-targeted-ads-got.mp4 (38s)
+## 26-how-targeted-ads-got.mp4 (43s)
 
 Greg on how Facebook ads went from 'are you a woman' to finding Karen in Kansas.
 
@@ -234,7 +234,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #marketing #ads #business
 
-## 27-acquisition-vs-retention.mp4 (32s)
+## 27-acquisition-vs-retention.mp4 (35s)
 
 Greg LaVecchia on the difference between selling once and building a real business.
 
@@ -252,7 +252,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #prime #loganpaul #business
 
-## 29-the-grind-set-is-outdated.mp4 (53s)
+## 29-the-grind-set-is-outdated.mp4 (58s)
 
 Greg LaVecchia on why a 14-hour day doesn't have to feel like a grind.
 
@@ -270,7 +270,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #mindset #motivation #icedcoffeehour
 
-## 31-why-bloom-will-beat-celsius.mp4 (22s)
+## 31-why-bloom-will-beat-celsius.mp4 (24s)
 
 Greg LaVecchia on why founder-led companies beat companies run by suits.
 
@@ -279,7 +279,7 @@ YouTube: @GregLaVecchia @theicedcoffeehour
 
 #greglav #bloom #celsius #business
 
-## 32-seven-employees-one-bathroom.mp4 (19s)
+## 32-seven-employees-one-bathroom.mp4 (21s)
 
 Bloom's first HQ was a one-bedroom Airbnb. Seven employees, one bathroom.
 
