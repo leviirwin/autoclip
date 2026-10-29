@@ -1,0 +1,64 @@
+{
+ "style": "fast",
+ "clips": [
+  {
+   "start": 172.9,
+   "end": 190.3,
+   "title": "Not caring is a superpower",
+   "hook": "Jimmy Carr's rule for haters",
+   "caption": "Not caring what other people think about you is a superpower. Jimmy Carr on JRE.",
+   "hashtags": [
+    "#jimmycarr",
+    "#joerogan",
+    "#mindset",
+    "#comedy"
+   ],
+   "why": "Opens on a bold quotable claim, pays off with the Robbie Williams line and Joe's reaction",
+   "emphasis": [
+    "superpower",
+    "entertainer",
+    "love"
+   ]
+  },
+  {
+   "start": 501.8,
+   "end": 536.3,
+   "title": "Anxiety vs flow state",
+   "hook": "The best definition of anxiety",
+   "caption": "Anxiety is thought without control. Flow is control without thought.",
+   "hashtags": [
+    "#anxiety",
+    "#flowstate",
+    "#jimmycarr",
+    "#joerogan"
+   ],
+   "why": "Memorable definition as the very first line, personal payoff about where his jokes come from",
+   "emphasis": [
+    "anxiety",
+    "control",
+    "flow"
+   ]
+  },
+  {
+   "start": 757.8,
+   "end": 775.3,
+   "title": "Pyramids and rockets",
+   "hook": "Pyramids and rockets are the same thing",
+   "hook_seconds": 3,
+   "caption": "Huge amounts of human effort to send a chosen few to the heavens.",
+   "hashtags": [
+    "#pyramids",
+    "#space",
+    "#jimmycarr",
+    "#joerogan"
+   ],
+   "why": "Surprising claim up front, explained in one line",
+   "emphasis": [
+    "pyramid",
+    "rocket",
+    "heavens"
+   ],
+   "style": "hype"
+  }
+ ]
+}
