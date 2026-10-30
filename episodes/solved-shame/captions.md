@@ -27,7 +27,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #dating #relationships #attachment
 
-## 04-the-rule-that-fixed-his-love-life.mp4 (60s)
+## 04-the-rule-that-fixed-his-love-life.mp4 (69s)
 
 At 27 Mark Manson made himself one promise: if there's no problem, don't create one. Then he met his wife.
 
@@ -72,7 +72,7 @@ YouTube: @solvedclips @iammarkmanson
 
 #markmanson #heartbreak #relationships #perspective
 
-## 09-quincy-jones-divorce-advice-to-will-smit.mp4 (73s)
+## 09-quincy-jones-divorce-advice-to-will-smit.mp4 (59s)
 
 Will Smith was going to war over his first divorce. Quincy Jones told him to give her half and move down the street.
 
