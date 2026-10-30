@@ -123,6 +123,38 @@ for slow, emotional moments where jump cuts would feel wrong. The `render` workf
 the `render` command take an optional `style` that overrides clips.json for a quick
 comparison.
 
+## Posting and views (social job)
+
+The `social` workflow runs every 15 minutes on GitHub Actions in this (public) repo
+(`autoclip/social.py`). It posts what is due in the post queue, refreshes every Reel's views
+hourly, comments on the "Clip alerts" issue (mentioning the user) when a clip is posted or
+passes 1,000 views, and rewrites the dashboard. Its data, the dashboard and the alerts live
+in the **private** repo `leviirwin/clip-dashboard` (default branch `main`, dashboard is its
+README: `https://github.com/leviirwin/clip-dashboard`), so account names, views and
+earnings are not public. The public job logs never name an account or a link.
+
+Files in the private repo:
+
+- `queue.txt`: one post per line, `account | release | clip | when`, e.g.
+  `@micdup.daily | clips-solved-shame | 4`. Leave `when` out to let the job space posts
+  (`min_gap_hours`, `post_hours` in `config.json`), or use `now` or `YYYY-MM-DD HH:MM`.
+  The caption comes from the release's captions.md and the campaign's tags are added.
+  When the user asks to post a batch, append lines (one clip per account, different cuts
+  per account): read the current `queue.txt` from `leviirwin/clip-dashboard` and write it
+  back with the GitHub MCP `create_or_update_file` (add the repo to the session with
+  `add_repo` first if it's out of scope; never drop lines the user wrote). Trigger
+  `social.yml` here to post `now` lines straight away.
+- `submitted.txt`: links already submitted to Content Rewards, one per line.
+- `config.json`: campaigns (name, page, rate, release prefixes, required tags), timezone,
+  posting window. Add a campaign here when the user starts a new one.
+- `state.json`, `tokens.enc`, `README.md`: written by the job; don't edit.
+
+Secrets in this repo: `IG_TOKENS` (one Instagram API token per line, one per account),
+`STATE_KEY` (any long random string; encrypts refreshed tokens), `DATA_TOKEN` (a
+fine-grained GitHub token with Contents and Issues read/write on the private repo only),
+optional `NTFY_TOPIC` for phone pushes through the ntfy app. A `DATA_REPO` variable
+overrides the private repo's name.
+
 ## Code map
 
 - `autoclip/transcribe.py`: faster-whisper, word timestamps, builds `transcript.txt`.
@@ -130,7 +162,9 @@ comparison.
   small moves, hard cut when a different face holds the frame for 0.6 s).
 - `autoclip/captions.py`: ASS subtitles, 1 to 3 words on screen, active word in yellow.
 - `.github/workflows/transcribe.yml`, `render.yml`: the GitHub Actions steps above.
-- `tools/save_to_episodes.sh`: commits files into `episodes/<name>/` on the `episodes` branch.
+- `tools/save_to_episodes.sh`: commits files into `episodes/<name>/` on the `episodes` branch
+  (a wrapper around `tools/save_to_branch.sh`).
+- `autoclip/instagram.py`, `autoclip/social.py`, `.github/workflows/social.yml`: the social job above.
 - `autoclip/style.py`: style presets, pause trimming (`Timeline` maps source time to
   output time), and zoom punches.
 - `autoclip/render.py`: snaps times to words, crops frames, encodes 1080x1920 H.264 with
