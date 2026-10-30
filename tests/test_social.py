@@ -142,3 +142,16 @@ def test_full_run_posts_syncs_and_alerts(monkeypatch, tmp_path):
     saved.clear()
     social.main()
     assert saved == []
+
+
+def test_data_repo_token_goes_in_a_header_not_a_url(monkeypatch):
+    monkeypatch.setattr(social, "DATA_REPO", "me/private")
+    monkeypatch.setenv("DATA_TOKEN", "secret123")
+    env = social.data_env()
+    assert env["SAVE_REMOTE"] == "https://github.com/me/private.git"
+    assert env["GH_TOKEN"] == "secret123"
+    assert "secret123" not in env["GIT_CONFIG_VALUE_0"] and env["GIT_CONFIG_VALUE_0"].startswith("AUTHORIZATION: basic ")
+    monkeypatch.delenv("DATA_TOKEN")
+    monkeypatch.setattr("sys.argv", ["social"])
+    with pytest.raises(SystemExit):
+        social.main()

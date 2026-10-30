@@ -1,6 +1,7 @@
 # Every 15 minutes: post the clips that are due in queue.txt, refresh view counts (hourly),
-# alert on Reels past 1,000 views and rewrite the dashboard. State lives on the `social`
-# branch; see autoclip/social.py. Needs the IG_TOKENS and STATE_KEY secrets.
+# alert on Reels past 1,000 views and rewrite the dashboard. This repo is public, so the
+# data, dashboard and alerts live in the private repo <owner>/clip-dashboard (or the DATA_REPO variable); see
+# autoclip/social.py. Secrets: IG_TOKENS, STATE_KEY, DATA_TOKEN (optional NTFY_TOPIC).
 name: social
 on:
   schedule:
@@ -34,11 +35,15 @@ jobs:
       IG_TOKENS: ${{ secrets.IG_TOKENS }}
       STATE_KEY: ${{ secrets.STATE_KEY }}
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      DATA_REPO: ${{ vars.DATA_REPO || format('{0}/clip-dashboard', github.repository_owner) }}
+      DATA_TOKEN: ${{ secrets.DATA_TOKEN }}
     steps:
+      # No stored credentials: the job only pushes to the data repo, with DATA_TOKEN.
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - name: Run
         run: |
           python3 -m autoclip.social \
             ${{ inputs.sync && '--sync' || '' }} \
             ${{ github.event_name == 'workflow_dispatch' && !inputs.post && '--no-post' || '' }}
-          echo "Dashboard: ${{ github.server_url }}/${{ github.repository }}/tree/social" >> $GITHUB_STEP_SUMMARY

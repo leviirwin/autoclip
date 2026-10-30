@@ -2,8 +2,12 @@
 an alert when one passes 1,000 views, and write the dashboard with the links to submit.
 
 Runs on GitHub Actions every 15 minutes (.github/workflows/social.yml) as
-`python3 -m autoclip.social`. Standard library only, so it starts in seconds. Everything it
-reads and writes lives on the data-only `social` branch:
+`python3 -m autoclip.social`. Standard library only, so it starts in seconds.
+
+This repo is public, so the job keeps its data, the dashboard and the alerts in a private
+repo: DATA_REPO (e.g. leviirwin/clip-dashboard, its default branch), reached with the
+DATA_TOKEN secret. The public job logs say only what happened, never which account or
+link. Without DATA_REPO it falls back to a `social` branch of this repo. The data files:
 
     config.json     campaigns, timezone, posting window, gap between posts
     queue.txt       what to post (you or Claude edit this)
@@ -13,6 +17,7 @@ reads and writes lives on the data-only `social` branch:
     README.md       the dashboard
 """
 import argparse
+import base64
 import hashlib
 import json
 import os
@@ -27,7 +32,8 @@ from zoneinfo import ZoneInfo
 
 from . import instagram as ig
 
-BRANCH = "social"
+DATA_REPO = os.environ.get("DATA_REPO", "")
+BRANCH = "main" if DATA_REPO else "social"
 ROOT = Path(__file__).resolve().parent.parent
 SYNC_EVERY = timedelta(minutes=55)
 REFRESH_EVERY = timedelta(days=7)
@@ -298,18 +304,33 @@ def load_tokens(secret, blob, key):
 
 # ---------------------------------------------------------------- the social branch
 
+def data_env():
+    """Environment for git and gh calls that touch the data repo. The token goes in as an
+    auth header through git's GIT_CONFIG_* variables, never in a URL or on a command line."""
+    env = dict(os.environ)
+    token = os.environ.get("DATA_TOKEN")
+    if DATA_REPO and token:
+        basic = base64.b64encode(f"x-access-token:{token}".encode()).decode()
+        env.update(GIT_CONFIG_COUNT="1", GIT_CONFIG_KEY_0="http.https://github.com/.extraheader",
+                   GIT_CONFIG_VALUE_0=f"AUTHORIZATION: basic {basic}", GH_TOKEN=token,
+                   SAVE_REMOTE=f"https://github.com/{DATA_REPO}.git")
+    return env
+
+
 def git(*args, check=True):
-    return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True, check=check)
+    return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True, check=check,
+                          env=data_env())
 
 
 def load_branch():
-    """{name: text} of the files on the social branch, or {} when it doesn't exist yet."""
-    if git("fetch", "-q", "--depth", "1", "origin", f"+{BRANCH}:refs/remotes/origin/{BRANCH}",
+    """{name: text} of the data files, or {} when the data branch doesn't exist yet."""
+    remote = f"https://github.com/{DATA_REPO}.git" if DATA_REPO else "origin"
+    if git("fetch", "-q", "--depth", "1", remote, f"+{BRANCH}:refs/remotes/data/{BRANCH}",
            check=False).returncode:
         return {}
     files = {}
     for name in ("config.json", "queue.txt", "submitted.txt", "state.json", "tokens.enc"):
-        r = git("show", f"origin/{BRANCH}:{name}", check=False)
+        r = git("show", f"data/{BRANCH}:{name}", check=False)
         if r.returncode == 0:
             files[name] = r.stdout
     return files
@@ -322,7 +343,7 @@ def save_branch(files, message):
             (Path(d) / name).write_text(text)
             paths.append(str(Path(d) / name))
         subprocess.run([str(ROOT / "tools" / "save_to_branch.sh"), BRANCH, ".", message, *paths],
-                       cwd=ROOT, check=True)
+                       cwd=ROOT, check=True, env=data_env())
 
 
 # ---------------------------------------------------------------- alerts
@@ -330,21 +351,23 @@ def save_branch(files, message):
 def notify(text, state, link=None):
     """A comment on the "Clip alerts" issue mentioning the repo owner (GitHub emails it and
     the GitHub app pushes it), plus a phone push through ntfy.sh if NTFY_TOPIC is set."""
-    print(f"alert: {text}")
+    print("sending an alert")
     owner = os.environ.get("GITHUB_REPOSITORY_OWNER")
-    if owner and os.environ.get("GH_TOKEN"):
+    env = data_env()
+    if owner and env.get("GH_TOKEN"):
         body = f"@{owner} {text}"
+        repo = ["--repo", DATA_REPO] if DATA_REPO else []
         num = state.get("alert_issue")
-        ok = num and subprocess.run(["gh", "issue", "comment", str(num), "--body", body],
-                                    cwd=ROOT, capture_output=True).returncode == 0
+        ok = num and subprocess.run(["gh", "issue", "comment", str(num), *repo, "--body", body],
+                                    cwd=ROOT, capture_output=True, env=env).returncode == 0
         if not ok:
-            r = subprocess.run(["gh", "issue", "create", "--title", "Clip alerts", "--body",
+            r = subprocess.run(["gh", "issue", "create", *repo, "--title", "Clip alerts", "--body",
                                 f"Posting confirmations and view alerts from the social job.\n\n{body}"],
-                               cwd=ROOT, capture_output=True, text=True)
+                               cwd=ROOT, capture_output=True, text=True, env=env)
             if r.returncode == 0:
                 state["alert_issue"] = int(r.stdout.strip().rstrip("/").rsplit("/", 1)[-1])
             else:
-                print(f"warning: could not post the alert issue: {r.stderr.strip()}", file=sys.stderr)
+                print("warning: could not post to the Clip alerts issue", file=sys.stderr)
     topic = os.environ.get("NTFY_TOPIC")
     if topic:
         headers = {"Title": "Clips"}
@@ -375,7 +398,7 @@ def post(item, account, cfg, state, now):
     with tempfile.TemporaryDirectory() as d:
         video, notes = release_files(item["release"], item["clip"], d)
         caption = with_tags(item["caption"] or caption_from_notes(notes, item["clip"]), campaign)
-        print(f"posting {item['key']}", flush=True)
+        print("posting a clip", flush=True)
         media = ig.publish_reel(account["token"], account["user_id"], video, caption)
     posted = media.get("timestamp")
     posted = (datetime.strptime(posted, "%Y-%m-%dT%H:%M:%S%z").isoformat() if posted else now.isoformat())
@@ -429,6 +452,8 @@ def main():
     p.add_argument("--no-post", action="store_true", help="don't post anything this run")
     args = p.parse_args()
     now = datetime.now(timezone.utc)
+    if DATA_REPO and not os.environ.get("DATA_TOKEN"):
+        sys.exit(f"Add the DATA_TOKEN secret: a token that can write to {DATA_REPO}.")
 
     files = load_branch()
     cfg = dict(DEFAULT_CONFIG, **json.loads(files.get("config.json") or "{}"))
@@ -494,7 +519,7 @@ def main():
             f = state["failed"].setdefault(it["key"], {"attempts": 0})
             f["attempts"] += 1
             f["error"] = err[:200]
-            print(f"posting {it['key']} failed: {err}", file=sys.stderr)
+            print("posting a clip failed (details on the dashboard)", file=sys.stderr)
             if f["attempts"] >= MAX_ATTEMPTS:
                 notify(f"Gave up posting {it['key']} after {MAX_ATTEMPTS} tries: {err[:200]}", state)
             continue
@@ -511,14 +536,14 @@ def main():
     submitted = {shortcode(line) for line in files.get("submitted.txt", "").splitlines()
                  if line.strip() and not line.startswith("#")}
     out["README.md"] = dashboard(state, cfg, items, submitted, state["problems"], now,
-                                 os.environ.get("GITHUB_REPOSITORY", ""))
+                                 DATA_REPO or os.environ.get("GITHUB_REPOSITORY", ""))
     out["state.json"] = json.dumps(state, indent=1) + "\n"
     # Between view syncs, only commit when something changed (a post, a failure, a new
     # problem), so the branch gets about a commit an hour rather than one per run.
     if did_sync or out["state.json"] != files.get("state.json") or len(out) > 2:
         save_branch({k: v for k, v in out.items() if v is not None}, f"Social update {now:%Y-%m-%d %H:%M}")
-    for problem in state["problems"]:
-        print(f"::warning::{problem}")
+    if state["problems"]:
+        print(f"::warning::{len(state['problems'])} problem(s): see Needs attention on the dashboard")
 
 
 if __name__ == "__main__":
